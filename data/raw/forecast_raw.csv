@@ -1,0 +1,750 @@
+city,country,day_of_week,date_label,temp_hi_lo,condition,feels_like,wind,wind_dir,humidity,precip_chance,precip_amount,uv,sunrise,sunset,scraped_at
+Accra,ghana,Wed,Aug 26,82 / 76 °F,Passing showers. Cloudy.,85 °F,14 mph,Wind blowing from 210° South-southwest to North-northeast,79%,39%,"0.07""",7 (High),5:55 am,6:09 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Thu,Aug 27,82 / 76 °F,Passing showers. Overcast.,85 °F,15 mph,Wind blowing from 210° South-southwest to North-northeast,79%,40%,"0.07""",7 (High),5:55 am,6:09 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Fri,Aug 28,81 / 75 °F,Showers late. Overcast.,84 °F,12 mph,Wind blowing from 220° Southwest to Northeast,79%,48%,"0.13""",7 (High),5:54 am,6:09 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Sat,Aug 29,80 / 75 °F,Passing showers. Overcast.,82 °F,13 mph,Wind blowing from 220° Southwest to Northeast,82%,55%,"0.21""",3 (Moderate),5:54 am,6:08 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Sun,Aug 30,81 / 75 °F,Passing showers. Overcast.,85 °F,13 mph,Wind blowing from 210° South-southwest to North-northeast,78%,41%,"0.07""",3 (Moderate),5:54 am,6:08 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Mon,Aug 31,84 / 75 °F,Broken clouds.,86 °F,13 mph,Wind blowing from 190° South to North,79%,3%,"0.00""",7 (High),5:54 am,6:07 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Tue,Sep 1,83 / 76 °F,Showers late. Overcast.,81 °F,15 mph,Wind blowing from 210° South-southwest to North-northeast,85%,15%,"0.02""",7 (High),5:54 am,6:07 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Wed,Sep 2,80 / 76 °F,Showers early. Morning clouds.,84 °F,14 mph,Wind blowing from 210° South-southwest to North-northeast,81%,49%,"0.01""",7 (High),5:54 am,6:06 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Thu,Sep 3,81 / 77 °F,Breaks of sun late.,85 °F,13 mph,Wind blowing from 200° South-southwest to North-northeast,78%,6%,"0.00""",7 (High),5:53 am,6:06 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Fri,Sep 4,81 / 77 °F,Sprinkles early. Mostly cloudy.,85 °F,14 mph,Wind blowing from 210° South-southwest to North-northeast,80%,52%,"0.01""",7 (High),5:53 am,6:05 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Sat,Sep 5,81 / 77 °F,Showers late. Broken clouds.,85 °F,14 mph,Wind blowing from 200° South-southwest to North-northeast,74%,43%,"0.01""",7 (High),5:53 am,6:05 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Sun,Sep 6,81 / 77 °F,Sprinkles early. Scattered clouds.,85 °F,15 mph,Wind blowing from 210° South-southwest to North-northeast,75%,48%,"0.02""",7 (High),5:53 am,6:04 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Mon,Sep 7,81 / 77 °F,Showers late. Partly cloudy.,85 °F,13 mph,Wind blowing from 200° South-southwest to North-northeast,76%,42%,"0.01""",7 (High),5:53 am,6:04 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Tue,Sep 8,81 / 77 °F,Passing showers. Mostly cloudy.,86 °F,12 mph,Wind blowing from 210° South-southwest to North-northeast,77%,56%,"0.22""",7 (High),5:53 am,6:03 pm,2026-08-26T01:42:04+00:00
+Accra,ghana,Wed,Sep 9,81 / 77 °F,Showers early. Breaks of sun late.,87 °F,12 mph,Wind blowing from 200° South-southwest to North-northeast,81%,51%,"0.02""",7 (High),5:52 am,6:03 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Tue,Aug 25,78 / 51 °F,Sunny.,78 °F,9 mph,Wind blowing from 160° South-southeast to North-northwest,42%,1%,"0.00""",3 (Moderate),6:31 am,8:39 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Wed,Aug 26,82 / 56 °F,Scattered clouds.,80 °F,18 mph,Wind blowing from 160° South-southeast to North-northwest,44%,0%,"0.00""",3 (Moderate),6:33 am,8:37 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Thu,Aug 27,83 / 59 °F,Isolated tstorms late. Mostly cloudy.,81 °F,7 mph,Wind blowing from 170° South to North,45%,15%,"0.00""",3 (Moderate),6:34 am,8:34 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Fri,Aug 28,70 / 54 °F,Mostly cloudy.,69 °F,16 mph,Wind blowing from 290° West-northwest to East-southeast,54%,17%,"0.04""",3 (Moderate),6:36 am,8:32 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Sat,Aug 29,61 / 50 °F,Light showers. Cloudy.,57 °F,13 mph,Wind blowing from 300° West-northwest to East-southeast,70%,21%,"0.09""",3 (Moderate),6:38 am,8:30 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Sun,Aug 30,68 / 47 °F,Overcast.,66 °F,6 mph,Wind blowing from 240° West-southwest to East-northeast,62%,0%,"0.00""",3 (Moderate),6:39 am,8:27 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Mon,Aug 31,76 / 51 °F,Cloudy.,77 °F,13 mph,Wind blowing from 150° South-southeast to North-northwest,40%,0%,"0.00""",3 (Moderate),6:41 am,8:25 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Tue,Sep 1,68 / 50 °F,Isolated tstorms late. Cloudy.,64 °F,8 mph,Wind blowing from 350° North to South,73%,56%,"0.15""",3 (Moderate),6:43 am,8:23 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Wed,Sep 2,65 / 49 °F,Showers early. Overcast.,65 °F,10 mph,Wind blowing from 300° West-northwest to East-southeast,56%,54%,"0.17""",0 (Low),6:45 am,8:20 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Thu,Sep 3,59 / 46 °F,Drizzle. Overcast.,54 °F,23 mph,Wind blowing from 310° Northwest to Southeast,69%,55%,"0.02""",0 (Low),6:46 am,8:18 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Fri,Sep 4,58 / 42 °F,Isolated tstorms. Breaks of sun late.,53 °F,20 mph,Wind blowing from 310° Northwest to Southeast,66%,50%,"0.04""",0 (Low),6:48 am,8:15 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Sat,Sep 5,60 / 40 °F,Sprinkles early. Cloudy.,56 °F,17 mph,Wind blowing from 320° Northwest to Southeast,58%,41%,"0.01""",0 (Low),6:50 am,8:13 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Sun,Sep 6,62 / 37 °F,Sunny.,60 °F,6 mph,Wind blowing from 240° West-southwest to East-northeast,39%,4%,"0.00""",3 (Moderate),6:52 am,8:11 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Mon,Sep 7,62 / 38 °F,Mostly sunny.,61 °F,1 mph,Wind blowing from 20° North-northeast to South-southwest,38%,5%,"0.00""",3 (Moderate),6:53 am,8:08 pm,2026-08-26T01:42:04+00:00
+Edmonton,canada,Tue,Sep 8,61 / 38 °F,Cloudy.,61 °F,10 mph,Wind blowing from 70° East-northeast to West-southwest,45%,5%,"0.00""",0 (Low),6:55 am,8:06 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Wed,Aug 26,91 / 80 °F,Cloudy.,101 °F,12 mph,Wind blowing from 110° East-southeast to West-northwest,63%,2%,"0.00""",5 (Moderate),6:47 am,7:33 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Thu,Aug 27,91 / 81 °F,Partly cloudy.,101 °F,11 mph,Wind blowing from 100° East to West,63%,2%,"0.00""",5 (Moderate),6:48 am,7:32 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Fri,Aug 28,91 / 81 °F,Scattered clouds.,102 °F,13 mph,Wind blowing from 90° East to West,64%,2%,"0.00""",7 (High),6:48 am,7:32 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Sat,Aug 29,91 / 80 °F,Mostly sunny.,103 °F,12 mph,Wind blowing from 110° East-southeast to West-northwest,66%,4%,"0.00""",7 (High),6:49 am,7:31 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Sun,Aug 30,90 / 81 °F,Mostly sunny.,100 °F,15 mph,Wind blowing from 110° East-southeast to West-northwest,66%,0%,"0.00""",7 (High),6:49 am,7:30 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Mon,Aug 31,90 / 81 °F,Showers late. Afternoon clouds.,101 °F,13 mph,Wind blowing from 80° East to West,66%,16%,"0.04""",7 (High),6:49 am,7:28 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Tue,Sep 1,88 / 81 °F,Thunderstorms. Increasing cloudiness.,95 °F,10 mph,Wind blowing from 80° East to West,69%,48%,"0.21""",5 (Moderate),6:50 am,7:27 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Wed,Sep 2,85 / 82 °F,Showers early. Overcast.,92 °F,11 mph,Wind blowing from 130° Southeast to Northwest,67%,52%,"0.03""",3 (Moderate),6:50 am,7:26 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Thu,Sep 3,86 / 85 °F,Showers early. Morning clouds.,95 °F,11 mph,Wind blowing from 120° East-southeast to West-northwest,70%,46%,"0.05""",5 (Moderate),6:50 am,7:25 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Fri,Sep 4,88 / 85 °F,Showers late. Broken clouds.,97 °F,12 mph,Wind blowing from 90° East to West,73%,51%,"0.02""",5 (Moderate),6:51 am,7:24 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Sat,Sep 5,87 / 85 °F,Sunny.,96 °F,15 mph,Wind blowing from 70° East-northeast to West-southwest,72%,5%,"0.00""",7 (High),6:51 am,7:23 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Sun,Sep 6,87 / 85 °F,Sunny.,97 °F,12 mph,Wind blowing from 70° East-northeast to West-southwest,71%,8%,"0.00""",7 (High),6:52 am,7:22 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Mon,Sep 7,87 / 85 °F,Sunny.,98 °F,11 mph,Wind blowing from 100° East to West,72%,16%,"0.00""",7 (High),6:52 am,7:21 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Tue,Sep 8,88 / 85 °F,Sunny.,99 °F,11 mph,Wind blowing from 100° East to West,73%,6%,"0.00""",7 (High),6:52 am,7:20 pm,2026-08-26T01:42:04+00:00
+Nassau,bahamas,Wed,Sep 9,88 / 86 °F,Showers late. Afternoon clouds.,100 °F,10 mph,Wind blowing from 80° East to West,74%,48%,"0.01""",7 (High),6:53 am,7:19 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Wed,Aug 26,71 / 53 °F,Rain showers. Overcast.,75 °F,7 mph,Wind blowing from 120° East-southeast to West-northwest,63%,80%,"0.51""",7 (High),6:16 am,6:36 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Thu,Aug 27,73 / 52 °F,Rain showers. Broken clouds.,77 °F,9 mph,Wind blowing from 130° Southeast to Northwest,53%,80%,"0.31""",10 (Very high),6:16 am,6:36 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Fri,Aug 28,74 / 53 °F,Showers late. Afternoon clouds.,77 °F,5 mph,Wind blowing from 160° South-southeast to North-northwest,50%,46%,"0.19""",10 (Very high),6:16 am,6:35 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Sat,Aug 29,72 / 52 °F,Isolated tstorms. Afternoon clouds.,75 °F,4 mph,Wind blowing from 130° Southeast to Northwest,63%,56%,"0.16""",7 (High),6:16 am,6:35 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Sun,Aug 30,71 / 54 °F,Passing showers. Mostly cloudy.,69 °F,4 mph,Wind blowing from 140° Southeast to Northwest,65%,69%,"0.36""",7 (High),6:16 am,6:34 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Mon,Aug 31,72 / 54 °F,A few tstorms. Cloudy.,76 °F,6 mph,Wind blowing from 120° East-southeast to West-northwest,58%,64%,"0.39""",7 (High),6:16 am,6:34 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Tue,Sep 1,73 / 52 °F,Thunderstorms. Mostly cloudy.,77 °F,8 mph,Wind blowing from 100° East to West,53%,66%,"0.42""",10 (Very high),6:16 am,6:33 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Wed,Sep 2,72 / 52 °F,Showers late. Afternoon clouds.,77 °F,3 mph,Wind blowing from 80° East to West,53%,76%,"0.65""",10 (Very high),6:16 am,6:32 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Thu,Sep 3,74 / 61 °F,Showers late. Mostly cloudy.,77 °F,5 mph,Wind blowing from 80° East to West,52%,47%,"0.07""",7 (High),6:16 am,6:32 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Fri,Sep 4,73 / 62 °F,Tstorms late. Cloudy.,76 °F,5 mph,Wind blowing from 300° West-northwest to East-southeast,60%,99%,"0.72""",7 (High),6:16 am,6:31 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Sat,Sep 5,73 / 62 °F,A few tstorms. Mostly cloudy.,76 °F,8 mph,Wind blowing from 60° East-northeast to West-southwest,64%,96%,"0.13""",7 (High),6:16 am,6:31 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Sun,Sep 6,73 / 61 °F,Showers late. Afternoon clouds.,76 °F,8 mph,Wind blowing from 50° Northeast to Southwest,57%,46%,"0.06""",7 (High),6:15 am,6:30 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Mon,Sep 7,74 / 61 °F,Partly cloudy.,77 °F,7 mph,Wind blowing from 60° East-northeast to West-southwest,57%,50%,"0.01""",10 (Very high),6:15 am,6:30 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Tue,Sep 8,75 / 62 °F,Showers early. Broken clouds.,77 °F,14 mph,Wind blowing from 80° East to West,43%,56%,"0.04""",10 (Very high),6:15 am,6:29 pm,2026-08-26T01:42:04+00:00
+Addis Ababa,ethiopia,Wed,Sep 9,76 / 62 °F,Passing showers. Broken clouds.,77 °F,7 mph,Wind blowing from 70° East-northeast to West-southwest,50%,53%,"0.09""",7 (High),6:15 am,6:28 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Wed,Aug 26,79 / 56 °F,Mostly cloudy.,78 °F,4 mph,Wind blowing from 160° South-southeast to North-northwest,55%,14%,"0.01""",3 (Moderate),6:31 am,8:22 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Thu,Aug 27,86 / 63 °F,Thundershowers. Overcast.,85 °F,3 mph,Wind blowing from 200° South-southwest to North-northeast,47%,19%,"0.03""",3 (Moderate),6:32 am,8:20 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Fri,Aug 28,77 / 63 °F,Isolated tstorms. Overcast.,69 °F,7 mph,Wind blowing from 200° South-southwest to North-northeast,81%,73%,"0.44""",0 (Low),6:33 am,8:18 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Sat,Aug 29,71 / 61 °F,Passing showers. Overcast.,70 °F,11 mph,Wind blowing from 220° Southwest to Northeast,71%,46%,"0.07""",3 (Moderate),6:35 am,8:15 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Sun,Aug 30,78 / 60 °F,Cloudy.,78 °F,11 mph,Wind blowing from 200° South-southwest to North-northeast,57%,4%,"0.00""",3 (Moderate),6:36 am,8:13 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Mon,Aug 31,71 / 62 °F,Passing showers. Overcast.,70 °F,14 mph,Wind blowing from 240° West-southwest to East-northeast,59%,53%,"0.26""",3 (Moderate),6:38 am,8:11 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Tue,Sep 1,71 / 58 °F,Overcast.,69 °F,8 mph,Wind blowing from 240° West-southwest to East-northeast,46%,2%,"0.00""",3 (Moderate),6:39 am,8:09 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Wed,Sep 2,78 / 56 °F,Passing showers. Breaks of sun late.,78 °F,10 mph,Wind blowing from 260° West to East,51%,50%,"0.05""",3 (Moderate),6:41 am,8:07 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Thu,Sep 3,79 / 61 °F,Sunny.,78 °F,5 mph,Wind blowing from 230° Southwest to Northeast,38%,6%,"0.00""",3 (Moderate),6:42 am,8:05 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Fri,Sep 4,79 / 62 °F,Mostly sunny.,78 °F,5 mph,Wind blowing from 200° South-southwest to North-northeast,31%,4%,"0.00""",3 (Moderate),6:44 am,8:03 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Sat,Sep 5,79 / 62 °F,Cloudy.,78 °F,12 mph,Wind blowing from 240° West-southwest to East-northeast,44%,6%,"0.00""",3 (Moderate),6:45 am,8:00 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Sun,Sep 6,78 / 59 °F,Sunny.,77 °F,7 mph,Wind blowing from 0° North to South,34%,4%,"0.00""",3 (Moderate),6:47 am,7:58 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Mon,Sep 7,74 / 57 °F,Afternoon clouds.,76 °F,5 mph,Wind blowing from 120° East-southeast to West-northwest,32%,6%,"0.00""",3 (Moderate),6:48 am,7:56 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Tue,Sep 8,75 / 57 °F,Mostly sunny.,76 °F,12 mph,Wind blowing from 260° West to East,26%,5%,"0.00""",3 (Moderate),6:50 am,7:54 pm,2026-08-26T01:42:04+00:00
+Frankfurt,germany,Wed,Sep 9,75 / 57 °F,Scattered clouds.,76 °F,9 mph,Wind blowing from 250° West-southwest to East-northeast,22%,6%,"0.00""",3 (Moderate),6:51 am,7:52 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Wed,Aug 26,89 / 79 °F,Showers early. Overcast.,103 °F,8 mph,Wind blowing from 130° Southeast to Northwest,73%,21%,"0.00""",3 (Moderate),5:56 am,6:49 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Thu,Aug 27,99 / 80 °F,Broken clouds.,111 °F,8 mph,Wind blowing from 20° North-northeast to South-southwest,47%,0%,"0.00""",5 (Moderate),5:56 am,6:48 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Fri,Aug 28,98 / 81 °F,Overcast.,109 °F,4 mph,Wind blowing from 20° North-northeast to South-southwest,47%,0%,"0.00""",3 (Moderate),5:57 am,6:47 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Sat,Aug 29,99 / 84 °F,Mostly cloudy.,110 °F,9 mph,Wind blowing from 300° West-northwest to East-southeast,46%,5%,"0.00""",5 (Moderate),5:57 am,6:46 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Sun,Aug 30,99 / 83 °F,Cloudy.,109 °F,9 mph,Wind blowing from 280° West to East,46%,0%,"0.00""",3 (Moderate),5:58 am,6:45 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Mon,Aug 31,100 / 83 °F,Decreasing cloudiness.,110 °F,8 mph,Wind blowing from 270° West to East,46%,0%,"0.00""",3 (Moderate),5:58 am,6:44 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Tue,Sep 1,98 / 80 °F,Showers late. Afternoon clouds.,109 °F,9 mph,Wind blowing from 60° East-northeast to West-southwest,55%,21%,"0.08""",5 (Moderate),5:59 am,6:42 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Wed,Sep 2,94 / 80 °F,Showers early. Scattered clouds.,104 °F,9 mph,Wind blowing from 90° East to West,55%,18%,"0.02""",5 (Moderate),5:59 am,6:41 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Thu,Sep 3,90 / 80 °F,Showers late. Scattered clouds.,94 °F,8 mph,Wind blowing from 90° East to West,49%,50%,"0.02""",5 (Moderate),6:00 am,6:40 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Fri,Sep 4,92 / 81 °F,Passing showers. Scattered clouds.,94 °F,8 mph,Wind blowing from 150° South-southeast to North-northwest,44%,40%,"0.01""",5 (Moderate),6:00 am,6:39 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Sat,Sep 5,92 / 81 °F,Passing showers. Increasing cloudiness.,101 °F,10 mph,Wind blowing from 120° East-southeast to West-northwest,58%,56%,"0.11""",3 (Moderate),6:01 am,6:38 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Sun,Sep 6,92 / 81 °F,Mostly cloudy.,107 °F,5 mph,Wind blowing from 80° East to West,64%,43%,"0.01""",3 (Moderate),6:01 am,6:37 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Mon,Sep 7,94 / 81 °F,Sunny.,92 °F,4 mph,Wind blowing from 70° East-northeast to West-southwest,36%,6%,"0.00""",7 (High),6:02 am,6:35 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Tue,Sep 8,94 / 81 °F,Isolated tstorms late. Mostly sunny.,91 °F,8 mph,Wind blowing from 130° Southeast to Northwest,32%,39%,"0.02""",7 (High),6:02 am,6:34 pm,2026-08-26T01:42:04+00:00
+New Delhi,india,Wed,Sep 9,94 / 81 °F,Showers early. Mostly cloudy.,115 °F,11 mph,Wind blowing from 110° East-southeast to West-northwest,73%,62%,"0.14""",3 (Moderate),6:03 am,6:33 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Wed,Aug 26,60 / 42 °F,Afternoon clouds.,59 °F,3 mph,Wind blowing from 250° West-southwest to East-northeast,61%,1%,"0.00""",3 (Moderate),6:43 am,5:52 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Thu,Aug 27,65 / 45 °F,Mostly cloudy.,63 °F,5 mph,Wind blowing from 310° Northwest to Southeast,52%,0%,"0.00""",3 (Moderate),6:41 am,5:53 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Fri,Aug 28,68 / 45 °F,Cloudy.,66 °F,5 mph,Wind blowing from 230° Southwest to Northeast,49%,0%,"0.00""",3 (Moderate),6:40 am,5:53 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Sat,Aug 29,69 / 46 °F,Sunny.,67 °F,7 mph,Wind blowing from 200° South-southwest to North-northeast,56%,0%,"0.00""",3 (Moderate),6:39 am,5:54 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Sun,Aug 30,68 / 46 °F,Sunny.,65 °F,4 mph,Wind blowing from 240° West-southwest to East-northeast,52%,0%,"0.00""",3 (Moderate),6:38 am,5:55 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Mon,Aug 31,69 / 45 °F,Sunny.,67 °F,4 mph,Wind blowing from 270° West to East,50%,0%,"0.00""",3 (Moderate),6:36 am,5:55 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Tue,Sep 1,75 / 48 °F,Sunny.,77 °F,11 mph,Wind blowing from 340° North-northwest to South-southeast,44%,0%,"0.00""",5 (Moderate),6:35 am,5:56 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Wed,Sep 2,64 / 47 °F,Morning clouds.,64 °F,5 mph,Wind blowing from 260° West to East,69%,5%,"0.00""",3 (Moderate),6:34 am,5:57 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Thu,Sep 3,60 / 49 °F,Sprinkles. Mostly cloudy.,58 °F,10 mph,Wind blowing from 270° West to East,77%,56%,"0.04""",3 (Moderate),6:32 am,5:58 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Fri,Sep 4,60 / 47 °F,Sunny.,58 °F,4 mph,Wind blowing from 260° West to East,61%,6%,"0.00""",5 (Moderate),6:31 am,5:58 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Sat,Sep 5,59 / 45 °F,Morning clouds.,59 °F,3 mph,Wind blowing from 260° West to East,62%,6%,"0.00""",3 (Moderate),6:29 am,5:59 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Sun,Sep 6,62 / 47 °F,Sprinkles late. Afternoon clouds.,62 °F,3 mph,Wind blowing from 300° West-northwest to East-southeast,59%,49%,"0.02""",3 (Moderate),6:28 am,6:00 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Mon,Sep 7,62 / 50 °F,Thunderstorms. Overcast.,61 °F,8 mph,Wind blowing from 210° South-southwest to North-northeast,96%,76%,"0.28""",3 (Moderate),6:27 am,6:00 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Tue,Sep 8,59 / 50 °F,Tstorms early. Morning clouds.,56 °F,17 mph,Wind blowing from 190° South to North,69%,39%,"0.02""",3 (Moderate),6:25 am,6:01 pm,2026-08-26T01:42:04+00:00
+Adelaide,australia,Wed,Sep 9,57 / 47 °F,Scattered clouds.,54 °F,5 mph,Wind blowing from 250° West-southwest to East-northeast,53%,4%,"0.00""",5 (Moderate),6:24 am,6:02 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Tue,Aug 25,77 / 58 °F,Showers late. Overcast.,78 °F,6 mph,Wind blowing from 20° North-northeast to South-southwest,58%,51%,"0.06""",7 (High),5:49 am,6:18 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Wed,Aug 26,79 / 59 °F,Passing showers. Mostly cloudy.,79 °F,7 mph,Wind blowing from 30° North-northeast to South-southwest,54%,44%,"0.07""",7 (High),5:49 am,6:17 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Thu,Aug 27,80 / 59 °F,Showers late. Mostly cloudy.,80 °F,5 mph,Wind blowing from 20° North-northeast to South-southwest,49%,49%,"0.05""",7 (High),5:49 am,6:17 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Fri,Aug 28,81 / 59 °F,Overcast.,80 °F,5 mph,Wind blowing from 50° Northeast to Southwest,42%,42%,"0.01""",3 (Moderate),5:49 am,6:16 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Sat,Aug 29,81 / 59 °F,Showers late. Overcast.,80 °F,6 mph,Wind blowing from 40° Northeast to Southwest,41%,38%,"0.03""",5 (Moderate),5:49 am,6:15 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Sun,Aug 30,80 / 59 °F,Passing showers. Overcast.,77 °F,3 mph,Wind blowing from 130° Southeast to Northwest,56%,48%,"0.10""",5 (Moderate),5:49 am,6:15 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Mon,Aug 31,78 / 61 °F,Showers late. Overcast.,78 °F,3 mph,Wind blowing from 60° East-northeast to West-southwest,58%,66%,"0.46""",5 (Moderate),5:50 am,6:14 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Tue,Sep 1,79 / 60 °F,Showers late. Overcast.,80 °F,5 mph,Wind blowing from 40° Northeast to Southwest,54%,38%,"0.09""",5 (Moderate),5:50 am,6:13 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Wed,Sep 2,82 / 62 °F,Showers late. Broken clouds.,84 °F,2 mph,Wind blowing from 70° East-northeast to West-southwest,55%,50%,"0.06""",7 (High),5:50 am,6:13 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Thu,Sep 3,83 / 62 °F,Passing showers. Broken clouds.,83 °F,3 mph,Wind blowing from 150° South-southeast to North-northwest,67%,58%,"0.13""",7 (High),5:50 am,6:12 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Fri,Sep 4,83 / 62 °F,Thunderstorms. Breaks of sun late.,85 °F,4 mph,Wind blowing from 150° South-southeast to North-northwest,77%,99%,"0.87""",7 (High),5:50 am,6:11 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Sat,Sep 5,82 / 62 °F,Thunderstorms. Partly cloudy.,84 °F,5 mph,Wind blowing from 80° East to West,75%,99%,"0.59""",7 (High),5:50 am,6:10 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Sun,Sep 6,82 / 62 °F,Passing showers. Overcast.,84 °F,4 mph,Wind blowing from 40° Northeast to Southwest,78%,76%,"0.35""",3 (Moderate),5:50 am,6:10 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Mon,Sep 7,81 / 62 °F,Passing showers. Broken clouds.,81 °F,4 mph,Wind blowing from 70° East-northeast to West-southwest,57%,62%,"0.04""",7 (High),5:50 am,6:09 pm,2026-08-26T01:42:04+00:00
+Guatemala City,guatemala,Tue,Sep 8,81 / 62 °F,A few tstorms. Mostly cloudy.,84 °F,2 mph,Wind blowing from 150° South-southeast to North-northwest,77%,79%,"0.18""",5 (Moderate),5:50 am,6:08 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Wed,Aug 26,93 / 77 °F,Showers late. Scattered clouds.,103 °F,5 mph,Wind blowing from 110° East-southeast to West-northwest,58%,51%,"0.13""",5 (Moderate),6:34 am,7:29 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Thu,Aug 27,89 / 78 °F,Thundershowers. Overcast.,98 °F,7 mph,Wind blowing from 20° North-northeast to South-southwest,69%,77%,"0.17""",3 (Moderate),6:34 am,7:28 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Fri,Aug 28,89 / 77 °F,Thundershowers. Overcast.,96 °F,8 mph,Wind blowing from 200° South-southwest to North-northeast,69%,59%,"0.22""",3 (Moderate),6:35 am,7:27 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Sat,Aug 29,87 / 76 °F,Isolated tstorms. Overcast.,92 °F,5 mph,Wind blowing from 90° East to West,65%,12%,"0.02""",3 (Moderate),6:35 am,7:26 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Sun,Aug 30,89 / 76 °F,Isolated tstorms. Mostly cloudy.,97 °F,6 mph,Wind blowing from 140° Southeast to Northwest,66%,45%,"0.11""",3 (Moderate),6:36 am,7:24 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Mon,Aug 31,91 / 76 °F,Scattered clouds.,101 °F,9 mph,Wind blowing from 120° East-southeast to West-northwest,64%,5%,"0.00""",7 (High),6:36 am,7:23 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Tue,Sep 1,91 / 76 °F,Breaks of sun late.,101 °F,6 mph,Wind blowing from 60° East-northeast to West-southwest,63%,3%,"0.00""",5 (Moderate),6:37 am,7:22 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Wed,Sep 2,94 / 73 °F,Mostly sunny.,94 °F,7 mph,Wind blowing from 80° East to West,44%,5%,"0.00""",5 (Moderate),6:37 am,7:21 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Thu,Sep 3,94 / 74 °F,Broken clouds.,95 °F,9 mph,Wind blowing from 90° East to West,44%,6%,"0.00""",5 (Moderate),6:38 am,7:20 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Fri,Sep 4,95 / 74 °F,Isolated tstorms late. Cloudy.,97 °F,7 mph,Wind blowing from 170° South to North,45%,40%,"0.03""",3 (Moderate),6:39 am,7:18 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Sat,Sep 5,99 / 74 °F,A few tstorms. Cloudy.,107 °F,8 mph,Wind blowing from 140° Southeast to Northwest,49%,83%,"0.06""",3 (Moderate),6:39 am,7:17 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Sun,Sep 6,99 / 74 °F,Mostly cloudy.,108 °F,7 mph,Wind blowing from 90° East to West,49%,5%,"0.00""",5 (Moderate),6:40 am,7:16 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Mon,Sep 7,99 / 74 °F,Partly cloudy.,106 °F,5 mph,Wind blowing from 90° East to West,48%,5%,"0.00""",5 (Moderate),6:40 am,7:15 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Tue,Sep 8,99 / 74 °F,Sunny.,101 °F,9 mph,Wind blowing from 90° East to West,40%,4%,"0.00""",7 (High),6:41 am,7:14 pm,2026-08-26T01:42:04+00:00
+New Orleans,usa,Wed,Sep 9,99 / 74 °F,Sunny.,102 °F,11 mph,Wind blowing from 90° East to West,41%,4%,"0.00""",7 (High),6:41 am,7:12 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Wed,Aug 26,91 / 75 °F,Cloudy.,100 °F,9 mph,Wind blowing from 310° Northwest to Southeast,67%,2%,"0.00""",3 (Moderate),6:13 am,7:24 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Thu,Aug 27,89 / 74 °F,Mostly cloudy.,94 °F,8 mph,Wind blowing from 340° North-northwest to South-southeast,56%,2%,"0.00""",3 (Moderate),6:14 am,7:23 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Fri,Aug 28,87 / 72 °F,Mostly sunny.,89 °F,7 mph,Wind blowing from 340° North-northwest to South-southeast,52%,2%,"0.00""",5 (Moderate),6:15 am,7:21 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Sat,Aug 29,89 / 72 °F,Broken clouds.,92 °F,9 mph,Wind blowing from 20° North-northeast to South-southwest,57%,15%,"0.03""",3 (Moderate),6:16 am,7:20 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Sun,Aug 30,89 / 74 °F,Broken clouds.,95 °F,8 mph,Wind blowing from 30° North-northeast to South-southwest,59%,5%,"0.01""",3 (Moderate),6:17 am,7:19 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Mon,Aug 31,87 / 74 °F,Mostly sunny.,91 °F,7 mph,Wind blowing from 10° North to South,60%,0%,"0.00""",3 (Moderate),6:17 am,7:17 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Tue,Sep 1,87 / 76 °F,Scattered clouds.,92 °F,12 mph,Wind blowing from 60° East-northeast to West-southwest,59%,0%,"0.00""",5 (Moderate),6:18 am,7:16 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Wed,Sep 2,83 / 73 °F,Mostly sunny.,86 °F,13 mph,Wind blowing from 50° Northeast to Southwest,63%,2%,"0.00""",5 (Moderate),6:19 am,7:14 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Thu,Sep 3,84 / 75 °F,Sunny.,85 °F,14 mph,Wind blowing from 50° Northeast to Southwest,53%,1%,"0.00""",5 (Moderate),6:20 am,7:13 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Fri,Sep 4,84 / 74 °F,Sunny.,84 °F,11 mph,Wind blowing from 60° East-northeast to West-southwest,50%,2%,"0.00""",5 (Moderate),6:21 am,7:11 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Sat,Sep 5,84 / 74 °F,Sunny.,84 °F,10 mph,Wind blowing from 50° Northeast to Southwest,45%,4%,"0.00""",5 (Moderate),6:21 am,7:10 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Sun,Sep 6,84 / 73 °F,Partly cloudy.,87 °F,11 mph,Wind blowing from 50° Northeast to Southwest,56%,5%,"0.00""",5 (Moderate),6:22 am,7:08 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Mon,Sep 7,85 / 73 °F,Cloudy.,88 °F,11 mph,Wind blowing from 50° Northeast to Southwest,59%,5%,"0.00""",3 (Moderate),6:23 am,7:07 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Tue,Sep 8,85 / 73 °F,Sunny.,87 °F,12 mph,Wind blowing from 50° Northeast to Southwest,57%,3%,"0.00""",5 (Moderate),6:24 am,7:05 pm,2026-08-26T01:42:04+00:00
+Algiers,algeria,Wed,Sep 9,86 / 74 °F,Sunny.,89 °F,12 mph,Wind blowing from 50° Northeast to Southwest,63%,3%,"0.00""",5 (Moderate),6:25 am,7:04 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Wed,Aug 26,75 / 61 °F,Broken clouds.,76 °F,9 mph,Wind blowing from 210° South-southwest to North-northeast,68%,5%,"0.00""",3 (Moderate),6:29 am,8:01 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Thu,Aug 27,73 / 61 °F,Showers early. Cloudy.,75 °F,9 mph,Wind blowing from 210° South-southwest to North-northeast,68%,39%,"0.03""",3 (Moderate),6:30 am,7:59 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Fri,Aug 28,74 / 62 °F,Showers late. Overcast.,74 °F,10 mph,Wind blowing from 200° South-southwest to North-northeast,76%,72%,"0.33""",3 (Moderate),6:32 am,7:58 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Sat,Aug 29,76 / 60 °F,Showers early. Overcast.,77 °F,9 mph,Wind blowing from 260° West to East,66%,70%,"0.43""",0 (Low),6:33 am,7:56 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Sun,Aug 30,74 / 54 °F,Breaks of sun late.,77 °F,10 mph,Wind blowing from 210° South-southwest to North-northeast,53%,0%,"0.00""",3 (Moderate),6:34 am,7:54 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Mon,Aug 31,74 / 60 °F,Overcast.,76 °F,5 mph,Wind blowing from 260° West to East,61%,18%,"0.00""",3 (Moderate),6:35 am,7:52 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Tue,Sep 1,64 / 56 °F,Rain showers. Overcast.,55 °F,15 mph,Wind blowing from 70° East-northeast to West-southwest,97%,57%,"0.40""",0 (Low),6:36 am,7:50 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Wed,Sep 2,60 / 54 °F,Light showers. Overcast.,57 °F,12 mph,Wind blowing from 30° North-northeast to South-southwest,94%,68%,"0.28""",0 (Low),6:38 am,7:49 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Thu,Sep 3,64 / 54 °F,Sprinkles. Mostly cloudy.,64 °F,12 mph,Wind blowing from 80° East to West,64%,62%,"0.15""",3 (Moderate),6:39 am,7:47 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Fri,Sep 4,67 / 53 °F,Mostly cloudy.,67 °F,2 mph,Wind blowing from 260° West to East,58%,4%,"0.00""",3 (Moderate),6:40 am,7:45 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Sat,Sep 5,66 / 53 °F,Scattered clouds.,66 °F,6 mph,Wind blowing from 190° South to North,52%,4%,"0.00""",3 (Moderate),6:41 am,7:43 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Sun,Sep 6,67 / 57 °F,Sprinkles late. Breaks of sun late.,66 °F,13 mph,Wind blowing from 210° South-southwest to North-northeast,73%,59%,"0.01""",3 (Moderate),6:42 am,7:41 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Mon,Sep 7,67 / 59 °F,Rain showers. Overcast.,67 °F,10 mph,Wind blowing from 200° South-southwest to North-northeast,99%,74%,"0.38""",0 (Low),6:43 am,7:39 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Tue,Sep 8,67 / 59 °F,Sprinkles late. Cloudy.,67 °F,7 mph,Wind blowing from 210° South-southwest to North-northeast,78%,50%,"0.02""",3 (Moderate),6:45 am,7:37 pm,2026-08-26T01:42:04+00:00
+Halifax,canada,Wed,Sep 9,69 / 61 °F,Rain showers. Overcast.,69 °F,9 mph,Wind blowing from 210° South-southwest to North-northeast,99%,60%,"0.28""",0 (Low),6:46 am,7:36 pm,2026-08-26T01:42:04+00:00
+New York,usa,Wed,Aug 26,82 / 65 °F,Partly cloudy.,82 °F,6 mph,Wind blowing from 210° South-southwest to North-northeast,45%,2%,"0.00""",3 (Moderate),6:17 am,7:37 pm,2026-08-26T01:42:04+00:00
+New York,usa,Thu,Aug 27,81 / 71 °F,A few tstorms. Cloudy.,83 °F,11 mph,Wind blowing from 150° South-southeast to North-northwest,69%,59%,"0.20""",3 (Moderate),6:18 am,7:36 pm,2026-08-26T01:42:04+00:00
+New York,usa,Fri,Aug 28,81 / 72 °F,Thundershowers. Overcast.,82 °F,4 mph,Wind blowing from 60° East-northeast to West-southwest,66%,67%,"0.24""",3 (Moderate),6:19 am,7:34 pm,2026-08-26T01:42:04+00:00
+New York,usa,Sat,Aug 29,80 / 67 °F,Overcast.,80 °F,5 mph,Wind blowing from 230° Southwest to Northeast,48%,2%,"0.00""",3 (Moderate),6:20 am,7:32 pm,2026-08-26T01:42:04+00:00
+New York,usa,Sun,Aug 30,83 / 66 °F,Increasing cloudiness.,84 °F,11 mph,Wind blowing from 160° South-southeast to North-northwest,55%,3%,"0.00""",3 (Moderate),6:21 am,7:31 pm,2026-08-26T01:42:04+00:00
+New York,usa,Mon,Aug 31,87 / 72 °F,Cloudy.,89 °F,9 mph,Wind blowing from 260° West to East,56%,0%,"0.00""",3 (Moderate),6:22 am,7:29 pm,2026-08-26T01:42:04+00:00
+New York,usa,Tue,Sep 1,87 / 75 °F,Tstorms early. Overcast.,89 °F,11 mph,Wind blowing from 300° West-northwest to East-southeast,56%,7%,"0.01""",3 (Moderate),6:23 am,7:28 pm,2026-08-26T01:42:04+00:00
+New York,usa,Wed,Sep 2,89 / 75 °F,Mostly cloudy.,95 °F,9 mph,Wind blowing from 140° Southeast to Northwest,53%,40%,"0.00""",3 (Moderate),6:24 am,7:26 pm,2026-08-26T01:42:04+00:00
+New York,usa,Thu,Sep 3,83 / 73 °F,Showers late. Cloudy.,85 °F,8 mph,Wind blowing from 150° South-southeast to North-northwest,64%,53%,"0.01""",3 (Moderate),6:25 am,7:24 pm,2026-08-26T01:42:04+00:00
+New York,usa,Fri,Sep 4,87 / 70 °F,Scattered clouds.,83 °F,8 mph,Wind blowing from 200° South-southwest to North-northeast,51%,6%,"0.00""",3 (Moderate),6:26 am,7:23 pm,2026-08-26T01:42:04+00:00
+New York,usa,Sat,Sep 5,88 / 71 °F,Isolated tstorms late. Mostly cloudy.,83 °F,7 mph,Wind blowing from 190° South to North,48%,89%,"0.12""",0 (Low),6:27 am,7:21 pm,2026-08-26T01:42:04+00:00
+New York,usa,Sun,Sep 6,87 / 71 °F,Thundershowers. Morning clouds.,87 °F,6 mph,Wind blowing from 190° South to North,58%,90%,"0.15""",3 (Moderate),6:28 am,7:19 pm,2026-08-26T01:42:04+00:00
+New York,usa,Mon,Sep 7,87 / 72 °F,Partly cloudy.,84 °F,6 mph,Wind blowing from 220° Southwest to Northeast,44%,50%,"0.01""",3 (Moderate),6:29 am,7:18 pm,2026-08-26T01:42:04+00:00
+New York,usa,Tue,Sep 8,88 / 72 °F,Isolated tstorms late. Afternoon clouds.,85 °F,8 mph,Wind blowing from 220° Southwest to Northeast,43%,56%,"0.03""",3 (Moderate),6:29 am,7:16 pm,2026-08-26T01:42:04+00:00
+New York,usa,Wed,Sep 9,88 / 72 °F,Sunny.,82 °F,15 mph,Wind blowing from 320° Northwest to Southeast,23%,6%,"0.00""",5 (Moderate),6:30 am,7:14 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Thu,Aug 27,85 / 56 °F,Increasing cloudiness.,81 °F,6 mph,Wind blowing from 10° North to South,27%,0%,"0.00""",5 (Moderate),5:09 am,6:38 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Fri,Aug 28,89 / 63 °F,Morning clouds.,84 °F,4 mph,Wind blowing from 350° North to South,23%,0%,"0.00""",3 (Moderate),5:10 am,6:36 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Sat,Aug 29,91 / 65 °F,Sunny.,86 °F,5 mph,Wind blowing from 330° North-northwest to South-southeast,20%,0%,"0.00""",5 (Moderate),5:11 am,6:34 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Sun,Aug 30,89 / 65 °F,Sunny.,84 °F,6 mph,Wind blowing from 340° North-northwest to South-southeast,25%,0%,"0.00""",5 (Moderate),5:12 am,6:33 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Mon,Aug 31,79 / 56 °F,Mostly cloudy.,78 °F,6 mph,Wind blowing from 290° West-northwest to East-southeast,39%,1%,"0.00""",3 (Moderate),5:13 am,6:31 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Tue,Sep 1,79 / 50 °F,Scattered clouds.,78 °F,5 mph,Wind blowing from 350° North to South,29%,3%,"0.00""",3 (Moderate),5:15 am,6:29 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Wed,Sep 2,81 / 53 °F,Breaks of sun late.,79 °F,6 mph,Wind blowing from 340° North-northwest to South-southeast,16%,4%,"0.00""",3 (Moderate),5:16 am,6:27 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Thu,Sep 3,82 / 59 °F,Mostly sunny.,79 °F,8 mph,Wind blowing from 10° North to South,14%,4%,"0.00""",5 (Moderate),5:17 am,6:26 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Fri,Sep 4,83 / 59 °F,Breaks of sun late.,80 °F,3 mph,Wind blowing from 350° North to South,20%,4%,"0.00""",3 (Moderate),5:18 am,6:24 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Sat,Sep 5,83 / 59 °F,Showers early. Scattered clouds.,80 °F,3 mph,Wind blowing from 320° Northwest to Southeast,16%,40%,"0.00""",3 (Moderate),5:19 am,6:22 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Sun,Sep 6,84 / 60 °F,Sunny.,81 °F,4 mph,Wind blowing from 340° North-northwest to South-southeast,17%,4%,"0.00""",5 (Moderate),5:20 am,6:20 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Mon,Sep 7,87 / 60 °F,Sunny.,81 °F,6 mph,Wind blowing from 0° North to South,15%,6%,"0.00""",5 (Moderate),5:21 am,6:19 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Tue,Sep 8,88 / 60 °F,Sunny.,81 °F,8 mph,Wind blowing from 10° North to South,11%,6%,"0.00""",5 (Moderate),5:22 am,6:17 pm,2026-08-26T01:42:04+00:00
+Almaty,kazakstan,Wed,Sep 9,86 / 61 °F,Mostly sunny.,82 °F,10 mph,Wind blowing from 310° Northwest to Southeast,21%,6%,"0.00""",5 (Moderate),5:23 am,6:15 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Wed,Aug 26,91 / 80 °F,Isolated tstorms. Overcast.,109 °F,6 mph,Wind blowing from 280° West to East,74%,85%,"0.30""",3 (Moderate),5:38 am,6:18 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Thu,Aug 27,90 / 80 °F,Passing showers. Overcast.,105 °F,5 mph,Wind blowing from 310° Northwest to Southeast,74%,60%,"0.07""",3 (Moderate),5:38 am,6:17 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Fri,Aug 28,93 / 79 °F,Isolated tstorms. Overcast.,110 °F,2 mph,Wind blowing from 10° North to South,68%,55%,"0.13""",5 (Moderate),5:39 am,6:16 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Sat,Aug 29,86 / 79 °F,Thunderstorms. Overcast.,97 °F,8 mph,Wind blowing from 290° West-northwest to East-southeast,83%,97%,"1.44""",3 (Moderate),5:39 am,6:15 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Sun,Aug 30,92 / 78 °F,Isolated tstorms. Overcast.,106 °F,5 mph,Wind blowing from 330° North-northwest to South-southeast,66%,78%,"0.56""",3 (Moderate),5:39 am,6:14 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Mon,Aug 31,83 / 74 °F,Passing showers. Overcast.,85 °F,8 mph,Wind blowing from 20° North-northeast to South-southwest,76%,53%,"0.17""",3 (Moderate),5:39 am,6:13 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Tue,Sep 1,84 / 74 °F,Passing showers. Overcast.,88 °F,6 mph,Wind blowing from 30° North-northeast to South-southwest,78%,22%,"0.04""",3 (Moderate),5:40 am,6:12 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Wed,Sep 2,90 / 76 °F,Isolated tstorms late. Cloudy.,90 °F,3 mph,Wind blowing from 0° North to South,58%,52%,"0.03""",5 (Moderate),5:40 am,6:11 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Thu,Sep 3,91 / 78 °F,Afternoon clouds.,97 °F,4 mph,Wind blowing from 250° West-southwest to East-northeast,54%,5%,"0.00""",5 (Moderate),5:40 am,6:11 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Fri,Sep 4,91 / 78 °F,Sunny.,94 °F,3 mph,Wind blowing from 310° Northwest to Southeast,46%,4%,"0.00""",7 (High),5:40 am,6:10 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Sat,Sep 5,91 / 78 °F,Sunny.,92 °F,3 mph,Wind blowing from 40° Northeast to Southwest,42%,6%,"0.00""",7 (High),5:41 am,6:09 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Sun,Sep 6,91 / 78 °F,Mostly sunny.,92 °F,5 mph,Wind blowing from 20° North-northeast to South-southwest,42%,40%,"0.01""",7 (High),5:41 am,6:08 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Mon,Sep 7,91 / 77 °F,Increasing cloudiness.,102 °F,6 mph,Wind blowing from 100° East to West,58%,46%,"0.02""",5 (Moderate),5:41 am,6:07 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Tue,Sep 8,95 / 80 °F,Sunny.,111 °F,5 mph,Wind blowing from 60° East-northeast to West-southwest,56%,6%,"0.00""",5 (Moderate),5:41 am,6:06 pm,2026-08-26T01:42:04+00:00
+Hanoi,vietnam,Wed,Sep 9,96 / 82 °F,Sunny.,107 °F,3 mph,Wind blowing from 320° Northwest to Southeast,49%,6%,"0.00""",7 (High),5:42 am,6:05 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Wed,Aug 26,74 / 53 °F,Cloudy.,77 °F,3 mph,Wind blowing from 190° South to North,47%,0%,"0.00""",0 (Low),5:57 am,8:38 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Thu,Aug 27,73 / 56 °F,Overcast.,77 °F,2 mph,Wind blowing from 150° South-southeast to North-northwest,53%,0%,"0.00""",0 (Low),6:00 am,8:35 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Fri,Aug 28,67 / 53 °F,Showers late. Overcast.,65 °F,10 mph,Wind blowing from 100° East to West,65%,68%,"0.24""",0 (Low),6:02 am,8:32 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Sat,Aug 29,62 / 58 °F,Showery. Overcast.,61 °F,5 mph,Wind blowing from 170° South to North,90%,95%,"1.24""",0 (Low),6:04 am,8:29 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Sun,Aug 30,69 / 56 °F,Showers late. Overcast.,68 °F,4 mph,Wind blowing from 200° South-southwest to North-northeast,63%,42%,"0.09""",0 (Low),6:07 am,8:26 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Mon,Aug 31,68 / 52 °F,Mostly cloudy.,66 °F,4 mph,Wind blowing from 180° South to North,57%,19%,"0.04""",0 (Low),6:09 am,8:23 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Tue,Sep 1,69 / 49 °F,Afternoon clouds.,66 °F,8 mph,Wind blowing from 190° South to North,48%,2%,"0.00""",3 (Moderate),6:12 am,8:20 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Wed,Sep 2,67 / 51 °F,Passing showers. Broken clouds.,67 °F,7 mph,Wind blowing from 310° Northwest to Southeast,47%,51%,"0.04""",0 (Low),6:14 am,8:17 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Thu,Sep 3,65 / 48 °F,Showers late. Afternoon clouds.,64 °F,6 mph,Wind blowing from 190° South to North,49%,60%,"0.14""",0 (Low),6:16 am,8:14 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Fri,Sep 4,65 / 45 °F,Overcast.,65 °F,7 mph,Wind blowing from 240° West-southwest to East-northeast,50%,43%,"0.04""",0 (Low),6:19 am,8:11 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Sat,Sep 5,66 / 45 °F,Overcast.,65 °F,4 mph,Wind blowing from 160° South-southeast to North-northwest,82%,6%,"0.00""",0 (Low),6:21 am,8:08 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Sun,Sep 6,65 / 49 °F,Showers late. Mostly cloudy.,64 °F,3 mph,Wind blowing from 310° Northwest to Southeast,51%,41%,"0.04""",0 (Low),6:23 am,8:05 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Mon,Sep 7,62 / 44 °F,Sprinkles late. Increasing cloudiness.,62 °F,8 mph,Wind blowing from 180° South to North,52%,49%,"0.04""",0 (Low),6:26 am,8:02 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Tue,Sep 8,60 / 44 °F,Rain. Cloudy.,60 °F,15 mph,Wind blowing from 180° South to North,85%,75%,"0.45""",0 (Low),6:28 am,7:59 pm,2026-08-26T01:42:04+00:00
+Oslo,norway,Wed,Sep 9,63 / 47 °F,Cloudy.,60 °F,10 mph,Wind blowing from 220° Southwest to Northeast,51%,6%,"0.00""",0 (Low),6:30 am,7:56 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Wed,Aug 26,95 / 71 °F,Sunny.,90 °F,13 mph,Wind blowing from 300° West-northwest to East-southeast,18%,0%,"0.00""",7 (High),6:07 am,7:07 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Thu,Aug 27,95 / 71 °F,Sunny.,90 °F,12 mph,Wind blowing from 290° West-northwest to East-southeast,19%,0%,"0.00""",7 (High),6:08 am,7:06 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Fri,Aug 28,93 / 71 °F,Sunny.,89 °F,11 mph,Wind blowing from 280° West to East,20%,0%,"0.00""",7 (High),6:09 am,7:05 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Sat,Aug 29,90 / 72 °F,Sunny.,87 °F,12 mph,Wind blowing from 250° West-southwest to East-northeast,26%,0%,"0.00""",7 (High),6:09 am,7:04 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Sun,Aug 30,83 / 69 °F,Sunny.,82 °F,19 mph,Wind blowing from 260° West to East,43%,3%,"0.00""",7 (High),6:10 am,7:03 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Mon,Aug 31,86 / 66 °F,Sunny.,83 °F,10 mph,Wind blowing from 280° West to East,38%,0%,"0.00""",7 (High),6:10 am,7:01 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Tue,Sep 1,88 / 68 °F,Sunny.,84 °F,11 mph,Wind blowing from 280° West to East,26%,0%,"0.00""",7 (High),6:11 am,7:00 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Wed,Sep 2,90 / 68 °F,Sunny.,86 °F,10 mph,Wind blowing from 280° West to East,18%,1%,"0.00""",7 (High),6:12 am,6:59 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Thu,Sep 3,92 / 70 °F,Sunny.,88 °F,11 mph,Wind blowing from 290° West-northwest to East-southeast,19%,1%,"0.00""",7 (High),6:12 am,6:58 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Fri,Sep 4,91 / 71 °F,Sunny.,87 °F,13 mph,Wind blowing from 290° West-northwest to East-southeast,19%,2%,"0.00""",7 (High),6:13 am,6:56 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Sat,Sep 5,90 / 70 °F,Sunny.,87 °F,11 mph,Wind blowing from 290° West-northwest to East-southeast,26%,3%,"0.00""",7 (High),6:14 am,6:55 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Sun,Sep 6,91 / 71 °F,Sunny.,87 °F,11 mph,Wind blowing from 290° West-northwest to East-southeast,21%,3%,"0.00""",7 (High),6:14 am,6:54 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Mon,Sep 7,94 / 73 °F,Sunny.,89 °F,7 mph,Wind blowing from 280° West to East,13%,3%,"0.00""",7 (High),6:15 am,6:52 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Tue,Sep 8,97 / 75 °F,Sunny.,93 °F,10 mph,Wind blowing from 300° West-northwest to East-southeast,17%,3%,"0.00""",7 (High),6:15 am,6:51 pm,2026-08-26T01:42:04+00:00
+Amman,jordan,Wed,Sep 9,97 / 75 °F,Sunny.,94 °F,11 mph,Wind blowing from 290° West-northwest to East-southeast,22%,3%,"0.00""",7 (High),6:16 am,6:50 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Wed,Aug 26,81 / 49 °F,Sunny.,78 °F,9 mph,Wind blowing from 50° Northeast to Southwest,14%,0%,"0.00""",7 (High),6:07 am,5:47 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Thu,Aug 27,78 / 49 °F,Sunny.,76 °F,12 mph,Wind blowing from 60° East-northeast to West-southwest,15%,0%,"0.00""",7 (High),6:06 am,5:47 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Fri,Aug 28,74 / 46 °F,Sunny.,75 °F,12 mph,Wind blowing from 50° Northeast to Southwest,20%,0%,"0.00""",7 (High),6:06 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Sat,Aug 29,75 / 47 °F,Increasing cloudiness.,77 °F,15 mph,Wind blowing from 20° North-northeast to South-southwest,28%,0%,"0.00""",7 (High),6:05 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Sun,Aug 30,78 / 51 °F,Sunny.,78 °F,7 mph,Wind blowing from 20° North-northeast to South-southwest,28%,0%,"0.00""",7 (High),6:04 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Mon,Aug 31,84 / 55 °F,Sunny.,81 °F,8 mph,Wind blowing from 60° East-northeast to West-southwest,23%,0%,"0.00""",7 (High),6:03 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Tue,Sep 1,83 / 59 °F,Sunny.,80 °F,14 mph,Wind blowing from 60° East-northeast to West-southwest,21%,0%,"0.00""",7 (High),6:03 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Wed,Sep 2,85 / 58 °F,Sunny.,82 °F,9 mph,Wind blowing from 50° Northeast to Southwest,16%,2%,"0.00""",7 (High),6:02 am,5:48 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Thu,Sep 3,86 / 61 °F,Sunny.,83 °F,6 mph,Wind blowing from 60° East-northeast to West-southwest,15%,2%,"0.00""",7 (High),6:01 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Fri,Sep 4,86 / 62 °F,Sunny.,83 °F,9 mph,Wind blowing from 130° Southeast to Northwest,14%,4%,"0.00""",7 (High),6:00 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Sat,Sep 5,86 / 62 °F,Mostly cloudy.,84 °F,13 mph,Wind blowing from 30° North-northeast to South-southwest,37%,6%,"0.00""",5 (Moderate),5:59 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Sun,Sep 6,83 / 60 °F,Mostly sunny.,80 °F,9 mph,Wind blowing from 120° East-southeast to West-northwest,23%,5%,"0.00""",7 (High),5:59 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Mon,Sep 7,82 / 58 °F,Sunny.,80 °F,2 mph,Wind blowing from 70° East-northeast to West-southwest,16%,3%,"0.00""",7 (High),5:58 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Tue,Sep 8,83 / 58 °F,Sunny.,80 °F,5 mph,Wind blowing from 50° Northeast to Southwest,14%,3%,"0.00""",7 (High),5:57 am,5:49 pm,2026-08-26T01:42:04+00:00
+Harare,zimbabwe,Wed,Sep 9,85 / 59 °F,Sunny.,82 °F,13 mph,Wind blowing from 30° North-northeast to South-southwest,18%,3%,"0.00""",7 (High),5:56 am,5:49 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Wed,Aug 26,78 / 56 °F,Broken clouds.,78 °F,6 mph,Wind blowing from 150° South-southeast to North-northwest,55%,5%,"0.00""",3 (Moderate),6:17 am,7:51 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Thu,Aug 27,76 / 59 °F,A few tstorms. Cloudy.,77 °F,9 mph,Wind blowing from 210° South-southwest to North-northeast,72%,64%,"0.22""",3 (Moderate),6:18 am,7:49 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Fri,Aug 28,68 / 53 °F,Sprinkles early. Mostly cloudy.,66 °F,9 mph,Wind blowing from 320° Northwest to Southeast,59%,47%,"0.04""",3 (Moderate),6:19 am,7:47 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Sat,Aug 29,74 / 48 °F,Afternoon clouds.,77 °F,6 mph,Wind blowing from 200° South-southwest to North-northeast,47%,0%,"0.00""",5 (Moderate),6:20 am,7:45 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Sun,Aug 30,70 / 58 °F,Showers late. Overcast.,68 °F,10 mph,Wind blowing from 220° Southwest to Northeast,86%,21%,"0.08""",0 (Low),6:21 am,7:43 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Mon,Aug 31,77 / 61 °F,A few tstorms. Overcast.,77 °F,8 mph,Wind blowing from 230° Southwest to Northeast,81%,49%,"0.14""",0 (Low),6:23 am,7:42 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Tue,Sep 1,76 / 62 °F,Showers late. Cloudy.,76 °F,9 mph,Wind blowing from 340° North-northwest to South-southeast,67%,23%,"0.06""",3 (Moderate),6:24 am,7:40 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Wed,Sep 2,74 / 58 °F,Scattered clouds.,77 °F,5 mph,Wind blowing from 110° East-southeast to West-northwest,59%,5%,"0.00""",3 (Moderate),6:25 am,7:38 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Thu,Sep 3,74 / 55 °F,Showers late. Overcast.,74 °F,7 mph,Wind blowing from 90° East to West,78%,55%,"0.08""",3 (Moderate),6:26 am,7:36 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Fri,Sep 4,75 / 59 °F,Thunderstorms. Cloudy.,74 °F,5 mph,Wind blowing from 190° South to North,81%,99%,"0.67""",3 (Moderate),6:28 am,7:34 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Sat,Sep 5,75 / 61 °F,A few tstorms. Cloudy.,76 °F,7 mph,Wind blowing from 190° South to North,72%,87%,"0.18""",3 (Moderate),6:29 am,7:32 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Sun,Sep 6,78 / 62 °F,Thundershowers. Overcast.,81 °F,6 mph,Wind blowing from 260° West to East,97%,69%,"0.44""",0 (Low),6:30 am,7:30 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Mon,Sep 7,78 / 63 °F,Showers late. Mostly cloudy.,80 °F,5 mph,Wind blowing from 140° Southeast to Northwest,81%,52%,"0.01""",3 (Moderate),6:31 am,7:28 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Tue,Sep 8,78 / 63 °F,Severe thunderstorms. Cloudy.,80 °F,8 mph,Wind blowing from 250° West-southwest to East-northeast,82%,99%,"0.85""",3 (Moderate),6:32 am,7:27 pm,2026-08-26T01:42:04+00:00
+Ottawa,canada,Wed,Sep 9,77 / 61 °F,Sunny.,79 °F,12 mph,Wind blowing from 280° West to East,55%,4%,"0.00""",3 (Moderate),6:34 am,7:25 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Wed,Aug 26,77 / 57 °F,Overcast.,78 °F,9 mph,Wind blowing from 90° East to West,56%,0%,"0.00""",0 (Low),6:41 am,8:41 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Thu,Aug 27,82 / 63 °F,Isolated tstorms late. Overcast.,82 °F,7 mph,Wind blowing from 200° South-southwest to North-northeast,59%,53%,"0.05""",0 (Low),6:43 am,8:39 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Fri,Aug 28,71 / 63 °F,Isolated tstorms. Mostly cloudy.,70 °F,8 mph,Wind blowing from 260° West to East,70%,63%,"0.16""",3 (Moderate),6:44 am,8:37 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Sat,Aug 29,69 / 62 °F,Showers late. Cloudy.,67 °F,15 mph,Wind blowing from 220° Southwest to Northeast,79%,55%,"0.14""",3 (Moderate),6:46 am,8:35 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Sun,Aug 30,71 / 64 °F,Isolated tstorms. Overcast.,74 °F,13 mph,Wind blowing from 230° Southwest to Northeast,71%,51%,"0.20""",0 (Low),6:48 am,8:32 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Mon,Aug 31,68 / 60 °F,Rain showers. Cloudy.,67 °F,14 mph,Wind blowing from 270° West to East,76%,65%,"0.49""",3 (Moderate),6:49 am,8:30 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Tue,Sep 1,71 / 54 °F,Isolated tstorms late. Cloudy.,69 °F,16 mph,Wind blowing from 230° Southwest to Northeast,60%,23%,"0.05""",0 (Low),6:51 am,8:28 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Wed,Sep 2,67 / 58 °F,Showers early. Morning clouds.,67 °F,12 mph,Wind blowing from 280° West to East,50%,49%,"0.03""",3 (Moderate),6:53 am,8:26 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Thu,Sep 3,69 / 57 °F,Mostly sunny.,69 °F,14 mph,Wind blowing from 230° Southwest to Northeast,50%,6%,"0.00""",3 (Moderate),6:54 am,8:23 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Fri,Sep 4,72 / 59 °F,Mostly sunny.,77 °F,8 mph,Wind blowing from 230° Southwest to Northeast,43%,6%,"0.00""",3 (Moderate),6:56 am,8:21 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Sat,Sep 5,70 / 59 °F,Thunderstorms. Overcast.,69 °F,11 mph,Wind blowing from 260° West to East,92%,59%,"0.24""",0 (Low),6:58 am,8:19 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Sun,Sep 6,72 / 54 °F,Passing showers. Mostly cloudy.,77 °F,6 mph,Wind blowing from 310° Northwest to Southeast,48%,42%,"0.01""",0 (Low),6:59 am,8:16 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Mon,Sep 7,68 / 53 °F,Overcast.,67 °F,11 mph,Wind blowing from 170° South to North,35%,6%,"0.00""",0 (Low),7:01 am,8:14 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Tue,Sep 8,69 / 55 °F,Afternoon clouds.,68 °F,18 mph,Wind blowing from 250° West-southwest to East-northeast,54%,6%,"0.00""",3 (Moderate),7:03 am,8:12 pm,2026-08-26T01:42:04+00:00
+Amsterdam,netherlands,Wed,Sep 9,72 / 56 °F,Showers late. Mostly cloudy.,77 °F,16 mph,Wind blowing from 240° West-southwest to East-northeast,55%,42%,"0.02""",3 (Moderate),7:04 am,8:09 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Wed,Aug 26,91 / 76 °F,Scattered tstorms late. Broken clouds.,101 °F,9 mph,Wind blowing from 50° Northeast to Southwest,64%,73%,"0.22""",5 (Moderate),7:09 am,7:52 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Thu,Aug 27,91 / 74 °F,Scattered tstorms late. Partly cloudy.,101 °F,10 mph,Wind blowing from 40° Northeast to Southwest,66%,58%,"0.12""",7 (High),7:10 am,7:51 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Fri,Aug 28,91 / 76 °F,Isolated tstorms late. Increasing cloudiness.,101 °F,11 mph,Wind blowing from 50° Northeast to Southwest,64%,50%,"0.15""",7 (High),7:10 am,7:50 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Sat,Aug 29,91 / 78 °F,Isolated tstorms late. Afternoon clouds.,103 °F,12 mph,Wind blowing from 50° Northeast to Southwest,67%,47%,"0.16""",7 (High),7:10 am,7:49 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Sun,Aug 30,92 / 78 °F,Showers late. Overcast.,105 °F,13 mph,Wind blowing from 50° Northeast to Southwest,64%,44%,"0.08""",5 (Moderate),7:11 am,7:48 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Mon,Aug 31,88 / 78 °F,Tstorms late. Overcast.,98 °F,15 mph,Wind blowing from 40° Northeast to Southwest,77%,68%,"0.34""",3 (Moderate),7:11 am,7:47 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Tue,Sep 1,89 / 78 °F,Isolated tstorms late. Overcast.,101 °F,12 mph,Wind blowing from 40° Northeast to Southwest,72%,66%,"0.28""",5 (Moderate),7:11 am,7:46 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Wed,Sep 2,85 / 78 °F,Tstorms late. Mostly cloudy.,89 °F,7 mph,Wind blowing from 30° North-northeast to South-southwest,65%,99%,"0.31""",5 (Moderate),7:12 am,7:45 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Thu,Sep 3,85 / 76 °F,Showers early. Cloudy.,90 °F,3 mph,Wind blowing from 40° Northeast to Southwest,62%,50%,"0.07""",5 (Moderate),7:12 am,7:44 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Fri,Sep 4,86 / 76 °F,Increasing cloudiness.,91 °F,12 mph,Wind blowing from 40° Northeast to Southwest,64%,6%,"0.00""",5 (Moderate),7:12 am,7:43 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Sat,Sep 5,86 / 76 °F,Morning clouds.,92 °F,18 mph,Wind blowing from 60° East-northeast to West-southwest,64%,5%,"0.00""",7 (High),7:13 am,7:42 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Sun,Sep 6,87 / 76 °F,Sunny.,92 °F,18 mph,Wind blowing from 60° East-northeast to West-southwest,62%,5%,"0.00""",7 (High),7:13 am,7:41 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Mon,Sep 7,87 / 76 °F,Scattered tstorms late. Broken clouds.,93 °F,15 mph,Wind blowing from 50° Northeast to Southwest,64%,96%,"0.19""",5 (Moderate),7:13 am,7:40 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Tue,Sep 8,87 / 76 °F,Scattered tstorms late. Cloudy.,94 °F,8 mph,Wind blowing from 50° Northeast to Southwest,66%,95%,"0.17""",5 (Moderate),7:13 am,7:39 pm,2026-08-26T01:42:04+00:00
+Havana,cuba,Wed,Sep 9,87 / 78 °F,Showers late. Mostly cloudy.,93 °F,13 mph,Wind blowing from 30° North-northeast to South-southwest,64%,47%,"0.07""",5 (Moderate),7:14 am,7:38 pm,2026-08-26T01:42:04+00:00
+Paris,france,Wed,Aug 26,83 / 64 °F,Isolated tstorms. Cloudy.,81 °F,4 mph,Wind blowing from 150° South-southeast to North-northwest,50%,62%,"0.06""",3 (Moderate),6:58 am,8:45 pm,2026-08-26T01:42:04+00:00
+Paris,france,Thu,Aug 27,81 / 65 °F,Thunderstorms. Overcast.,80 °F,7 mph,Wind blowing from 260° West to East,54%,98%,"0.44""",0 (Low),7:00 am,8:43 pm,2026-08-26T01:42:04+00:00
+Paris,france,Fri,Aug 28,72 / 63 °F,A few tstorms. Overcast.,75 °F,11 mph,Wind blowing from 230° Southwest to Northeast,66%,64%,"0.25""",3 (Moderate),7:01 am,8:41 pm,2026-08-26T01:42:04+00:00
+Paris,france,Sat,Aug 29,72 / 63 °F,Passing showers. Overcast.,69 °F,11 mph,Wind blowing from 200° South-southwest to North-northeast,72%,46%,"0.09""",0 (Low),7:02 am,8:39 pm,2026-08-26T01:42:04+00:00
+Paris,france,Sun,Aug 30,74 / 65 °F,Passing showers. Overcast.,74 °F,10 mph,Wind blowing from 220° Southwest to Northeast,74%,56%,"0.25""",3 (Moderate),7:04 am,8:37 pm,2026-08-26T01:42:04+00:00
+Paris,france,Mon,Aug 31,66 / 59 °F,Passing showers. Overcast.,66 °F,12 mph,Wind blowing from 260° West to East,71%,55%,"0.13""",3 (Moderate),7:05 am,8:35 pm,2026-08-26T01:42:04+00:00
+Paris,france,Tue,Sep 1,70 / 54 °F,Cloudy.,69 °F,9 mph,Wind blowing from 240° West-southwest to East-northeast,53%,0%,"0.00""",3 (Moderate),7:07 am,8:33 pm,2026-08-26T01:42:04+00:00
+Paris,france,Wed,Sep 2,75 / 61 °F,Passing showers. Morning clouds.,77 °F,9 mph,Wind blowing from 260° West to East,44%,45%,"0.02""",3 (Moderate),7:08 am,8:30 pm,2026-08-26T01:42:04+00:00
+Paris,france,Thu,Sep 3,79 / 62 °F,Sunny.,78 °F,5 mph,Wind blowing from 220° Southwest to Northeast,36%,4%,"0.00""",3 (Moderate),7:10 am,8:28 pm,2026-08-26T01:42:04+00:00
+Paris,france,Fri,Sep 4,81 / 64 °F,Sunny.,78 °F,5 mph,Wind blowing from 190° South to North,26%,4%,"0.00""",3 (Moderate),7:11 am,8:26 pm,2026-08-26T01:42:04+00:00
+Paris,france,Sat,Sep 5,78 / 63 °F,Showers early. Morning clouds.,78 °F,13 mph,Wind blowing from 280° West to East,56%,39%,"0.00""",3 (Moderate),7:12 am,8:24 pm,2026-08-26T01:42:04+00:00
+Paris,france,Sun,Sep 6,81 / 63 °F,Cloudy.,78 °F,3 mph,Wind blowing from 350° North to South,33%,5%,"0.00""",3 (Moderate),7:14 am,8:22 pm,2026-08-26T01:42:04+00:00
+Paris,france,Mon,Sep 7,84 / 61 °F,Broken clouds.,76 °F,6 mph,Wind blowing from 170° South to North,23%,6%,"0.00""",3 (Moderate),7:15 am,8:20 pm,2026-08-26T01:42:04+00:00
+Paris,france,Tue,Sep 8,83 / 61 °F,Scattered clouds.,77 °F,10 mph,Wind blowing from 270° West to East,28%,5%,"0.00""",3 (Moderate),7:17 am,8:18 pm,2026-08-26T01:42:04+00:00
+Paris,france,Wed,Sep 9,83 / 61 °F,Sunny.,77 °F,6 mph,Wind blowing from 250° West-southwest to East-northeast,31%,4%,"0.00""",3 (Moderate),7:18 am,8:16 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Wed,Aug 26,51 / 40 °F,Sunny.,44 °F,15 mph,Wind blowing from 270° West to East,49%,3%,"0.00""",3 (Moderate),4:30 am,7:51 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Thu,Aug 27,54 / 36 °F,Mostly cloudy.,49 °F,13 mph,Wind blowing from 140° Southeast to Northwest,60%,0%,"0.00""",0 (Low),4:33 am,7:47 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Fri,Aug 28,54 / 44 °F,Mostly sunny.,50 °F,12 mph,Wind blowing from 170° South to North,69%,4%,"0.00""",3 (Moderate),4:36 am,7:44 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Sat,Aug 29,59 / 47 °F,Overcast.,54 °F,15 mph,Wind blowing from 300° West-northwest to East-southeast,65%,1%,"0.00""",0 (Low),4:39 am,7:40 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Sun,Aug 30,52 / 41 °F,Afternoon clouds.,44 °F,14 mph,Wind blowing from 260° West to East,49%,0%,"0.00""",0 (Low),4:42 am,7:37 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Mon,Aug 31,52 / 38 °F,Afternoon clouds.,46 °F,18 mph,Wind blowing from 300° West-northwest to East-southeast,51%,0%,"0.00""",0 (Low),4:45 am,7:33 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Tue,Sep 1,50 / 35 °F,Sunny.,41 °F,18 mph,Wind blowing from 320° Northwest to Southeast,49%,0%,"0.00""",0 (Low),4:48 am,7:29 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Wed,Sep 2,55 / 35 °F,Broken clouds.,53 °F,5 mph,Wind blowing from 270° West to East,68%,4%,"0.00""",0 (Low),4:51 am,7:26 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Thu,Sep 3,48 / 41 °F,Mostly cloudy.,44 °F,8 mph,Wind blowing from 270° West to East,66%,5%,"0.00""",0 (Low),4:54 am,7:22 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Fri,Sep 4,55 / 45 °F,Partly cloudy.,52 °F,9 mph,Wind blowing from 0° North to South,71%,6%,"0.00""",0 (Low),4:57 am,7:18 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Sat,Sep 5,53 / 45 °F,Morning clouds.,49 °F,5 mph,Wind blowing from 230° Southwest to Northeast,69%,4%,"0.00""",0 (Low),5:00 am,7:15 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Sun,Sep 6,54 / 45 °F,Increasing cloudiness.,48 °F,10 mph,Wind blowing from 150° South-southeast to North-northwest,53%,40%,"0.00""",0 (Low),5:03 am,7:11 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Mon,Sep 7,53 / 44 °F,Rain. Overcast.,50 °F,8 mph,Wind blowing from 210° South-southwest to North-northeast,90%,60%,"0.22""",0 (Low),5:06 am,7:07 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Tue,Sep 8,45 / 40 °F,Sprinkles. Broken clouds.,38 °F,12 mph,Wind blowing from 330° North-northwest to South-southeast,65%,55%,"0.04""",0 (Low),5:09 am,7:04 pm,2026-08-26T01:42:04+00:00
+Anadyr,russia,Wed,Sep 9,46 / 38 °F,Mostly sunny.,40 °F,10 mph,Wind blowing from 330° North-northwest to South-southeast,49%,6%,"0.00""",0 (Low),5:12 am,7:00 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Wed,Aug 26,67 / 55 °F,Overcast.,66 °F,3 mph,Wind blowing from 200° South-southwest to North-northeast,69%,0%,"0.00""",0 (Low),6:00 am,8:42 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Thu,Aug 27,65 / 57 °F,Overcast.,64 °F,5 mph,Wind blowing from 170° South to North,71%,0%,"0.00""",0 (Low),6:02 am,8:39 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Fri,Aug 28,65 / 57 °F,Sprinkles late. Overcast.,63 °F,6 mph,Wind blowing from 160° South-southeast to North-northwest,74%,21%,"0.01""",0 (Low),6:04 am,8:36 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Sat,Aug 29,67 / 61 °F,Showers late. Overcast.,66 °F,17 mph,Wind blowing from 120° East-southeast to West-northwest,72%,56%,"0.17""",0 (Low),6:07 am,8:33 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Sun,Aug 30,64 / 61 °F,Light showers. Overcast.,63 °F,14 mph,Wind blowing from 230° Southwest to Northeast,90%,63%,"0.32""",0 (Low),6:09 am,8:30 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Mon,Aug 31,65 / 60 °F,Passing showers. Cloudy.,64 °F,17 mph,Wind blowing from 230° Southwest to Northeast,80%,45%,"0.08""",0 (Low),6:12 am,8:27 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Tue,Sep 1,64 / 57 °F,Showery. Overcast.,61 °F,11 mph,Wind blowing from 310° Northwest to Southeast,93%,83%,"1.06""",0 (Low),6:14 am,8:24 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Wed,Sep 2,64 / 57 °F,Sprinkles early. Partly cloudy.,64 °F,12 mph,Wind blowing from 240° West-southwest to East-northeast,65%,22%,"0.03""",0 (Low),6:16 am,8:21 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Thu,Sep 3,64 / 54 °F,Sprinkles early. Broken clouds.,64 °F,8 mph,Wind blowing from 220° Southwest to Northeast,75%,44%,"0.01""",0 (Low),6:19 am,8:18 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Fri,Sep 4,67 / 53 °F,Showers late. Overcast.,62 °F,10 mph,Wind blowing from 230° Southwest to Northeast,66%,39%,"0.00""",0 (Low),6:21 am,8:15 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Sat,Sep 5,63 / 53 °F,Sprinkles late. Cloudy.,63 °F,8 mph,Wind blowing from 210° South-southwest to North-northeast,72%,41%,"0.01""",0 (Low),6:23 am,8:12 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Sun,Sep 6,62 / 54 °F,Showers early. Cloudy.,62 °F,19 mph,Wind blowing from 200° South-southwest to North-northeast,95%,74%,"0.37""",0 (Low),6:26 am,8:09 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Mon,Sep 7,63 / 57 °F,Mostly sunny.,62 °F,15 mph,Wind blowing from 260° West to East,54%,4%,"0.00""",3 (Moderate),6:28 am,8:06 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Tue,Sep 8,64 / 53 °F,Showers late. Cloudy.,56 °F,14 mph,Wind blowing from 180° South to North,67%,52%,"0.06""",0 (Low),6:31 am,8:03 pm,2026-08-26T01:42:04+00:00
+Helsinki,finland,Wed,Sep 9,59 / 54 °F,Isolated tstorms. Morning clouds.,56 °F,18 mph,Wind blowing from 220° Southwest to Northeast,81%,63%,"0.18""",0 (Low),6:33 am,8:00 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Wed,Aug 26,69 / 55 °F,Scattered tstorms late. Overcast.,64 °F,6 mph,Wind blowing from 210° South-southwest to North-northeast,75%,61%,"0.35""",3 (Moderate),6:41 am,5:56 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Thu,Aug 27,60 / 52 °F,Thunderstorms. Overcast.,56 °F,12 mph,Wind blowing from 170° South to North,70%,77%,"0.96""",0 (Low),6:39 am,5:56 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Fri,Aug 28,66 / 51 °F,Mostly cloudy.,65 °F,14 mph,Wind blowing from 140° Southeast to Northwest,55%,0%,"0.00""",3 (Moderate),6:38 am,5:57 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Sat,Aug 29,70 / 52 °F,Partly cloudy.,69 °F,12 mph,Wind blowing from 100° East to West,55%,0%,"0.00""",3 (Moderate),6:37 am,5:58 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Sun,Aug 30,80 / 57 °F,Sunny.,80 °F,4 mph,Wind blowing from 60° East-northeast to West-southwest,46%,0%,"0.00""",5 (Moderate),6:36 am,5:58 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Mon,Aug 31,72 / 56 °F,Mostly cloudy.,69 °F,11 mph,Wind blowing from 240° West-southwest to East-northeast,62%,2%,"0.00""",3 (Moderate),6:35 am,5:59 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Tue,Sep 1,65 / 48 °F,Mostly sunny.,64 °F,11 mph,Wind blowing from 210° South-southwest to North-northeast,45%,2%,"0.00""",5 (Moderate),6:33 am,5:59 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Wed,Sep 2,65 / 45 °F,Showers late. Cloudy.,64 °F,9 mph,Wind blowing from 270° West to East,64%,48%,"0.04""",3 (Moderate),6:32 am,6:00 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Thu,Sep 3,66 / 46 °F,Morning clouds.,65 °F,6 mph,Wind blowing from 250° West-southwest to East-northeast,50%,6%,"0.00""",3 (Moderate),6:31 am,6:01 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Fri,Sep 4,67 / 48 °F,Sprinkles early. Morning clouds.,66 °F,8 mph,Wind blowing from 230° Southwest to Northeast,60%,48%,"0.02""",3 (Moderate),6:30 am,6:01 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Sat,Sep 5,66 / 48 °F,Sunny.,65 °F,10 mph,Wind blowing from 210° South-southwest to North-northeast,59%,4%,"0.00""",5 (Moderate),6:28 am,6:02 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Sun,Sep 6,66 / 47 °F,Mostly sunny.,65 °F,8 mph,Wind blowing from 220° Southwest to Northeast,55%,4%,"0.00""",5 (Moderate),6:27 am,6:02 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Mon,Sep 7,69 / 47 °F,Sunny.,65 °F,8 mph,Wind blowing from 180° South to North,39%,5%,"0.00""",5 (Moderate),6:26 am,6:03 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Tue,Sep 8,72 / 47 °F,Sunny.,67 °F,6 mph,Wind blowing from 260° West to East,43%,4%,"0.00""",5 (Moderate),6:25 am,6:04 pm,2026-08-26T01:42:04+00:00
+Perth,australia,Wed,Sep 9,67 / 48 °F,Scattered clouds.,66 °F,14 mph,Wind blowing from 190° South to North,73%,5%,"0.00""",3 (Moderate),6:23 am,6:04 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Tue,Aug 25,61 / 55 °F,Rain showers. Overcast.,58 °F,4 mph,Wind blowing from 140° Southeast to Northwest,74%,83%,"0.25""",0 (Low),6:34 am,9:26 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Wed,Aug 26,61 / 47 °F,Sprinkles early. Morning clouds.,60 °F,4 mph,Wind blowing from 290° West-northwest to East-southeast,59%,50%,"0.02""",3 (Moderate),6:37 am,9:23 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Thu,Aug 27,60 / 46 °F,Afternoon clouds.,59 °F,3 mph,Wind blowing from 10° North to South,63%,18%,"0.00""",0 (Low),6:39 am,9:20 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Fri,Aug 28,56 / 50 °F,Rain. Overcast.,54 °F,2 mph,Wind blowing from 50° Northeast to Southwest,79%,76%,"0.53""",0 (Low),6:42 am,9:17 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Sat,Aug 29,60 / 50 °F,Light showers. Cloudy.,56 °F,7 mph,Wind blowing from 350° North to South,73%,63%,"0.23""",0 (Low),6:44 am,9:14 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Sun,Aug 30,59 / 46 °F,Overcast.,57 °F,2 mph,Wind blowing from 190° South to North,63%,2%,"0.00""",0 (Low),6:47 am,9:11 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Mon,Aug 31,55 / 47 °F,Showery. Overcast.,48 °F,5 mph,Wind blowing from 0° North to South,91%,75%,"1.08""",0 (Low),6:49 am,9:08 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Tue,Sep 1,54 / 39 °F,Breaks of sun late.,50 °F,9 mph,Wind blowing from 330° North-northwest to South-southeast,62%,5%,"0.00""",0 (Low),6:52 am,9:05 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Wed,Sep 2,55 / 44 °F,Partly cloudy.,52 °F,8 mph,Wind blowing from 350° North to South,51%,3%,"0.00""",3 (Moderate),6:54 am,9:01 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Thu,Sep 3,54 / 44 °F,Sprinkles late. Overcast.,51 °F,4 mph,Wind blowing from 290° West-northwest to East-southeast,68%,50%,"0.11""",0 (Low),6:57 am,8:58 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Fri,Sep 4,55 / 46 °F,Rain showers. Overcast.,50 °F,5 mph,Wind blowing from 30° North-northeast to South-southwest,90%,71%,"0.57""",0 (Low),6:59 am,8:55 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Sat,Sep 5,55 / 47 °F,Rain. Overcast.,53 °F,2 mph,Wind blowing from 180° South to North,95%,80%,"0.70""",0 (Low),7:02 am,8:52 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Sun,Sep 6,55 / 48 °F,Sprinkles. Overcast.,50 °F,8 mph,Wind blowing from 350° North to South,90%,59%,"0.10""",0 (Low),7:04 am,8:49 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Mon,Sep 7,55 / 47 °F,Sunny.,54 °F,3 mph,Wind blowing from 310° Northwest to Southeast,65%,5%,"0.00""",0 (Low),7:07 am,8:46 pm,2026-08-26T01:42:04+00:00
+Anchorage,usa,Tue,Sep 8,55 / 46 °F,Showers late. Overcast.,54 °F,3 mph,Wind blowing from 260° West to East,74%,70%,"0.30""",0 (Low),7:09 am,8:42 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Wed,Aug 26,89 / 82 °F,Thunderstorms. Overcast.,99 °F,12 mph,Wind blowing from 150° South-southeast to North-northwest,72%,70%,"0.48""",5 (Moderate),6:04 am,6:45 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Thu,Aug 27,89 / 82 °F,Thunderstorms. Overcast.,101 °F,8 mph,Wind blowing from 210° South-southwest to North-northeast,75%,84%,"0.72""",5 (Moderate),6:04 am,6:45 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Fri,Aug 28,90 / 82 °F,Thunderstorms. Overcast.,103 °F,11 mph,Wind blowing from 230° Southwest to Northeast,74%,82%,"0.81""",5 (Moderate),6:04 am,6:44 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Sat,Aug 29,89 / 81 °F,Thunderstorms. Overcast.,101 °F,7 mph,Wind blowing from 120° East-southeast to West-northwest,69%,91%,"1.54""",3 (Moderate),6:05 am,6:43 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Sun,Aug 30,89 / 80 °F,Isolated tstorms. Broken clouds.,99 °F,18 mph,Wind blowing from 90° East to West,68%,66%,"0.32""",7 (High),6:05 am,6:42 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Mon,Aug 31,90 / 80 °F,Thundershowers. Overcast.,99 °F,17 mph,Wind blowing from 90° East to West,69%,48%,"0.24""",5 (Moderate),6:05 am,6:41 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Tue,Sep 1,91 / 79 °F,Passing showers. Cloudy.,100 °F,3 mph,Wind blowing from 200° South-southwest to North-northeast,61%,18%,"0.09""",5 (Moderate),6:05 am,6:40 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Wed,Sep 2,91 / 77 °F,Cloudy.,89 °F,15 mph,Wind blowing from 20° North-northeast to South-southwest,56%,5%,"0.00""",5 (Moderate),6:06 am,6:39 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Thu,Sep 3,87 / 79 °F,Mostly cloudy.,89 °F,13 mph,Wind blowing from 0° North to South,53%,5%,"0.00""",5 (Moderate),6:06 am,6:38 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Fri,Sep 4,86 / 78 °F,Cloudy.,89 °F,10 mph,Wind blowing from 300° West-northwest to East-southeast,57%,6%,"0.00""",5 (Moderate),6:06 am,6:37 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Sat,Sep 5,86 / 78 °F,Overcast.,90 °F,8 mph,Wind blowing from 280° West to East,58%,6%,"0.00""",3 (Moderate),6:07 am,6:36 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Sun,Sep 6,87 / 78 °F,Afternoon clouds.,96 °F,3 mph,Wind blowing from 160° South-southeast to North-northwest,64%,40%,"0.00""",7 (High),6:07 am,6:35 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Mon,Sep 7,91 / 78 °F,Showers late. Scattered clouds.,105 °F,6 mph,Wind blowing from 150° South-southeast to North-northwest,65%,50%,"0.03""",7 (High),6:07 am,6:34 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Tue,Sep 8,92 / 78 °F,Passing showers. Breaks of sun late.,109 °F,4 mph,Wind blowing from 160° South-southeast to North-northwest,67%,47%,"0.06""",5 (Moderate),6:08 am,6:33 pm,2026-08-26T01:42:04+00:00
+Hong Kong,hong-kong,Wed,Sep 9,91 / 79 °F,A few tstorms. Afternoon clouds.,110 °F,8 mph,Wind blowing from 220° Southwest to Northeast,72%,86%,"0.09""",5 (Moderate),6:08 am,6:32 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Wed,Aug 26,85 / 62 °F,Afternoon clouds.,84 °F,5 mph,Wind blowing from 220° Southwest to Northeast,45%,0%,"0.00""",5 (Moderate),6:22 am,7:41 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Thu,Aug 27,85 / 70 °F,Isolated tstorms. Cloudy.,89 °F,11 mph,Wind blowing from 190° South to North,60%,62%,"0.13""",3 (Moderate),6:23 am,7:39 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Fri,Aug 28,83 / 71 °F,Thundershowers. Overcast.,84 °F,4 mph,Wind blowing from 260° West to East,64%,57%,"0.13""",3 (Moderate),6:24 am,7:38 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Sat,Aug 29,82 / 67 °F,Overcast.,82 °F,2 mph,Wind blowing from 320° Northwest to Southeast,52%,0%,"0.00""",3 (Moderate),6:25 am,7:36 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Sun,Aug 30,86 / 66 °F,Increasing cloudiness.,88 °F,7 mph,Wind blowing from 210° South-southwest to North-northeast,57%,0%,"0.00""",3 (Moderate),6:26 am,7:35 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Mon,Aug 31,90 / 71 °F,Cloudy.,94 °F,9 mph,Wind blowing from 270° West to East,52%,0%,"0.00""",3 (Moderate),6:27 am,7:33 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Tue,Sep 1,90 / 74 °F,Isolated tstorms late. Overcast.,92 °F,8 mph,Wind blowing from 290° West-northwest to East-southeast,57%,9%,"0.02""",3 (Moderate),6:28 am,7:31 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Wed,Sep 2,92 / 73 °F,Showers early. Partly cloudy.,91 °F,4 mph,Wind blowing from 20° North-northeast to South-southwest,34%,42%,"0.03""",5 (Moderate),6:29 am,7:30 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Thu,Sep 3,84 / 75 °F,Cloudy.,88 °F,8 mph,Wind blowing from 110° East-southeast to West-northwest,62%,6%,"0.00""",3 (Moderate),6:30 am,7:28 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Fri,Sep 4,88 / 72 °F,Morning clouds.,91 °F,8 mph,Wind blowing from 220° Southwest to Northeast,53%,6%,"0.00""",3 (Moderate),6:31 am,7:27 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Sat,Sep 5,90 / 73 °F,Isolated tstorms late. Overcast.,88 °F,7 mph,Wind blowing from 220° Southwest to Northeast,45%,45%,"0.02""",3 (Moderate),6:32 am,7:25 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Sun,Sep 6,88 / 73 °F,A few tstorms. Morning clouds.,88 °F,7 mph,Wind blowing from 260° West to East,45%,73%,"0.10""",5 (Moderate),6:33 am,7:23 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Mon,Sep 7,87 / 73 °F,Scattered clouds.,88 °F,9 mph,Wind blowing from 280° West to East,43%,48%,"0.01""",3 (Moderate),6:34 am,7:22 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Tue,Sep 8,89 / 73 °F,Isolated tstorms late. Afternoon clouds.,87 °F,8 mph,Wind blowing from 260° West to East,40%,51%,"0.02""",3 (Moderate),6:35 am,7:20 pm,2026-08-26T01:42:04+00:00
+Philadelphia,usa,Wed,Sep 9,89 / 73 °F,Mostly sunny.,84 °F,11 mph,Wind blowing from 320° Northwest to Southeast,24%,39%,"0.00""",5 (Moderate),6:36 am,7:19 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Wed,Aug 26,90 / 62 °F,Sunny.,85 °F,5 mph,Wind blowing from 270° West to East,24%,0%,"0.00""",5 (Moderate),6:10 am,7:29 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Thu,Aug 27,91 / 66 °F,Mostly sunny.,86 °F,9 mph,Wind blowing from 300° West-northwest to East-southeast,19%,0%,"0.00""",5 (Moderate),6:11 am,7:28 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Fri,Aug 28,83 / 60 °F,Isolated tstorms late. Increasing cloudiness.,80 °F,12 mph,Wind blowing from 300° West-northwest to East-southeast,30%,70%,"0.11""",5 (Moderate),6:12 am,7:26 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Sat,Aug 29,74 / 59 °F,Isolated tstorms. Overcast.,77 °F,13 mph,Wind blowing from 30° North-northeast to South-southwest,45%,48%,"0.11""",3 (Moderate),6:13 am,7:24 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Sun,Aug 30,78 / 57 °F,Showers late. Broken clouds.,78 °F,10 mph,Wind blowing from 30° North-northeast to South-southwest,43%,44%,"0.04""",5 (Moderate),6:14 am,7:23 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Mon,Aug 31,82 / 55 °F,Increasing cloudiness.,79 °F,5 mph,Wind blowing from 0° North to South,35%,5%,"0.00""",5 (Moderate),6:15 am,7:21 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Tue,Sep 1,83 / 57 °F,Mostly sunny.,79 °F,4 mph,Wind blowing from 230° Southwest to Northeast,34%,0%,"0.00""",5 (Moderate),6:16 am,7:20 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Wed,Sep 2,83 / 60 °F,Sunny.,80 °F,3 mph,Wind blowing from 290° West-northwest to East-southeast,27%,4%,"0.00""",5 (Moderate),6:17 am,7:18 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Thu,Sep 3,84 / 62 °F,Sunny.,82 °F,4 mph,Wind blowing from 270° West to East,22%,3%,"0.00""",5 (Moderate),6:18 am,7:17 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Fri,Sep 4,81 / 62 °F,Showers early. Partly cloudy.,80 °F,14 mph,Wind blowing from 0° North to South,36%,41%,"0.02""",5 (Moderate),6:19 am,7:15 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Sat,Sep 5,83 / 61 °F,Sunny.,81 °F,11 mph,Wind blowing from 350° North to South,26%,6%,"0.00""",5 (Moderate),6:20 am,7:13 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Sun,Sep 6,86 / 63 °F,Sunny.,83 °F,1 mph,Wind blowing from 10° North to South,22%,4%,"0.00""",5 (Moderate),6:20 am,7:12 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Mon,Sep 7,89 / 64 °F,Sunny.,85 °F,1 mph,Wind blowing from 20° North-northeast to South-southwest,16%,3%,"0.00""",5 (Moderate),6:21 am,7:10 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Tue,Sep 8,90 / 66 °F,Sunny.,86 °F,2 mph,Wind blowing from 300° West-northwest to East-southeast,14%,3%,"0.00""",5 (Moderate),6:22 am,7:09 pm,2026-08-26T01:42:04+00:00
+Ankara,turkey,Wed,Sep 9,91 / 66 °F,Sunny.,87 °F,4 mph,Wind blowing from 20° North-northeast to South-southwest,17%,3%,"0.00""",5 (Moderate),6:23 am,7:07 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Tue,Aug 25,86 / 74 °F,Showers early. Breaks of sun late.,88 °F,20 mph,Wind blowing from 60° East-northeast to West-southwest,55%,22%,"0.02""",5 (Moderate),6:13 am,6:53 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Wed,Aug 26,85 / 75 °F,Passing showers. Scattered clouds.,85 °F,18 mph,Wind blowing from 60° East-northeast to West-southwest,52%,41%,"0.04""",10 (Very high),6:13 am,6:52 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Thu,Aug 27,85 / 75 °F,Passing showers. Broken clouds.,85 °F,16 mph,Wind blowing from 60° East-northeast to West-southwest,55%,49%,"0.09""",5 (Moderate),6:13 am,6:51 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Fri,Aug 28,85 / 75 °F,Passing showers. Broken clouds.,86 °F,19 mph,Wind blowing from 60° East-northeast to West-southwest,54%,23%,"0.10""",5 (Moderate),6:13 am,6:50 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Sat,Aug 29,85 / 75 °F,Passing showers. Morning clouds.,86 °F,21 mph,Wind blowing from 60° East-northeast to West-southwest,55%,23%,"0.06""",5 (Moderate),6:14 am,6:49 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Sun,Aug 30,85 / 75 °F,Showers early. Mostly sunny.,87 °F,19 mph,Wind blowing from 60° East-northeast to West-southwest,54%,23%,"0.03""",7 (High),6:14 am,6:49 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Mon,Aug 31,86 / 73 °F,Passing showers. Scattered clouds.,87 °F,18 mph,Wind blowing from 60° East-northeast to West-southwest,56%,16%,"0.05""",7 (High),6:14 am,6:48 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Tue,Sep 1,85 / 71 °F,Passing showers. Broken clouds.,85 °F,15 mph,Wind blowing from 50° Northeast to Southwest,56%,41%,"0.05""",5 (Moderate),6:15 am,6:47 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Wed,Sep 2,82 / 69 °F,Showers late. Mostly sunny.,84 °F,13 mph,Wind blowing from 70° East-northeast to West-southwest,69%,42%,"0.02""",7 (High),6:15 am,6:46 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Thu,Sep 3,83 / 70 °F,Showers early. Mostly sunny.,83 °F,16 mph,Wind blowing from 60° East-northeast to West-southwest,64%,45%,"0.05""",10 (Very high),6:15 am,6:45 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Fri,Sep 4,83 / 68 °F,Sunny.,83 °F,14 mph,Wind blowing from 50° Northeast to Southwest,63%,4%,"0.00""",7 (High),6:15 am,6:44 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Sat,Sep 5,83 / 68 °F,Mostly sunny.,84 °F,16 mph,Wind blowing from 60° East-northeast to West-southwest,68%,5%,"0.00""",7 (High),6:16 am,6:43 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Sun,Sep 6,83 / 70 °F,Mostly sunny.,84 °F,19 mph,Wind blowing from 60° East-northeast to West-southwest,68%,6%,"0.00""",7 (High),6:16 am,6:42 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Mon,Sep 7,83 / 70 °F,Sprinkles early. Scattered clouds.,87 °F,20 mph,Wind blowing from 70° East-northeast to West-southwest,80%,39%,"0.01""",7 (High),6:16 am,6:41 pm,2026-08-26T01:42:04+00:00
+Honolulu,usa,Tue,Sep 8,83 / 70 °F,Isolated tstorms. Scattered clouds.,87 °F,24 mph,Wind blowing from 60° East-northeast to West-southwest,80%,57%,"0.11""",5 (Moderate),6:16 am,6:40 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Tue,Aug 25,114 / 89 °F,Sunny.,110 °F,6 mph,Wind blowing from 300° West-northwest to East-southeast,13%,0%,"0.00""",7 (High),5:57 am,7:02 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Wed,Aug 26,115 / 89 °F,Afternoon clouds.,110 °F,7 mph,Wind blowing from 260° West to East,12%,0%,"0.00""",5 (Moderate),5:58 am,7:01 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Thu,Aug 27,112 / 88 °F,Cloudy.,110 °F,5 mph,Wind blowing from 280° West to East,16%,1%,"0.00""",3 (Moderate),5:59 am,6:59 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Fri,Aug 28,112 / 89 °F,Broken clouds.,110 °F,7 mph,Wind blowing from 280° West to East,16%,21%,"0.00""",5 (Moderate),5:59 am,6:58 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Sat,Aug 29,108 / 89 °F,Passing showers. Cloudy.,108 °F,10 mph,Wind blowing from 290° West-northwest to East-southeast,21%,23%,"0.04""",3 (Moderate),6:00 am,6:57 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Sun,Aug 30,100 / 83 °F,Thundershowers. Broken clouds.,102 °F,4 mph,Wind blowing from 320° Northwest to Southeast,30%,51%,"0.19""",3 (Moderate),6:01 am,6:55 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Mon,Aug 31,102 / 83 °F,Sunny.,101 °F,6 mph,Wind blowing from 210° South-southwest to North-northeast,29%,39%,"0.04""",7 (High),6:01 am,6:54 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Tue,Sep 1,105 / 86 °F,Increasing cloudiness.,105 °F,7 mph,Wind blowing from 250° West-southwest to East-northeast,24%,2%,"0.00""",3 (Moderate),6:02 am,6:53 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Wed,Sep 2,102 / 89 °F,Mostly sunny.,98 °F,9 mph,Wind blowing from 240° West-southwest to East-northeast,16%,3%,"0.00""",7 (High),6:03 am,6:52 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Thu,Sep 3,100 / 89 °F,Overcast.,97 °F,6 mph,Wind blowing from 240° West-southwest to East-northeast,21%,5%,"0.00""",3 (Moderate),6:03 am,6:50 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Fri,Sep 4,100 / 89 °F,Morning clouds.,98 °F,8 mph,Wind blowing from 230° Southwest to Northeast,23%,6%,"0.00""",7 (High),6:04 am,6:49 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Sat,Sep 5,102 / 91 °F,Sunny.,101 °F,11 mph,Wind blowing from 190° South to North,21%,83%,"0.04""",7 (High),6:05 am,6:48 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Sun,Sep 6,102 / 92 °F,Sunny.,101 °F,9 mph,Wind blowing from 190° South to North,20%,6%,"0.00""",7 (High),6:05 am,6:46 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Mon,Sep 7,103 / 92 °F,Sunny.,102 °F,7 mph,Wind blowing from 230° Southwest to Northeast,20%,6%,"0.00""",7 (High),6:06 am,6:45 pm,2026-08-26T01:42:04+00:00
+Phoenix,usa,Tue,Sep 8,103 / 93 °F,Sunny.,99 °F,7 mph,Wind blowing from 240° West-southwest to East-northeast,15%,5%,"0.00""",7 (High),6:07 am,6:43 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Wed,Aug 26,83 / 45 °F,Sunny.,79 °F,7 mph,Wind blowing from 280° West to East,22%,0%,"0.00""",7 (High),6:02 am,5:41 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Thu,Aug 27,79 / 48 °F,Afternoon clouds.,78 °F,18 mph,Wind blowing from 80° East to West,32%,20%,"0.01""",5 (Moderate),6:01 am,5:41 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Fri,Aug 28,64 / 52 °F,Sprinkles early. Overcast.,62 °F,24 mph,Wind blowing from 140° Southeast to Northwest,68%,39%,"0.05""",3 (Moderate),6:01 am,5:41 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Sat,Aug 29,63 / 51 °F,Sprinkles. Mostly cloudy.,61 °F,28 mph,Wind blowing from 110° East-southeast to West-northwest,68%,38%,"0.06""",5 (Moderate),6:00 am,5:41 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Sun,Aug 30,66 / 52 °F,Sprinkles early. Mostly cloudy.,64 °F,21 mph,Wind blowing from 90° East to West,60%,17%,"0.03""",5 (Moderate),5:59 am,5:41 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Mon,Aug 31,66 / 50 °F,Cloudy.,64 °F,15 mph,Wind blowing from 100° East to West,69%,3%,"0.00""",3 (Moderate),5:58 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Tue,Sep 1,69 / 46 °F,Mostly cloudy.,69 °F,15 mph,Wind blowing from 90° East to West,60%,2%,"0.00""",3 (Moderate),5:57 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Wed,Sep 2,70 / 51 °F,Scattered clouds.,70 °F,18 mph,Wind blowing from 90° East to West,41%,6%,"0.00""",7 (High),5:57 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Thu,Sep 3,77 / 52 °F,Increasing cloudiness.,77 °F,13 mph,Wind blowing from 80° East to West,29%,6%,"0.00""",7 (High),5:56 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Fri,Sep 4,81 / 54 °F,Mostly sunny.,78 °F,5 mph,Wind blowing from 290° West-northwest to East-southeast,25%,6%,"0.00""",7 (High),5:55 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Sat,Sep 5,81 / 54 °F,Mostly sunny.,78 °F,21 mph,Wind blowing from 260° West to East,21%,6%,"0.00""",7 (High),5:54 am,5:42 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Sun,Sep 6,81 / 54 °F,Showers late. Mostly cloudy.,79 °F,19 mph,Wind blowing from 60° East-northeast to West-southwest,50%,41%,"0.00""",3 (Moderate),5:53 am,5:43 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Mon,Sep 7,82 / 55 °F,Showers late. Mostly cloudy.,81 °F,16 mph,Wind blowing from 90° East to West,57%,46%,"0.01""",5 (Moderate),5:52 am,5:43 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Tue,Sep 8,84 / 55 °F,Passing showers. Cloudy.,83 °F,14 mph,Wind blowing from 80° East to West,52%,57%,"0.02""",5 (Moderate),5:52 am,5:43 pm,2026-08-26T01:42:04+00:00
+Antananarivo,madagascar,Wed,Sep 9,85 / 55 °F,Showers early. Afternoon clouds.,82 °F,14 mph,Wind blowing from 60° East-northeast to West-southwest,43%,40%,"0.00""",5 (Moderate),5:51 am,5:43 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Wed,Aug 26,100 / 80 °F,Mostly sunny.,106 °F,5 mph,Wind blowing from 160° South-southeast to North-northwest,40%,5%,"0.00""",7 (High),6:55 am,7:50 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Thu,Aug 27,99 / 81 °F,Broken clouds.,105 °F,6 mph,Wind blowing from 210° South-southwest to North-northeast,41%,21%,"0.02""",5 (Moderate),6:56 am,7:49 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Fri,Aug 28,96 / 79 °F,Partly cloudy.,105 °F,4 mph,Wind blowing from 60° East-northeast to West-southwest,49%,3%,"0.00""",5 (Moderate),6:56 am,7:48 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Sat,Aug 29,97 / 77 °F,Sunny.,103 °F,4 mph,Wind blowing from 70° East-northeast to West-southwest,42%,0%,"0.00""",7 (High),6:57 am,7:47 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Sun,Aug 30,96 / 76 °F,Afternoon clouds.,100 °F,8 mph,Wind blowing from 110° East-southeast to West-northwest,42%,0%,"0.00""",5 (Moderate),6:57 am,7:45 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Mon,Aug 31,94 / 77 °F,Scattered clouds.,101 °F,10 mph,Wind blowing from 140° Southeast to Northwest,51%,2%,"0.00""",7 (High),6:58 am,7:44 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Tue,Sep 1,93 / 78 °F,Afternoon clouds.,101 °F,11 mph,Wind blowing from 120° East-southeast to West-northwest,58%,2%,"0.00""",7 (High),6:58 am,7:43 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Wed,Sep 2,96 / 82 °F,Cloudy.,99 °F,8 mph,Wind blowing from 130° Southeast to Northwest,38%,5%,"0.00""",3 (Moderate),6:59 am,7:42 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Thu,Sep 3,93 / 83 °F,Tstorms early. Cloudy.,99 °F,10 mph,Wind blowing from 120° East-southeast to West-northwest,46%,82%,"0.03""",3 (Moderate),6:59 am,7:41 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Fri,Sep 4,93 / 82 °F,Thundershowers. Overcast.,118 °F,10 mph,Wind blowing from 120° East-southeast to West-northwest,72%,57%,"0.07""",3 (Moderate),7:00 am,7:39 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Sat,Sep 5,97 / 86 °F,Thunderstorms. Cloudy.,145 °F,5 mph,Wind blowing from 80° East to West,80%,99%,"0.73""",3 (Moderate),7:00 am,7:38 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Sun,Sep 6,100 / 88 °F,Broken clouds.,108 °F,11 mph,Wind blowing from 150° South-southeast to North-northwest,40%,6%,"0.00""",3 (Moderate),7:01 am,7:37 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Mon,Sep 7,100 / 88 °F,Mostly sunny.,108 °F,11 mph,Wind blowing from 140° Southeast to Northwest,40%,6%,"0.00""",7 (High),7:01 am,7:36 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Tue,Sep 8,100 / 87 °F,Sunny.,108 °F,10 mph,Wind blowing from 130° Southeast to Northwest,41%,5%,"0.00""",7 (High),7:02 am,7:35 pm,2026-08-26T01:42:04+00:00
+Houston,usa,Wed,Sep 9,100 / 89 °F,Mostly sunny.,114 °F,11 mph,Wind blowing from 120° East-southeast to West-northwest,48%,4%,"0.00""",3 (Moderate),7:03 am,7:33 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Wed,Aug 26,71 / 57 °F,Cloudy.,76 °F,9 mph,Wind blowing from 80° East to West,60%,0%,"0.00""",3 (Moderate),6:08 am,7:59 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Thu,Aug 27,81 / 57 °F,Cloudy.,80 °F,8 mph,Wind blowing from 110° East-southeast to West-northwest,49%,0%,"0.00""",3 (Moderate),6:09 am,7:57 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Fri,Aug 28,87 / 61 °F,Showers late. Overcast.,85 °F,6 mph,Wind blowing from 130° Southeast to Northwest,38%,61%,"0.14""",0 (Low),6:11 am,7:55 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Sat,Aug 29,75 / 60 °F,Showers early. Cloudy.,77 °F,14 mph,Wind blowing from 250° West-southwest to East-northeast,51%,64%,"0.15""",3 (Moderate),6:12 am,7:52 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Sun,Aug 30,80 / 60 °F,Cloudy.,79 °F,8 mph,Wind blowing from 240° West-southwest to East-northeast,49%,0%,"0.00""",3 (Moderate),6:14 am,7:50 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Mon,Aug 31,75 / 59 °F,Showers late. Afternoon clouds.,69 °F,11 mph,Wind blowing from 270° West to East,56%,43%,"0.03""",3 (Moderate),6:15 am,7:48 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Tue,Sep 1,68 / 57 °F,Overcast.,66 °F,8 mph,Wind blowing from 250° West-southwest to East-northeast,58%,3%,"0.00""",3 (Moderate),6:17 am,7:46 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Wed,Sep 2,68 / 53 °F,Passing showers. Cloudy.,68 °F,11 mph,Wind blowing from 270° West to East,50%,42%,"0.03""",3 (Moderate),6:18 am,7:44 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Thu,Sep 3,71 / 56 °F,Breaks of sun late.,76 °F,10 mph,Wind blowing from 300° West-northwest to East-southeast,34%,6%,"0.00""",3 (Moderate),6:20 am,7:42 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Fri,Sep 4,75 / 56 °F,Sunny.,77 °F,4 mph,Wind blowing from 180° South to North,32%,4%,"0.00""",3 (Moderate),6:21 am,7:40 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Sat,Sep 5,79 / 57 °F,Afternoon clouds.,78 °F,12 mph,Wind blowing from 230° Southwest to Northeast,25%,5%,"0.00""",3 (Moderate),6:23 am,7:38 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Sun,Sep 6,75 / 60 °F,Showers early. Breaks of sun late.,77 °F,10 mph,Wind blowing from 330° North-northwest to South-southeast,32%,50%,"0.02""",3 (Moderate),6:24 am,7:35 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Mon,Sep 7,78 / 59 °F,Afternoon clouds.,78 °F,4 mph,Wind blowing from 70° East-northeast to West-southwest,34%,5%,"0.00""",3 (Moderate),6:25 am,7:33 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Tue,Sep 8,81 / 53 °F,Breaks of sun late.,80 °F,12 mph,Wind blowing from 250° West-southwest to East-northeast,24%,6%,"0.00""",0 (Low),6:27 am,7:31 pm,2026-08-26T01:42:04+00:00
+Prague,czech-republic,Wed,Sep 9,81 / 54 °F,Morning clouds.,80 °F,10 mph,Wind blowing from 250° West-southwest to East-northeast,22%,6%,"0.00""",3 (Moderate),6:28 am,7:29 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Wed,Aug 26,91 / 63 °F,Sunny.,93 °F,10 mph,Wind blowing from 10° North to South,47%,0%,"0.00""",5 (Moderate),7:08 am,6:36 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Thu,Aug 27,97 / 73 °F,Mostly sunny.,99 °F,12 mph,Wind blowing from 0° North to South,37%,0%,"0.00""",5 (Moderate),7:07 am,6:36 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Fri,Aug 28,101 / 77 °F,Sunny.,101 °F,12 mph,Wind blowing from 290° West-northwest to East-southeast,31%,0%,"0.00""",5 (Moderate),7:06 am,6:37 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Sat,Aug 29,90 / 71 °F,Mostly cloudy.,91 °F,7 mph,Wind blowing from 200° South-southwest to North-northeast,50%,0%,"0.00""",3 (Moderate),7:05 am,6:37 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Sun,Aug 30,90 / 68 °F,Showers late. Mostly cloudy.,89 °F,9 mph,Wind blowing from 210° South-southwest to North-northeast,53%,18%,"0.06""",3 (Moderate),7:04 am,6:38 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Mon,Aug 31,72 / 62 °F,Passing showers. Overcast.,65 °F,7 mph,Wind blowing from 220° Southwest to Northeast,82%,59%,"0.28""",3 (Moderate),7:03 am,6:38 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Tue,Sep 1,74 / 54 °F,Showers early. Morning clouds.,77 °F,10 mph,Wind blowing from 180° South to North,45%,14%,"0.01""",3 (Moderate),7:02 am,6:38 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Wed,Sep 2,75 / 53 °F,Sunny.,77 °F,6 mph,Wind blowing from 80° East to West,36%,2%,"0.00""",7 (High),7:01 am,6:39 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Thu,Sep 3,79 / 53 °F,Sunny.,78 °F,4 mph,Wind blowing from 150° South-southeast to North-northwest,30%,2%,"0.00""",7 (High),7:00 am,6:39 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Fri,Sep 4,79 / 57 °F,Sunny.,79 °F,8 mph,Wind blowing from 120° East-southeast to West-northwest,30%,4%,"0.00""",7 (High),6:59 am,6:40 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Sat,Sep 5,79 / 58 °F,Broken clouds.,79 °F,8 mph,Wind blowing from 110° East-southeast to West-northwest,35%,6%,"0.00""",7 (High),6:58 am,6:40 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Sun,Sep 6,78 / 59 °F,Sprinkles late. Broken clouds.,79 °F,7 mph,Wind blowing from 90° East to West,53%,45%,"0.02""",3 (Moderate),6:57 am,6:40 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Mon,Sep 7,78 / 61 °F,Cloudy.,79 °F,4 mph,Wind blowing from 80° East to West,69%,48%,"0.02""",3 (Moderate),6:56 am,6:41 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Tue,Sep 8,77 / 61 °F,Cloudy.,79 °F,8 mph,Wind blowing from 190° South to North,63%,6%,"0.00""",3 (Moderate),6:55 am,6:41 pm,2026-08-26T01:42:04+00:00
+Asuncion,paraguay,Wed,Sep 9,79 / 61 °F,Afternoon clouds.,80 °F,8 mph,Wind blowing from 170° South to North,53%,5%,"0.00""",3 (Moderate),6:54 am,6:41 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Wed,Aug 26,84 / 59 °F,Isolated tstorms late. Mostly cloudy.,84 °F,7 mph,Wind blowing from 220° Southwest to Northeast,53%,58%,"0.20""",3 (Moderate),7:07 am,8:24 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Thu,Aug 27,82 / 66 °F,Isolated tstorms. Partly cloudy.,83 °F,6 mph,Wind blowing from 0° North to South,56%,65%,"0.14""",3 (Moderate),7:08 am,8:23 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Fri,Aug 28,80 / 62 °F,Sunny.,80 °F,7 mph,Wind blowing from 50° Northeast to Southwest,47%,0%,"0.00""",5 (Moderate),7:09 am,8:21 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Sat,Aug 29,82 / 60 °F,Overcast.,82 °F,5 mph,Wind blowing from 120° East-southeast to West-northwest,50%,0%,"0.00""",3 (Moderate),7:09 am,8:20 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Sun,Aug 30,88 / 61 °F,Mostly cloudy.,88 °F,11 mph,Wind blowing from 210° South-southwest to North-northeast,50%,0%,"0.00""",3 (Moderate),7:10 am,8:18 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Mon,Aug 31,90 / 70 °F,Mostly sunny.,92 °F,10 mph,Wind blowing from 240° West-southwest to East-northeast,51%,0%,"0.00""",5 (Moderate),7:11 am,8:17 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Tue,Sep 1,88 / 71 °F,Showers late. Partly cloudy.,90 °F,8 mph,Wind blowing from 240° West-southwest to East-northeast,58%,17%,"0.06""",5 (Moderate),7:12 am,8:15 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Wed,Sep 2,90 / 71 °F,Sunny.,91 °F,6 mph,Wind blowing from 220° Southwest to Northeast,44%,5%,"0.00""",5 (Moderate),7:13 am,8:14 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Thu,Sep 3,90 / 72 °F,Sunny.,90 °F,8 mph,Wind blowing from 200° South-southwest to North-northeast,41%,5%,"0.00""",5 (Moderate),7:14 am,8:12 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Fri,Sep 4,90 / 72 °F,Isolated tstorms. Partly cloudy.,91 °F,8 mph,Wind blowing from 190° South to North,42%,51%,"0.04""",3 (Moderate),7:15 am,8:10 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Sat,Sep 5,90 / 71 °F,Isolated tstorms late. Increasing cloudiness.,96 °F,7 mph,Wind blowing from 220° Southwest to Northeast,54%,60%,"0.11""",3 (Moderate),7:16 am,8:09 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Sun,Sep 6,89 / 71 °F,Thundershowers. Morning clouds.,112 °F,7 mph,Wind blowing from 210° South-southwest to North-northeast,86%,99%,"0.43""",3 (Moderate),7:17 am,8:07 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Mon,Sep 7,90 / 71 °F,Mostly sunny.,95 °F,14 mph,Wind blowing from 210° South-southwest to North-northeast,54%,7%,"0.00""",3 (Moderate),7:18 am,8:06 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Tue,Sep 8,90 / 71 °F,Thundershowers. Overcast.,99 °F,6 mph,Wind blowing from 250° West-southwest to East-northeast,63%,80%,"0.35""",3 (Moderate),7:19 am,8:04 pm,2026-08-26T01:42:04+00:00
+Indianapolis,usa,Wed,Sep 9,93 / 74 °F,Isolated tstorms late. Broken clouds.,111 °F,4 mph,Wind blowing from 140° Southeast to Northwest,65%,17%,"0.01""",0 (Low),7:20 am,8:02 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Wed,Aug 26,54 / 41 °F,Overcast.,50 °F,9 mph,Wind blowing from 320° Northwest to Southeast,64%,1%,"0.00""",0 (Low),5:52 am,9:04 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Thu,Aug 27,54 / 45 °F,Morning clouds.,49 °F,14 mph,Wind blowing from 320° Northwest to Southeast,54%,1%,"0.00""",0 (Low),5:55 am,9:01 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Fri,Aug 28,54 / 41 °F,Morning clouds.,51 °F,6 mph,Wind blowing from 290° West-northwest to East-southeast,58%,0%,"0.00""",0 (Low),5:58 am,8:57 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Sat,Aug 29,51 / 41 °F,Sunny.,46 °F,11 mph,Wind blowing from 310° Northwest to Southeast,56%,5%,"0.00""",3 (Moderate),6:01 am,8:54 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Sun,Aug 30,54 / 40 °F,Mostly cloudy.,51 °F,6 mph,Wind blowing from 350° North to South,51%,5%,"0.00""",0 (Low),6:04 am,8:50 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Mon,Aug 31,47 / 42 °F,Increasing cloudiness.,38 °F,18 mph,Wind blowing from 10° North to South,62%,0%,"0.00""",0 (Low),6:07 am,8:47 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Tue,Sep 1,52 / 43 °F,Overcast.,40 °F,16 mph,Wind blowing from 0° North to South,60%,1%,"0.00""",0 (Low),6:10 am,8:43 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Wed,Sep 2,48 / 37 °F,Sprinkles early. Cloudy.,38 °F,10 mph,Wind blowing from 30° North-northeast to South-southwest,72%,55%,"0.03""",0 (Low),6:13 am,8:39 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Thu,Sep 3,49 / 38 °F,Mostly sunny.,44 °F,9 mph,Wind blowing from 0° North to South,59%,6%,"0.00""",0 (Low),6:15 am,8:36 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Fri,Sep 4,49 / 39 °F,Sprinkles early. Overcast.,46 °F,6 mph,Wind blowing from 10° North to South,70%,52%,"0.02""",0 (Low),6:18 am,8:32 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Sat,Sep 5,49 / 42 °F,Sprinkles. Overcast.,43 °F,14 mph,Wind blowing from 120° East-southeast to West-northwest,65%,62%,"0.13""",0 (Low),6:21 am,8:29 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Sun,Sep 6,51 / 43 °F,Light rain. Cloudy.,46 °F,11 mph,Wind blowing from 40° Northeast to Southwest,84%,59%,"0.20""",0 (Low),6:24 am,8:25 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Mon,Sep 7,50 / 43 °F,Cloudy.,44 °F,19 mph,Wind blowing from 20° North-northeast to South-southwest,65%,6%,"0.00""",0 (Low),6:27 am,8:22 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Tue,Sep 8,50 / 43 °F,Mostly cloudy.,44 °F,18 mph,Wind blowing from 10° North to South,72%,6%,"0.00""",0 (Low),6:30 am,8:18 pm,2026-08-26T01:42:04+00:00
+Reykjavik,iceland,Wed,Sep 9,51 / 43 °F,Breaks of sun late.,46 °F,11 mph,Wind blowing from 0° North to South,58%,6%,"0.00""",0 (Low),6:33 am,8:14 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Wed,Aug 26,96 / 74 °F,Sunny.,96 °F,6 mph,Wind blowing from 170° South to North,31%,0%,"0.00""",5 (Moderate),6:49 am,8:03 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Thu,Aug 27,96 / 78 °F,Sunny.,94 °F,11 mph,Wind blowing from 30° North-northeast to South-southwest,27%,0%,"0.00""",5 (Moderate),6:50 am,8:02 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Fri,Aug 28,94 / 75 °F,Sunny.,93 °F,12 mph,Wind blowing from 40° Northeast to Southwest,32%,0%,"0.00""",5 (Moderate),6:51 am,8:00 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Sat,Aug 29,88 / 73 °F,Sunny.,85 °F,13 mph,Wind blowing from 30° North-northeast to South-southwest,32%,0%,"0.00""",5 (Moderate),6:52 am,7:59 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Sun,Aug 30,90 / 70 °F,Mostly sunny.,89 °F,7 mph,Wind blowing from 190° South to North,34%,0%,"0.00""",5 (Moderate),6:53 am,7:57 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Mon,Aug 31,92 / 71 °F,Sunny.,89 °F,3 mph,Wind blowing from 60° East-northeast to West-southwest,31%,0%,"0.00""",5 (Moderate),6:53 am,7:56 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Tue,Sep 1,93 / 70 °F,Sunny.,89 °F,5 mph,Wind blowing from 190° South to North,26%,0%,"0.00""",5 (Moderate),6:54 am,7:54 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Wed,Sep 2,91 / 70 °F,Sunny.,88 °F,5 mph,Wind blowing from 60° East-northeast to West-southwest,21%,2%,"0.00""",5 (Moderate),6:55 am,7:53 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Thu,Sep 3,92 / 77 °F,Mostly sunny.,89 °F,7 mph,Wind blowing from 20° North-northeast to South-southwest,24%,6%,"0.00""",5 (Moderate),6:56 am,7:51 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Fri,Sep 4,95 / 73 °F,Sunny.,86 °F,17 mph,Wind blowing from 0° North to South,28%,4%,"0.00""",5 (Moderate),6:57 am,7:50 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Sat,Sep 5,100 / 72 °F,Sunny.,91 °F,15 mph,Wind blowing from 40° Northeast to Southwest,28%,3%,"0.00""",5 (Moderate),6:58 am,7:48 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Sun,Sep 6,96 / 72 °F,Sunny.,88 °F,12 mph,Wind blowing from 20° North-northeast to South-southwest,24%,3%,"0.00""",5 (Moderate),6:59 am,7:47 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Mon,Sep 7,94 / 72 °F,Sunny.,87 °F,7 mph,Wind blowing from 20° North-northeast to South-southwest,21%,3%,"0.00""",5 (Moderate),6:59 am,7:45 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Tue,Sep 8,94 / 72 °F,Sunny.,87 °F,12 mph,Wind blowing from 0° North to South,23%,3%,"0.00""",5 (Moderate),7:00 am,7:44 pm,2026-08-26T01:42:04+00:00
+Athens,greece,Wed,Sep 9,96 / 72 °F,Sunny.,89 °F,13 mph,Wind blowing from 0° North to South,22%,3%,"0.00""",5 (Moderate),7:01 am,7:42 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Wed,Aug 26,94 / 74 °F,Sunny.,101 °F,3 mph,Wind blowing from 140° Southeast to Northwest,51%,1%,"0.00""",7 (High),5:37 am,6:41 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Thu,Aug 27,96 / 75 °F,Sunny.,103 °F,5 mph,Wind blowing from 140° Southeast to Northwest,47%,0%,"0.00""",7 (High),5:37 am,6:40 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Fri,Aug 28,95 / 76 °F,Mostly sunny.,106 °F,9 mph,Wind blowing from 140° Southeast to Northwest,52%,0%,"0.00""",5 (Moderate),5:38 am,6:38 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Sat,Aug 29,96 / 78 °F,Partly cloudy.,106 °F,7 mph,Wind blowing from 130° Southeast to Northwest,50%,1%,"0.00""",5 (Moderate),5:39 am,6:37 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Sun,Aug 30,96 / 78 °F,Scattered clouds.,106 °F,6 mph,Wind blowing from 140° Southeast to Northwest,51%,3%,"0.00""",5 (Moderate),5:40 am,6:36 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Mon,Aug 31,98 / 77 °F,Sunny.,106 °F,8 mph,Wind blowing from 140° Southeast to Northwest,48%,15%,"0.01""",7 (High),5:40 am,6:35 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Tue,Sep 1,98 / 81 °F,Sunny.,106 °F,10 mph,Wind blowing from 130° Southeast to Northwest,44%,0%,"0.00""",7 (High),5:41 am,6:33 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Wed,Sep 2,93 / 81 °F,Morning clouds.,99 °F,11 mph,Wind blowing from 140° Southeast to Northwest,48%,18%,"0.00""",5 (Moderate),5:42 am,6:32 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Thu,Sep 3,89 / 77 °F,Tstorms early. Mostly sunny.,94 °F,7 mph,Wind blowing from 130° Southeast to Northwest,56%,48%,"0.02""",3 (Moderate),5:42 am,6:31 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Fri,Sep 4,89 / 75 °F,Scattered tstorms late. Sunny.,92 °F,5 mph,Wind blowing from 110° East-southeast to West-northwest,51%,90%,"0.20""",7 (High),5:43 am,6:29 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Sat,Sep 5,89 / 75 °F,Tstorms early. Decreasing cloudiness.,92 °F,6 mph,Wind blowing from 130° Southeast to Northwest,50%,88%,"0.23""",7 (High),5:44 am,6:28 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Sun,Sep 6,90 / 76 °F,Mostly sunny.,91 °F,3 mph,Wind blowing from 170° South to North,46%,11%,"0.00""",7 (High),5:44 am,6:27 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Mon,Sep 7,93 / 76 °F,Sunny.,91 °F,2 mph,Wind blowing from 200° South-southwest to North-northeast,42%,5%,"0.00""",7 (High),5:45 am,6:25 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Tue,Sep 8,94 / 76 °F,Isolated tstorms late. Afternoon clouds.,92 °F,5 mph,Wind blowing from 110° East-southeast to West-northwest,45%,14%,"0.00""",3 (Moderate),5:46 am,6:24 pm,2026-08-26T01:42:04+00:00
+Islamabad,pakistan,Wed,Sep 9,93 / 76 °F,Tstorms early. Partly cloudy.,94 °F,7 mph,Wind blowing from 140° Southeast to Northwest,48%,92%,"0.12""",7 (High),5:46 am,6:22 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Wed,Aug 26,74 / 69 °F,Isolated tstorms late. Overcast.,73 °F,8 mph,Wind blowing from 120° East-southeast to West-northwest,83%,17%,"0.06""",3 (Moderate),6:08 am,5:40 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Thu,Aug 27,77 / 70 °F,Showers early. Decreasing cloudiness.,78 °F,7 mph,Wind blowing from 90° East to West,76%,61%,"0.30""",3 (Moderate),6:07 am,5:40 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Fri,Aug 28,83 / 68 °F,Partly cloudy.,86 °F,6 mph,Wind blowing from 110° East-southeast to West-northwest,69%,0%,"0.00""",3 (Moderate),6:06 am,5:41 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Sat,Aug 29,88 / 72 °F,Partly cloudy.,93 °F,5 mph,Wind blowing from 60° East-northeast to West-southwest,59%,0%,"0.00""",3 (Moderate),6:05 am,5:41 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Sun,Aug 30,83 / 72 °F,Mostly sunny.,81 °F,7 mph,Wind blowing from 170° South to North,78%,0%,"0.00""",5 (Moderate),6:05 am,5:41 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Mon,Aug 31,85 / 71 °F,Sunny.,86 °F,7 mph,Wind blowing from 140° Southeast to Northwest,68%,0%,"0.00""",7 (High),6:04 am,5:42 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Tue,Sep 1,76 / 69 °F,Showers late. Overcast.,75 °F,5 mph,Wind blowing from 120° East-southeast to West-northwest,80%,77%,"0.78""",3 (Moderate),6:03 am,5:42 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Wed,Sep 2,74 / 67 °F,Showers early. Broken clouds.,76 °F,20 mph,Wind blowing from 240° West-southwest to East-northeast,60%,70%,"0.33""",3 (Moderate),6:02 am,5:42 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Thu,Sep 3,73 / 64 °F,Sunny.,77 °F,9 mph,Wind blowing from 130° Southeast to Northwest,50%,6%,"0.00""",7 (High),6:01 am,5:43 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Fri,Sep 4,73 / 63 °F,Sunny.,76 °F,10 mph,Wind blowing from 210° South-southwest to North-northeast,59%,3%,"0.00""",7 (High),6:00 am,5:43 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Sat,Sep 5,73 / 63 °F,Increasing cloudiness.,76 °F,6 mph,Wind blowing from 160° South-southeast to North-northwest,58%,6%,"0.00""",3 (Moderate),5:59 am,5:43 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Sun,Sep 6,73 / 64 °F,Isolated tstorms. Broken clouds.,72 °F,6 mph,Wind blowing from 90° East to West,80%,50%,"0.06""",3 (Moderate),5:58 am,5:44 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Mon,Sep 7,74 / 64 °F,Isolated tstorms. Overcast.,70 °F,4 mph,Wind blowing from 150° South-southeast to North-northwest,87%,79%,"0.35""",3 (Moderate),5:57 am,5:44 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Tue,Sep 8,74 / 64 °F,Showery. Overcast.,71 °F,4 mph,Wind blowing from 200° South-southwest to North-northeast,82%,87%,"1.05""",3 (Moderate),5:56 am,5:44 pm,2026-08-26T01:42:04+00:00
+Rio de Janeiro,brazil,Wed,Sep 9,74 / 64 °F,Passing showers. Overcast.,71 °F,6 mph,Wind blowing from 190° South to North,82%,74%,"0.37""",5 (Moderate),5:55 am,5:44 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Wed,Aug 26,90 / 69 °F,Isolated tstorms late. Increasing cloudiness.,92 °F,4 mph,Wind blowing from 180° South to North,48%,64%,"0.18""",3 (Moderate),7:07 am,8:10 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Thu,Aug 27,85 / 71 °F,Thunderstorms. Overcast.,89 °F,3 mph,Wind blowing from 190° South to North,63%,82%,"0.51""",3 (Moderate),7:08 am,8:09 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Fri,Aug 28,81 / 71 °F,Thunderstorms. Overcast.,84 °F,6 mph,Wind blowing from 200° South-southwest to North-northeast,74%,92%,"0.79""",3 (Moderate),7:08 am,8:08 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Sat,Aug 29,83 / 70 °F,Isolated tstorms. Overcast.,86 °F,5 mph,Wind blowing from 150° South-southeast to North-northwest,67%,42%,"0.11""",3 (Moderate),7:09 am,8:06 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Sun,Aug 30,86 / 70 °F,Isolated tstorms. Overcast.,89 °F,5 mph,Wind blowing from 160° South-southeast to North-northwest,62%,48%,"0.11""",3 (Moderate),7:10 am,8:05 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Mon,Aug 31,88 / 71 °F,Isolated tstorms late. Mostly cloudy.,93 °F,3 mph,Wind blowing from 160° South-southeast to North-northwest,57%,23%,"0.04""",3 (Moderate),7:10 am,8:04 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Tue,Sep 1,90 / 73 °F,Cloudy.,95 °F,3 mph,Wind blowing from 330° North-northwest to South-southeast,53%,3%,"0.00""",3 (Moderate),7:11 am,8:02 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Wed,Sep 2,92 / 73 °F,Afternoon clouds.,90 °F,2 mph,Wind blowing from 90° East to West,30%,5%,"0.00""",5 (Moderate),7:12 am,8:01 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Thu,Sep 3,92 / 77 °F,Afternoon clouds.,92 °F,6 mph,Wind blowing from 140° Southeast to Northwest,37%,5%,"0.00""",3 (Moderate),7:12 am,8:00 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Fri,Sep 4,92 / 75 °F,Strong thunderstorms. Overcast.,108 °F,7 mph,Wind blowing from 100° East to West,68%,81%,"0.81""",3 (Moderate),7:13 am,7:58 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Sat,Sep 5,96 / 78 °F,Thundershowers. Mostly cloudy.,109 °F,5 mph,Wind blowing from 220° Southwest to Northeast,55%,57%,"0.19""",3 (Moderate),7:14 am,7:57 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Sun,Sep 6,95 / 79 °F,Afternoon clouds.,100 °F,3 mph,Wind blowing from 250° West-southwest to East-northeast,42%,6%,"0.00""",3 (Moderate),7:14 am,7:56 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Mon,Sep 7,95 / 79 °F,Partly cloudy.,96 °F,4 mph,Wind blowing from 270° West to East,37%,6%,"0.00""",3 (Moderate),7:15 am,7:54 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Tue,Sep 8,95 / 78 °F,Thundershowers. Afternoon clouds.,97 °F,4 mph,Wind blowing from 290° West-northwest to East-southeast,38%,40%,"0.03""",3 (Moderate),7:16 am,7:53 pm,2026-08-26T01:42:04+00:00
+Atlanta,usa,Wed,Sep 9,96 / 80 °F,Isolated tstorms late. Increasing cloudiness.,98 °F,7 mph,Wind blowing from 320° Northwest to Southeast,35%,52%,"0.07""",5 (Moderate),7:16 am,7:52 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Wed,Aug 26,86 / 71 °F,Sunny.,86 °F,11 mph,Wind blowing from 10° North to South,49%,0%,"0.00""",5 (Moderate),6:24 am,7:46 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Thu,Aug 27,86 / 71 °F,Sunny.,85 °F,11 mph,Wind blowing from 30° North-northeast to South-southwest,46%,0%,"0.00""",5 (Moderate),6:25 am,7:44 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Fri,Aug 28,79 / 68 °F,Isolated tstorms late. Mostly sunny.,80 °F,14 mph,Wind blowing from 10° North to South,57%,19%,"0.01""",3 (Moderate),6:26 am,7:43 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Sat,Aug 29,80 / 67 °F,Mostly sunny.,81 °F,13 mph,Wind blowing from 10° North to South,54%,8%,"0.00""",3 (Moderate),6:27 am,7:41 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Sun,Aug 30,84 / 69 °F,Mostly cloudy.,83 °F,9 mph,Wind blowing from 20° North-northeast to South-southwest,48%,0%,"0.00""",3 (Moderate),6:28 am,7:40 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Mon,Aug 31,82 / 67 °F,Partly cloudy.,81 °F,11 mph,Wind blowing from 10° North to South,43%,0%,"0.00""",3 (Moderate),6:29 am,7:38 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Tue,Sep 1,83 / 65 °F,Sunny.,82 °F,10 mph,Wind blowing from 20° North-northeast to South-southwest,41%,0%,"0.00""",5 (Moderate),6:30 am,7:36 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Wed,Sep 2,86 / 68 °F,Sunny.,84 °F,11 mph,Wind blowing from 30° North-northeast to South-southwest,35%,2%,"0.00""",5 (Moderate),6:31 am,7:35 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Thu,Sep 3,85 / 71 °F,Sunny.,86 °F,12 mph,Wind blowing from 20° North-northeast to South-southwest,48%,5%,"0.00""",5 (Moderate),6:32 am,7:33 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Fri,Sep 4,83 / 71 °F,Mostly sunny.,82 °F,15 mph,Wind blowing from 10° North to South,49%,5%,"0.00""",3 (Moderate),6:33 am,7:32 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Sat,Sep 5,87 / 72 °F,Sunny.,83 °F,11 mph,Wind blowing from 20° North-northeast to South-southwest,33%,5%,"0.00""",3 (Moderate),6:34 am,7:30 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Sun,Sep 6,89 / 74 °F,Sunny.,85 °F,12 mph,Wind blowing from 40° Northeast to Southwest,34%,4%,"0.00""",5 (Moderate),6:35 am,7:28 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Mon,Sep 7,89 / 74 °F,Sunny.,86 °F,14 mph,Wind blowing from 40° Northeast to Southwest,39%,3%,"0.00""",5 (Moderate),6:36 am,7:27 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Tue,Sep 8,90 / 75 °F,Sunny.,89 °F,18 mph,Wind blowing from 40° Northeast to Southwest,46%,4%,"0.00""",5 (Moderate),6:37 am,7:25 pm,2026-08-26T01:42:04+00:00
+Istanbul,turkey,Wed,Sep 9,92 / 76 °F,Sunny.,91 °F,16 mph,Wind blowing from 40° Northeast to Southwest,44%,3%,"0.00""",5 (Moderate),6:38 am,7:23 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Wed,Aug 26,112 / 85 °F,Sunny.,105 °F,7 mph,Wind blowing from 260° West to East,10%,0%,"0.00""",10 (Very high),5:31 am,6:17 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Thu,Aug 27,112 / 80 °F,Mostly sunny.,105 °F,7 mph,Wind blowing from 150° South-southeast to North-northwest,10%,0%,"0.00""",7 (High),5:32 am,6:16 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Fri,Aug 28,114 / 82 °F,Morning clouds.,107 °F,10 mph,Wind blowing from 350° North to South,9%,0%,"0.00""",7 (High),5:32 am,6:15 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Sat,Aug 29,115 / 84 °F,Sunny.,108 °F,15 mph,Wind blowing from 50° Northeast to Southwest,10%,0%,"0.00""",7 (High),5:33 am,6:14 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Sun,Aug 30,115 / 84 °F,Afternoon clouds.,108 °F,13 mph,Wind blowing from 40° Northeast to Southwest,10%,0%,"0.00""",3 (Moderate),5:33 am,6:13 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Mon,Aug 31,112 / 82 °F,Sunny.,104 °F,6 mph,Wind blowing from 50° Northeast to Southwest,7%,0%,"0.00""",7 (High),5:33 am,6:12 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Tue,Sep 1,112 / 86 °F,Sunny.,104 °F,12 mph,Wind blowing from 30° North-northeast to South-southwest,7%,0%,"0.00""",7 (High),5:34 am,6:11 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Wed,Sep 2,113 / 88 °F,Sunny.,105 °F,15 mph,Wind blowing from 30° North-northeast to South-southwest,6%,1%,"0.00""",7 (High),5:34 am,6:10 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Thu,Sep 3,111 / 86 °F,Sunny.,105 °F,7 mph,Wind blowing from 10° North to South,7%,1%,"0.00""",7 (High),5:34 am,6:09 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Fri,Sep 4,112 / 85 °F,Sunny.,103 °F,6 mph,Wind blowing from 80° East to West,8%,1%,"0.00""",7 (High),5:35 am,6:08 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Sat,Sep 5,112 / 85 °F,Sunny.,103 °F,4 mph,Wind blowing from 10° North to South,8%,3%,"0.00""",7 (High),5:35 am,6:07 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Sun,Sep 6,112 / 85 °F,Sunny.,103 °F,8 mph,Wind blowing from 20° North-northeast to South-southwest,6%,3%,"0.00""",7 (High),5:36 am,6:06 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Mon,Sep 7,112 / 85 °F,Sunny.,106 °F,14 mph,Wind blowing from 90° East to West,10%,3%,"0.00""",7 (High),5:36 am,6:05 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Tue,Sep 8,115 / 86 °F,Sunny.,106 °F,10 mph,Wind blowing from 80° East to West,8%,3%,"0.00""",7 (High),5:36 am,6:04 pm,2026-08-26T01:42:04+00:00
+Riyadh,saudi-arabia,Wed,Sep 9,115 / 86 °F,Sunny.,106 °F,8 mph,Wind blowing from 0° North to South,8%,3%,"0.00""",7 (High),5:37 am,6:03 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Wed,Aug 26,64 / 47 °F,Afternoon clouds.,62 °F,10 mph,Wind blowing from 250° West-southwest to East-northeast,61%,5%,"0.00""",3 (Moderate),6:50 am,5:55 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Thu,Aug 27,64 / 50 °F,Sprinkles. Cloudy.,62 °F,7 mph,Wind blowing from 30° North-northeast to South-southwest,68%,22%,"0.03""",3 (Moderate),6:49 am,5:56 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Fri,Aug 28,62 / 52 °F,Sprinkles late. Overcast.,61 °F,11 mph,Wind blowing from 10° North to South,64%,23%,"0.03""",0 (Low),6:48 am,5:57 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Sat,Aug 29,59 / 49 °F,Thunderstorms. Overcast.,55 °F,10 mph,Wind blowing from 20° North-northeast to South-southwest,85%,66%,"0.59""",0 (Low),6:46 am,5:57 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Sun,Aug 30,60 / 49 °F,Isolated tstorms. Mostly cloudy.,56 °F,16 mph,Wind blowing from 260° West to East,74%,22%,"0.06""",3 (Moderate),6:45 am,5:58 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Mon,Aug 31,62 / 54 °F,Sprinkles early. Morning clouds.,57 °F,16 mph,Wind blowing from 240° West-southwest to East-northeast,69%,45%,"0.05""",3 (Moderate),6:43 am,5:59 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Tue,Sep 1,60 / 50 °F,Sprinkles early. Partly cloudy.,56 °F,10 mph,Wind blowing from 220° Southwest to Northeast,61%,23%,"0.02""",3 (Moderate),6:42 am,6:00 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Wed,Sep 2,63 / 50 °F,Overcast.,61 °F,12 mph,Wind blowing from 270° West to East,65%,5%,"0.00""",3 (Moderate),6:41 am,6:01 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Thu,Sep 3,62 / 52 °F,Sprinkles early. Scattered clouds.,62 °F,11 mph,Wind blowing from 260° West to East,67%,45%,"0.02""",3 (Moderate),6:39 am,6:01 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Fri,Sep 4,64 / 54 °F,Sprinkles early. Morning clouds.,63 °F,12 mph,Wind blowing from 280° West to East,64%,52%,"0.02""",3 (Moderate),6:38 am,6:02 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Sat,Sep 5,64 / 53 °F,Tstorms early. Partly cloudy.,64 °F,9 mph,Wind blowing from 200° South-southwest to North-northeast,70%,55%,"0.15""",3 (Moderate),6:36 am,6:03 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Sun,Sep 6,65 / 49 °F,Broken clouds.,65 °F,9 mph,Wind blowing from 230° Southwest to Northeast,54%,5%,"0.00""",3 (Moderate),6:35 am,6:04 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Mon,Sep 7,61 / 47 °F,Sunny.,60 °F,8 mph,Wind blowing from 230° Southwest to Northeast,57%,4%,"0.00""",3 (Moderate),6:33 am,6:05 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Tue,Sep 8,62 / 47 °F,Mostly cloudy.,62 °F,4 mph,Wind blowing from 30° North-northeast to South-southwest,57%,5%,"0.00""",3 (Moderate),6:32 am,6:05 pm,2026-08-26T01:42:04+00:00
+Auckland,new-zealand,Wed,Sep 9,62 / 47 °F,Mostly sunny.,62 °F,10 mph,Wind blowing from 30° North-northeast to South-southwest,71%,4%,"0.00""",3 (Moderate),6:30 am,6:06 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Wed,Aug 26,91 / 77 °F,Showers late. Sunny.,96 °F,11 mph,Wind blowing from 10° North to South,60%,46%,"0.02""",10 (Very high),5:55 am,5:53 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Thu,Aug 27,92 / 75 °F,Showers late. Afternoon clouds.,97 °F,10 mph,Wind blowing from 340° North-northwest to South-southeast,60%,47%,"0.03""",7 (High),5:55 am,5:53 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Fri,Aug 28,90 / 75 °F,Increasing cloudiness.,96 °F,9 mph,Wind blowing from 330° North-northwest to South-southeast,62%,40%,"0.01""",7 (High),5:55 am,5:53 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Sat,Aug 29,90 / 74 °F,Broken clouds.,94 °F,9 mph,Wind blowing from 0° North to South,59%,4%,"0.00""",7 (High),5:54 am,5:53 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Sun,Aug 30,91 / 75 °F,Mostly cloudy.,97 °F,9 mph,Wind blowing from 350° North to South,62%,3%,"0.00""",7 (High),5:54 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Mon,Aug 31,91 / 76 °F,Mostly cloudy.,99 °F,10 mph,Wind blowing from 10° North to South,63%,2%,"0.00""",7 (High),5:53 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Tue,Sep 1,89 / 76 °F,Partly cloudy.,95 °F,11 mph,Wind blowing from 10° North to South,62%,2%,"0.00""",7 (High),5:53 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Wed,Sep 2,92 / 76 °F,Scattered clouds.,99 °F,11 mph,Wind blowing from 10° North to South,57%,6%,"0.00""",10 (Very high),5:52 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Thu,Sep 3,92 / 84 °F,Showers early. Mostly sunny.,98 °F,10 mph,Wind blowing from 10° North to South,58%,44%,"0.01""",10 (Very high),5:52 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Fri,Sep 4,93 / 84 °F,Showers late. Mostly cloudy.,100 °F,10 mph,Wind blowing from 350° North to South,59%,49%,"0.04""",5 (Moderate),5:51 am,5:52 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Sat,Sep 5,93 / 84 °F,Showers late. Broken clouds.,99 °F,10 mph,Wind blowing from 340° North-northwest to South-southeast,58%,40%,"0.02""",5 (Moderate),5:51 am,5:51 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Sun,Sep 6,92 / 84 °F,Broken clouds.,98 °F,10 mph,Wind blowing from 350° North to South,56%,5%,"0.00""",7 (High),5:50 am,5:51 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Mon,Sep 7,93 / 84 °F,Showers late. Cloudy.,100 °F,9 mph,Wind blowing from 0° North to South,58%,48%,"0.05""",7 (High),5:50 am,5:51 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Tue,Sep 8,93 / 84 °F,Passing showers. Overcast.,101 °F,8 mph,Wind blowing from 350° North to South,60%,58%,"0.20""",5 (Moderate),5:49 am,5:51 pm,2026-08-26T01:42:04+00:00
+Jakarta,indonesia,Wed,Sep 9,93 / 84 °F,Showers early. Partly cloudy.,100 °F,9 mph,Wind blowing from 340° North-northwest to South-southeast,59%,47%,"0.06""",5 (Moderate),5:49 am,5:51 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Wed,Aug 26,95 / 69 °F,Mostly sunny.,96 °F,6 mph,Wind blowing from 200° South-southwest to North-northeast,38%,3%,"0.00""",3 (Moderate),6:29 am,7:53 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Thu,Aug 27,97 / 69 °F,Partly cloudy.,99 °F,7 mph,Wind blowing from 200° South-southwest to North-northeast,37%,0%,"0.00""",3 (Moderate),6:30 am,7:52 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Fri,Aug 28,104 / 69 °F,Mostly sunny.,105 °F,13 mph,Wind blowing from 190° South to North,29%,4%,"0.00""",5 (Moderate),6:31 am,7:50 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Sat,Aug 29,97 / 73 °F,Thundershowers. Cloudy.,99 °F,11 mph,Wind blowing from 230° Southwest to Northeast,34%,22%,"0.02""",3 (Moderate),6:32 am,7:48 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Sun,Aug 30,95 / 68 °F,Morning clouds.,96 °F,9 mph,Wind blowing from 220° Southwest to Northeast,35%,0%,"0.00""",3 (Moderate),6:33 am,7:47 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Mon,Aug 31,94 / 69 °F,Sunny.,98 °F,10 mph,Wind blowing from 220° Southwest to Northeast,43%,0%,"0.00""",5 (Moderate),6:34 am,7:45 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Tue,Sep 1,94 / 68 °F,Sunny.,91 °F,10 mph,Wind blowing from 230° Southwest to Northeast,30%,0%,"0.00""",5 (Moderate),6:35 am,7:43 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Wed,Sep 2,92 / 68 °F,Sunny.,87 °F,8 mph,Wind blowing from 220° Southwest to Northeast,28%,2%,"0.00""",5 (Moderate),6:36 am,7:42 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Thu,Sep 3,90 / 70 °F,Sunny.,85 °F,7 mph,Wind blowing from 220° Southwest to Northeast,27%,2%,"0.00""",5 (Moderate),6:37 am,7:40 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Fri,Sep 4,92 / 71 °F,Sunny.,89 °F,9 mph,Wind blowing from 220° Southwest to Northeast,28%,3%,"0.00""",5 (Moderate),6:38 am,7:38 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Sat,Sep 5,90 / 71 °F,Sunny.,88 °F,10 mph,Wind blowing from 230° Southwest to Northeast,31%,3%,"0.00""",5 (Moderate),6:39 am,7:37 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Sun,Sep 6,86 / 70 °F,Partly cloudy.,85 °F,10 mph,Wind blowing from 230° Southwest to Northeast,38%,6%,"0.00""",3 (Moderate),6:40 am,7:35 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Mon,Sep 7,86 / 70 °F,Mostly sunny.,85 °F,8 mph,Wind blowing from 210° South-southwest to North-northeast,38%,4%,"0.00""",3 (Moderate),6:41 am,7:33 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Tue,Sep 8,89 / 69 °F,Sunny.,84 °F,9 mph,Wind blowing from 220° Southwest to Northeast,33%,5%,"0.00""",5 (Moderate),6:42 am,7:31 pm,2026-08-26T01:42:04+00:00
+Rome,italy,Wed,Sep 9,91 / 69 °F,Sunny.,84 °F,9 mph,Wind blowing from 230° Southwest to Northeast,32%,4%,"0.00""",5 (Moderate),6:43 am,7:30 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Wed,Aug 26,119 / 91 °F,Sunny.,114 °F,12 mph,Wind blowing from 300° West-northwest to East-southeast,11%,0%,"0.00""",7 (High),5:32 am,6:35 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Thu,Aug 27,117 / 92 °F,Sunny.,111 °F,12 mph,Wind blowing from 320° Northwest to Southeast,10%,0%,"0.00""",7 (High),5:33 am,6:34 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Fri,Aug 28,116 / 89 °F,Sunny.,111 °F,8 mph,Wind blowing from 340° North-northwest to South-southeast,11%,0%,"0.00""",7 (High),5:33 am,6:32 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Sat,Aug 29,119 / 87 °F,Afternoon clouds.,112 °F,10 mph,Wind blowing from 240° West-southwest to East-northeast,9%,0%,"0.00""",3 (Moderate),5:34 am,6:31 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Sun,Aug 30,116 / 87 °F,Mostly cloudy.,109 °F,13 mph,Wind blowing from 240° West-southwest to East-northeast,9%,0%,"0.00""",3 (Moderate),5:35 am,6:30 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Mon,Aug 31,112 / 85 °F,Sunny.,107 °F,12 mph,Wind blowing from 290° West-northwest to East-southeast,11%,0%,"0.00""",7 (High),5:35 am,6:29 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Tue,Sep 1,109 / 90 °F,Sunny.,103 °F,15 mph,Wind blowing from 290° West-northwest to East-southeast,11%,0%,"0.00""",7 (High),5:36 am,6:27 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Wed,Sep 2,108 / 89 °F,Sunny.,102 °F,16 mph,Wind blowing from 310° Northwest to Southeast,9%,1%,"0.00""",7 (High),5:37 am,6:26 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Thu,Sep 3,107 / 78 °F,Sunny.,101 °F,19 mph,Wind blowing from 290° West-northwest to East-southeast,9%,1%,"0.00""",7 (High),5:37 am,6:25 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Fri,Sep 4,108 / 78 °F,Sunny.,101 °F,15 mph,Wind blowing from 300° West-northwest to East-southeast,7%,1%,"0.00""",7 (High),5:38 am,6:23 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Sat,Sep 5,108 / 78 °F,Sunny.,102 °F,9 mph,Wind blowing from 290° West-northwest to East-southeast,9%,3%,"0.00""",7 (High),5:39 am,6:22 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Sun,Sep 6,108 / 77 °F,Sunny.,102 °F,15 mph,Wind blowing from 300° West-northwest to East-southeast,10%,3%,"0.00""",7 (High),5:39 am,6:21 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Mon,Sep 7,112 / 80 °F,Sunny.,106 °F,13 mph,Wind blowing from 300° West-northwest to East-southeast,10%,3%,"0.00""",7 (High),5:40 am,6:19 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Tue,Sep 8,117 / 83 °F,Sunny.,109 °F,14 mph,Wind blowing from 310° Northwest to Southeast,7%,3%,"0.00""",7 (High),5:41 am,6:18 pm,2026-08-26T01:42:04+00:00
+Baghdad,iraq,Wed,Sep 9,116 / 83 °F,Sunny.,107 °F,16 mph,Wind blowing from 330° North-northwest to South-southeast,4%,3%,"0.00""",5 (Moderate),5:41 am,6:17 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Wed,Aug 26,91 / 69 °F,Sunny.,89 °F,12 mph,Wind blowing from 310° Northwest to Southeast,32%,0%,"0.00""",7 (High),6:10 am,7:10 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Thu,Aug 27,91 / 70 °F,Sunny.,89 °F,11 mph,Wind blowing from 320° Northwest to Southeast,32%,0%,"0.00""",7 (High),6:11 am,7:09 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Fri,Aug 28,90 / 69 °F,Sunny.,87 °F,12 mph,Wind blowing from 300° West-northwest to East-southeast,33%,0%,"0.00""",7 (High),6:12 am,7:08 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Sat,Aug 29,90 / 71 °F,Sunny.,86 °F,12 mph,Wind blowing from 270° West to East,29%,0%,"0.00""",7 (High),6:12 am,7:06 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Sun,Aug 30,81 / 70 °F,Morning clouds.,81 °F,21 mph,Wind blowing from 270° West to East,51%,1%,"0.00""",5 (Moderate),6:13 am,7:05 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Mon,Aug 31,82 / 70 °F,Sunny.,82 °F,10 mph,Wind blowing from 290° West-northwest to East-southeast,45%,0%,"0.00""",7 (High),6:13 am,7:04 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Tue,Sep 1,85 / 67 °F,Sunny.,82 °F,11 mph,Wind blowing from 300° West-northwest to East-southeast,35%,0%,"0.00""",7 (High),6:14 am,7:03 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Wed,Sep 2,91 / 68 °F,Sunny.,88 °F,13 mph,Wind blowing from 330° North-northwest to South-southeast,25%,2%,"0.00""",7 (High),6:15 am,7:02 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Thu,Sep 3,92 / 68 °F,Sunny.,89 °F,13 mph,Wind blowing from 320° Northwest to Southeast,23%,1%,"0.00""",7 (High),6:15 am,7:00 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Fri,Sep 4,91 / 69 °F,Sunny.,88 °F,16 mph,Wind blowing from 290° West-northwest to East-southeast,26%,2%,"0.00""",7 (High),6:16 am,6:59 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Sat,Sep 5,90 / 69 °F,Sunny.,89 °F,13 mph,Wind blowing from 290° West-northwest to East-southeast,33%,4%,"0.00""",7 (High),6:16 am,6:58 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Sun,Sep 6,92 / 70 °F,Sunny.,89 °F,14 mph,Wind blowing from 310° Northwest to Southeast,25%,3%,"0.00""",7 (High),6:17 am,6:56 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Mon,Sep 7,94 / 71 °F,Sunny.,90 °F,8 mph,Wind blowing from 330° North-northwest to South-southeast,18%,3%,"0.00""",7 (High),6:18 am,6:55 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Tue,Sep 8,97 / 71 °F,Sunny.,94 °F,11 mph,Wind blowing from 320° Northwest to Southeast,23%,3%,"0.00""",7 (High),6:18 am,6:54 pm,2026-08-26T01:42:04+00:00
+Jerusalem,israel,Wed,Sep 9,96 / 71 °F,Sunny.,94 °F,12 mph,Wind blowing from 310° Northwest to Southeast,27%,3%,"0.00""",7 (High),6:19 am,6:53 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Tue,Aug 25,93 / 69 °F,Afternoon clouds.,89 °F,8 mph,Wind blowing from 320° Northwest to Southeast,23%,3%,"0.00""",3 (Moderate),6:47 am,8:10 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Wed,Aug 26,95 / 72 °F,Cloudy.,91 °F,9 mph,Wind blowing from 310° Northwest to Southeast,20%,23%,"0.01""",3 (Moderate),6:48 am,8:09 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Thu,Aug 27,96 / 72 °F,Showers late. Afternoon clouds.,90 °F,9 mph,Wind blowing from 290° West-northwest to East-southeast,23%,23%,"0.03""",5 (Moderate),6:49 am,8:07 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Fri,Aug 28,90 / 72 °F,Thundershowers. Overcast.,86 °F,8 mph,Wind blowing from 310° Northwest to Southeast,25%,46%,"0.06""",3 (Moderate),6:50 am,8:05 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Sat,Aug 29,80 / 66 °F,A few tstorms. Overcast.,79 °F,6 mph,Wind blowing from 320° Northwest to Southeast,43%,51%,"0.27""",3 (Moderate),6:51 am,8:04 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Sun,Aug 30,84 / 66 °F,Rain showers. Broken clouds.,82 °F,6 mph,Wind blowing from 320° Northwest to Southeast,36%,64%,"0.30""",3 (Moderate),6:52 am,8:02 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Mon,Aug 31,88 / 65 °F,Isolated tstorms late. Afternoon clouds.,84 °F,24 mph,Wind blowing from 210° South-southwest to North-northeast,25%,46%,"0.04""",3 (Moderate),6:53 am,8:01 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Tue,Sep 1,89 / 67 °F,Sunny.,84 °F,13 mph,Wind blowing from 310° Northwest to Southeast,19%,2%,"0.00""",5 (Moderate),6:54 am,7:59 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Wed,Sep 2,87 / 69 °F,Mostly sunny.,83 °F,8 mph,Wind blowing from 310° Northwest to Southeast,14%,2%,"0.00""",5 (Moderate),6:55 am,7:57 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Thu,Sep 3,87 / 67 °F,Sunny.,83 °F,9 mph,Wind blowing from 310° Northwest to Southeast,13%,1%,"0.00""",5 (Moderate),6:56 am,7:56 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Fri,Sep 4,90 / 64 °F,Sunny.,84 °F,8 mph,Wind blowing from 310° Northwest to Southeast,13%,2%,"0.00""",5 (Moderate),6:57 am,7:54 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Sat,Sep 5,89 / 66 °F,Increasing cloudiness.,84 °F,6 mph,Wind blowing from 300° West-northwest to East-southeast,11%,6%,"0.00""",5 (Moderate),6:58 am,7:52 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Sun,Sep 6,89 / 65 °F,Scattered clouds.,84 °F,15 mph,Wind blowing from 280° West to East,12%,6%,"0.00""",5 (Moderate),6:59 am,7:51 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Mon,Sep 7,91 / 66 °F,Morning clouds.,85 °F,8 mph,Wind blowing from 310° Northwest to Southeast,18%,6%,"0.00""",5 (Moderate),7:00 am,7:49 pm,2026-08-26T01:42:04+00:00
+Salt Lake City,usa,Tue,Sep 8,90 / 66 °F,Sunny.,85 °F,22 mph,Wind blowing from 190° South to North,8%,4%,"0.00""",5 (Moderate),7:01 am,7:48 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Wed,Aug 26,90 / 81 °F,Passing showers. Overcast.,96 °F,13 mph,Wind blowing from 240° West-southwest to East-northeast,60%,64%,"0.10""",3 (Moderate),6:06 am,6:33 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Thu,Aug 27,91 / 81 °F,Showers late. Overcast.,98 °F,14 mph,Wind blowing from 240° West-southwest to East-northeast,58%,61%,"0.07""",3 (Moderate),6:06 am,6:32 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Fri,Aug 28,89 / 82 °F,Passing showers. Overcast.,94 °F,12 mph,Wind blowing from 230° Southwest to Northeast,61%,42%,"0.09""",3 (Moderate),6:06 am,6:32 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Sat,Aug 29,89 / 80 °F,Showers late. Overcast.,97 °F,11 mph,Wind blowing from 270° West to East,64%,48%,"0.21""",3 (Moderate),6:06 am,6:31 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Sun,Aug 30,88 / 80 °F,Passing showers. Overcast.,96 °F,12 mph,Wind blowing from 230° Southwest to Northeast,65%,54%,"0.16""",3 (Moderate),6:06 am,6:30 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Mon,Aug 31,89 / 79 °F,Passing showers. Overcast.,92 °F,8 mph,Wind blowing from 230° Southwest to Northeast,69%,49%,"0.14""",3 (Moderate),6:06 am,6:30 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Tue,Sep 1,87 / 78 °F,Passing showers. Overcast.,94 °F,10 mph,Wind blowing from 230° Southwest to Northeast,65%,41%,"0.08""",3 (Moderate),6:06 am,6:29 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Wed,Sep 2,88 / 79 °F,Showers late. Overcast.,89 °F,7 mph,Wind blowing from 230° Southwest to Northeast,76%,52%,"0.10""",3 (Moderate),6:06 am,6:28 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Thu,Sep 3,86 / 79 °F,Showers late. Cloudy.,88 °F,9 mph,Wind blowing from 290° West-northwest to East-southeast,57%,50%,"0.05""",5 (Moderate),6:06 am,6:28 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Fri,Sep 4,89 / 80 °F,Overcast.,92 °F,10 mph,Wind blowing from 240° West-southwest to East-northeast,51%,52%,"0.02""",3 (Moderate),6:06 am,6:27 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Sat,Sep 5,89 / 80 °F,Showers late. Mostly cloudy.,96 °F,8 mph,Wind blowing from 190° South to North,60%,51%,"0.01""",3 (Moderate),6:06 am,6:26 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Sun,Sep 6,89 / 80 °F,Showers late. Overcast.,92 °F,9 mph,Wind blowing from 270° West to East,49%,44%,"0.01""",3 (Moderate),6:06 am,6:26 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Mon,Sep 7,89 / 80 °F,Showers late. Overcast.,90 °F,12 mph,Wind blowing from 290° West-northwest to East-southeast,45%,49%,"0.02""",3 (Moderate),6:06 am,6:25 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Tue,Sep 8,89 / 80 °F,Passing showers. Cloudy.,93 °F,9 mph,Wind blowing from 240° West-southwest to East-northeast,52%,55%,"0.06""",5 (Moderate),6:06 am,6:24 pm,2026-08-26T01:42:04+00:00
+Bangkok,thailand,Wed,Sep 9,90 / 80 °F,Showers late. Cloudy.,93 °F,7 mph,Wind blowing from 210° South-southwest to North-northeast,52%,57%,"0.14""",7 (High),6:06 am,6:23 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Wed,Aug 26,74 / 49 °F,Afternoon clouds.,74 °F,6 mph,Wind blowing from 330° North-northwest to South-southeast,15%,0%,"0.00""",3 (Moderate),6:26 am,5:52 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Thu,Aug 27,68 / 48 °F,Broken clouds.,67 °F,7 mph,Wind blowing from 350° North to South,38%,2%,"0.00""",5 (Moderate),6:25 am,5:53 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Fri,Aug 28,70 / 46 °F,Mostly sunny.,70 °F,5 mph,Wind blowing from 40° Northeast to Southwest,27%,0%,"0.00""",5 (Moderate),6:24 am,5:53 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Sat,Aug 29,69 / 45 °F,Mostly sunny.,68 °F,6 mph,Wind blowing from 350° North to South,27%,0%,"0.00""",7 (High),6:23 am,5:54 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Sun,Aug 30,71 / 47 °F,Mostly cloudy.,70 °F,7 mph,Wind blowing from 310° Northwest to Southeast,20%,0%,"0.00""",3 (Moderate),6:22 am,5:54 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Mon,Aug 31,75 / 53 °F,Overcast.,76 °F,8 mph,Wind blowing from 310° Northwest to Southeast,24%,0%,"0.00""",3 (Moderate),6:21 am,5:55 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Tue,Sep 1,74 / 55 °F,Increasing cloudiness.,77 °F,8 mph,Wind blowing from 310° Northwest to Southeast,34%,3%,"0.00""",3 (Moderate),6:20 am,5:55 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Wed,Sep 2,78 / 58 °F,Breaks of sun late.,78 °F,11 mph,Wind blowing from 310° Northwest to Southeast,23%,4%,"0.00""",5 (Moderate),6:19 am,5:55 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Thu,Sep 3,81 / 61 °F,Sunny.,79 °F,15 mph,Wind blowing from 300° West-northwest to East-southeast,19%,2%,"0.00""",7 (High),6:18 am,5:56 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Fri,Sep 4,81 / 58 °F,Sunny.,79 °F,2 mph,Wind blowing from 250° West-southwest to East-northeast,21%,3%,"0.00""",7 (High),6:17 am,5:56 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Sat,Sep 5,82 / 59 °F,Sunny.,81 °F,3 mph,Wind blowing from 20° North-northeast to South-southwest,33%,5%,"0.00""",7 (High),6:16 am,5:57 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Sun,Sep 6,79 / 57 °F,Sunny.,78 °F,7 mph,Wind blowing from 350° North to South,29%,4%,"0.00""",7 (High),6:15 am,5:57 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Mon,Sep 7,76 / 55 °F,Sunny.,77 °F,7 mph,Wind blowing from 310° Northwest to Southeast,21%,3%,"0.00""",7 (High),6:14 am,5:57 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Tue,Sep 8,76 / 54 °F,Scattered clouds.,76 °F,11 mph,Wind blowing from 340° North-northwest to South-southeast,19%,6%,"0.00""",5 (Moderate),6:13 am,5:58 pm,2026-08-26T01:42:04+00:00
+Johannesburg,south-africa,Wed,Sep 9,76 / 54 °F,Sunny.,78 °F,14 mph,Wind blowing from 350° North to South,35%,6%,"0.00""",7 (High),6:12 am,5:58 pm,2026-08-26T01:42:04+00:00
