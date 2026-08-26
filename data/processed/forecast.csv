@@ -1,0 +1,750 @@
+city,country,forecast_date,day_of_week,temp_high_f,temp_low_f,temp_high_c,temp_low_c,temp_range_f,condition,feels_like_f,wind_mph,wind_bearing_deg,wind_from,humidity_pct,precip_chance_pct,precip_amount_in,uv_index,uv_category,sunrise,sunset,scraped_at
+Algiers,Algeria,2026-08-26,Wed,91,75,32.8,23.9,16,Cloudy.,100,9,310,Northwest,67,2,0.0,3,Moderate,6:13 am,7:24 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-08-27,Thu,89,74,31.7,23.3,15,Mostly cloudy.,94,8,340,North-northwest,56,2,0.0,3,Moderate,6:14 am,7:23 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-08-28,Fri,87,72,30.6,22.2,15,Mostly sunny.,89,7,340,North-northwest,52,2,0.0,5,Moderate,6:15 am,7:21 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-08-29,Sat,89,72,31.7,22.2,17,Broken clouds.,92,9,20,North-northeast,57,15,0.03,3,Moderate,6:16 am,7:20 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-08-30,Sun,89,74,31.7,23.3,15,Broken clouds.,95,8,30,North-northeast,59,5,0.01,3,Moderate,6:17 am,7:19 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-08-31,Mon,87,74,30.6,23.3,13,Mostly sunny.,91,7,10,North,60,0,0.0,3,Moderate,6:17 am,7:17 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-01,Tue,87,76,30.6,24.4,11,Scattered clouds.,92,12,60,East-northeast,59,0,0.0,5,Moderate,6:18 am,7:16 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-02,Wed,83,73,28.3,22.8,10,Mostly sunny.,86,13,50,Northeast,63,2,0.0,5,Moderate,6:19 am,7:14 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-03,Thu,84,75,28.9,23.9,9,Sunny.,85,14,50,Northeast,53,1,0.0,5,Moderate,6:20 am,7:13 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-04,Fri,84,74,28.9,23.3,10,Sunny.,84,11,60,East-northeast,50,2,0.0,5,Moderate,6:21 am,7:11 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-05,Sat,84,74,28.9,23.3,10,Sunny.,84,10,50,Northeast,45,4,0.0,5,Moderate,6:21 am,7:10 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-06,Sun,84,73,28.9,22.8,11,Partly cloudy.,87,11,50,Northeast,56,5,0.0,5,Moderate,6:22 am,7:08 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-07,Mon,85,73,29.4,22.8,12,Cloudy.,88,11,50,Northeast,59,5,0.0,3,Moderate,6:23 am,7:07 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-08,Tue,85,73,29.4,22.8,12,Sunny.,87,12,50,Northeast,57,3,0.0,5,Moderate,6:24 am,7:05 pm,2026-08-26 01:42:04+00:00
+Algiers,Algeria,2026-09-09,Wed,86,74,30.0,23.3,12,Sunny.,89,12,50,Northeast,63,3,0.0,5,Moderate,6:25 am,7:04 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-26,Wed,60,42,15.6,5.6,18,Afternoon clouds.,59,3,250,West-southwest,61,1,0.0,3,Moderate,6:43 am,5:52 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-27,Thu,65,45,18.3,7.2,20,Mostly cloudy.,63,5,310,Northwest,52,0,0.0,3,Moderate,6:41 am,5:53 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-28,Fri,68,45,20.0,7.2,23,Cloudy.,66,5,230,Southwest,49,0,0.0,3,Moderate,6:40 am,5:53 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-29,Sat,69,46,20.6,7.8,23,Sunny.,67,7,200,South-southwest,56,0,0.0,3,Moderate,6:39 am,5:54 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-30,Sun,68,46,20.0,7.8,22,Sunny.,65,4,240,West-southwest,52,0,0.0,3,Moderate,6:38 am,5:55 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-08-31,Mon,69,45,20.6,7.2,24,Sunny.,67,4,270,West,50,0,0.0,3,Moderate,6:36 am,5:55 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-01,Tue,75,48,23.9,8.9,27,Sunny.,77,11,340,North-northwest,44,0,0.0,5,Moderate,6:35 am,5:56 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-02,Wed,64,47,17.8,8.3,17,Morning clouds.,64,5,260,West,69,5,0.0,3,Moderate,6:34 am,5:57 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-03,Thu,60,49,15.6,9.4,11,Sprinkles. Mostly cloudy.,58,10,270,West,77,56,0.04,3,Moderate,6:32 am,5:58 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-04,Fri,60,47,15.6,8.3,13,Sunny.,58,4,260,West,61,6,0.0,5,Moderate,6:31 am,5:58 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-05,Sat,59,45,15.0,7.2,14,Morning clouds.,59,3,260,West,62,6,0.0,3,Moderate,6:29 am,5:59 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-06,Sun,62,47,16.7,8.3,15,Sprinkles late. Afternoon clouds.,62,3,300,West-northwest,59,49,0.02,3,Moderate,6:28 am,6:00 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-07,Mon,62,50,16.7,10.0,12,Thunderstorms. Overcast.,61,8,210,South-southwest,96,76,0.28,3,Moderate,6:27 am,6:00 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-08,Tue,59,50,15.0,10.0,9,Tstorms early. Morning clouds.,56,17,190,South,69,39,0.02,3,Moderate,6:25 am,6:01 pm,2026-08-26 01:42:04+00:00
+Adelaide,Australia,2026-09-09,Wed,57,47,13.9,8.3,10,Scattered clouds.,54,5,250,West-southwest,53,4,0.0,5,Moderate,6:24 am,6:02 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-26,Wed,69,55,20.6,12.8,14,Scattered tstorms late. Overcast.,64,6,210,South-southwest,75,61,0.35,3,Moderate,6:41 am,5:56 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-27,Thu,60,52,15.6,11.1,8,Thunderstorms. Overcast.,56,12,170,South,70,77,0.96,0,Low,6:39 am,5:56 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-28,Fri,66,51,18.9,10.6,15,Mostly cloudy.,65,14,140,Southeast,55,0,0.0,3,Moderate,6:38 am,5:57 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-29,Sat,70,52,21.1,11.1,18,Partly cloudy.,69,12,100,East,55,0,0.0,3,Moderate,6:37 am,5:58 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-30,Sun,80,57,26.7,13.9,23,Sunny.,80,4,60,East-northeast,46,0,0.0,5,Moderate,6:36 am,5:58 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-08-31,Mon,72,56,22.2,13.3,16,Mostly cloudy.,69,11,240,West-southwest,62,2,0.0,3,Moderate,6:35 am,5:59 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-01,Tue,65,48,18.3,8.9,17,Mostly sunny.,64,11,210,South-southwest,45,2,0.0,5,Moderate,6:33 am,5:59 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-02,Wed,65,45,18.3,7.2,20,Showers late. Cloudy.,64,9,270,West,64,48,0.04,3,Moderate,6:32 am,6:00 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-03,Thu,66,46,18.9,7.8,20,Morning clouds.,65,6,250,West-southwest,50,6,0.0,3,Moderate,6:31 am,6:01 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-04,Fri,67,48,19.4,8.9,19,Sprinkles early. Morning clouds.,66,8,230,Southwest,60,48,0.02,3,Moderate,6:30 am,6:01 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-05,Sat,66,48,18.9,8.9,18,Sunny.,65,10,210,South-southwest,59,4,0.0,5,Moderate,6:28 am,6:02 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-06,Sun,66,47,18.9,8.3,19,Mostly sunny.,65,8,220,Southwest,55,4,0.0,5,Moderate,6:27 am,6:02 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-07,Mon,69,47,20.6,8.3,22,Sunny.,65,8,180,South,39,5,0.0,5,Moderate,6:26 am,6:03 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-08,Tue,72,47,22.2,8.3,25,Sunny.,67,6,260,West,43,4,0.0,5,Moderate,6:25 am,6:04 pm,2026-08-26 01:42:04+00:00
+Perth,Australia,2026-09-09,Wed,67,48,19.4,8.9,19,Scattered clouds.,66,14,190,South,73,5,0.0,3,Moderate,6:23 am,6:04 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-26,Wed,91,80,32.8,26.7,11,Cloudy.,101,12,110,East-southeast,63,2,0.0,5,Moderate,6:47 am,7:33 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-27,Thu,91,81,32.8,27.2,10,Partly cloudy.,101,11,100,East,63,2,0.0,5,Moderate,6:48 am,7:32 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-28,Fri,91,81,32.8,27.2,10,Scattered clouds.,102,13,90,East,64,2,0.0,7,High,6:48 am,7:32 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-29,Sat,91,80,32.8,26.7,11,Mostly sunny.,103,12,110,East-southeast,66,4,0.0,7,High,6:49 am,7:31 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-30,Sun,90,81,32.2,27.2,9,Mostly sunny.,100,15,110,East-southeast,66,0,0.0,7,High,6:49 am,7:30 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-08-31,Mon,90,81,32.2,27.2,9,Showers late. Afternoon clouds.,101,13,80,East,66,16,0.04,7,High,6:49 am,7:28 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-01,Tue,88,81,31.1,27.2,7,Thunderstorms. Increasing cloudiness.,95,10,80,East,69,48,0.21,5,Moderate,6:50 am,7:27 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-02,Wed,85,82,29.4,27.8,3,Showers early. Overcast.,92,11,130,Southeast,67,52,0.03,3,Moderate,6:50 am,7:26 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-03,Thu,86,85,30.0,29.4,1,Showers early. Morning clouds.,95,11,120,East-southeast,70,46,0.05,5,Moderate,6:50 am,7:25 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-04,Fri,88,85,31.1,29.4,3,Showers late. Broken clouds.,97,12,90,East,73,51,0.02,5,Moderate,6:51 am,7:24 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-05,Sat,87,85,30.6,29.4,2,Sunny.,96,15,70,East-northeast,72,5,0.0,7,High,6:51 am,7:23 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-06,Sun,87,85,30.6,29.4,2,Sunny.,97,12,70,East-northeast,71,8,0.0,7,High,6:52 am,7:22 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-07,Mon,87,85,30.6,29.4,2,Sunny.,98,11,100,East,72,16,0.0,7,High,6:52 am,7:21 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-08,Tue,88,85,31.1,29.4,3,Sunny.,99,11,100,East,73,6,0.0,7,High,6:52 am,7:20 pm,2026-08-26 01:42:04+00:00
+Nassau,Bahamas,2026-09-09,Wed,88,86,31.1,30.0,2,Showers late. Afternoon clouds.,100,10,80,East,74,48,0.01,7,High,6:53 am,7:19 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-26,Wed,74,69,23.3,20.6,5,Isolated tstorms late. Overcast.,73,8,120,East-southeast,83,17,0.06,3,Moderate,6:08 am,5:40 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-27,Thu,77,70,25.0,21.1,7,Showers early. Decreasing cloudiness.,78,7,90,East,76,61,0.3,3,Moderate,6:07 am,5:40 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-28,Fri,83,68,28.3,20.0,15,Partly cloudy.,86,6,110,East-southeast,69,0,0.0,3,Moderate,6:06 am,5:41 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-29,Sat,88,72,31.1,22.2,16,Partly cloudy.,93,5,60,East-northeast,59,0,0.0,3,Moderate,6:05 am,5:41 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-30,Sun,83,72,28.3,22.2,11,Mostly sunny.,81,7,170,South,78,0,0.0,5,Moderate,6:05 am,5:41 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-08-31,Mon,85,71,29.4,21.7,14,Sunny.,86,7,140,Southeast,68,0,0.0,7,High,6:04 am,5:42 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-01,Tue,76,69,24.4,20.6,7,Showers late. Overcast.,75,5,120,East-southeast,80,77,0.78,3,Moderate,6:03 am,5:42 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-02,Wed,74,67,23.3,19.4,7,Showers early. Broken clouds.,76,20,240,West-southwest,60,70,0.33,3,Moderate,6:02 am,5:42 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-03,Thu,73,64,22.8,17.8,9,Sunny.,77,9,130,Southeast,50,6,0.0,7,High,6:01 am,5:43 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-04,Fri,73,63,22.8,17.2,10,Sunny.,76,10,210,South-southwest,59,3,0.0,7,High,6:00 am,5:43 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-05,Sat,73,63,22.8,17.2,10,Increasing cloudiness.,76,6,160,South-southeast,58,6,0.0,3,Moderate,5:59 am,5:43 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-06,Sun,73,64,22.8,17.8,9,Isolated tstorms. Broken clouds.,72,6,90,East,80,50,0.06,3,Moderate,5:58 am,5:44 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-07,Mon,74,64,23.3,17.8,10,Isolated tstorms. Overcast.,70,4,150,South-southeast,87,79,0.35,3,Moderate,5:57 am,5:44 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-08,Tue,74,64,23.3,17.8,10,Showery. Overcast.,71,4,200,South-southwest,82,87,1.05,3,Moderate,5:56 am,5:44 pm,2026-08-26 01:42:04+00:00
+Rio de Janeiro,Brazil,2026-09-09,Wed,74,64,23.3,17.8,10,Passing showers. Overcast.,71,6,190,South,82,74,0.37,5,Moderate,5:55 am,5:44 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-25,Tue,78,51,25.6,10.6,27,Sunny.,78,9,160,South-southeast,42,1,0.0,3,Moderate,6:31 am,8:39 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-26,Wed,82,56,27.8,13.3,26,Scattered clouds.,80,18,160,South-southeast,44,0,0.0,3,Moderate,6:33 am,8:37 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-27,Thu,83,59,28.3,15.0,24,Isolated tstorms late. Mostly cloudy.,81,7,170,South,45,15,0.0,3,Moderate,6:34 am,8:34 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-28,Fri,70,54,21.1,12.2,16,Mostly cloudy.,69,16,290,West-northwest,54,17,0.04,3,Moderate,6:36 am,8:32 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-29,Sat,61,50,16.1,10.0,11,Light showers. Cloudy.,57,13,300,West-northwest,70,21,0.09,3,Moderate,6:38 am,8:30 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-30,Sun,68,47,20.0,8.3,21,Overcast.,66,6,240,West-southwest,62,0,0.0,3,Moderate,6:39 am,8:27 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-08-31,Mon,76,51,24.4,10.6,25,Cloudy.,77,13,150,South-southeast,40,0,0.0,3,Moderate,6:41 am,8:25 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-01,Tue,68,50,20.0,10.0,18,Isolated tstorms late. Cloudy.,64,8,350,North,73,56,0.15,3,Moderate,6:43 am,8:23 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-02,Wed,65,49,18.3,9.4,16,Showers early. Overcast.,65,10,300,West-northwest,56,54,0.17,0,Low,6:45 am,8:20 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-03,Thu,59,46,15.0,7.8,13,Drizzle. Overcast.,54,23,310,Northwest,69,55,0.02,0,Low,6:46 am,8:18 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-04,Fri,58,42,14.4,5.6,16,Isolated tstorms. Breaks of sun late.,53,20,310,Northwest,66,50,0.04,0,Low,6:48 am,8:15 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-05,Sat,60,40,15.6,4.4,20,Sprinkles early. Cloudy.,56,17,320,Northwest,58,41,0.01,0,Low,6:50 am,8:13 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-06,Sun,62,37,16.7,2.8,25,Sunny.,60,6,240,West-southwest,39,4,0.0,3,Moderate,6:52 am,8:11 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-07,Mon,62,38,16.7,3.3,24,Mostly sunny.,61,1,20,North-northeast,38,5,0.0,3,Moderate,6:53 am,8:08 pm,2026-08-26 01:42:04+00:00
+Edmonton,Canada,2026-09-08,Tue,61,38,16.1,3.3,23,Cloudy.,61,10,70,East-northeast,45,5,0.0,0,Low,6:55 am,8:06 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-26,Wed,75,61,23.9,16.1,14,Broken clouds.,76,9,210,South-southwest,68,5,0.0,3,Moderate,6:29 am,8:01 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-27,Thu,73,61,22.8,16.1,12,Showers early. Cloudy.,75,9,210,South-southwest,68,39,0.03,3,Moderate,6:30 am,7:59 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-28,Fri,74,62,23.3,16.7,12,Showers late. Overcast.,74,10,200,South-southwest,76,72,0.33,3,Moderate,6:32 am,7:58 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-29,Sat,76,60,24.4,15.6,16,Showers early. Overcast.,77,9,260,West,66,70,0.43,0,Low,6:33 am,7:56 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-30,Sun,74,54,23.3,12.2,20,Breaks of sun late.,77,10,210,South-southwest,53,0,0.0,3,Moderate,6:34 am,7:54 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-08-31,Mon,74,60,23.3,15.6,14,Overcast.,76,5,260,West,61,18,0.0,3,Moderate,6:35 am,7:52 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-01,Tue,64,56,17.8,13.3,8,Rain showers. Overcast.,55,15,70,East-northeast,97,57,0.4,0,Low,6:36 am,7:50 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-02,Wed,60,54,15.6,12.2,6,Light showers. Overcast.,57,12,30,North-northeast,94,68,0.28,0,Low,6:38 am,7:49 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-03,Thu,64,54,17.8,12.2,10,Sprinkles. Mostly cloudy.,64,12,80,East,64,62,0.15,3,Moderate,6:39 am,7:47 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-04,Fri,67,53,19.4,11.7,14,Mostly cloudy.,67,2,260,West,58,4,0.0,3,Moderate,6:40 am,7:45 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-05,Sat,66,53,18.9,11.7,13,Scattered clouds.,66,6,190,South,52,4,0.0,3,Moderate,6:41 am,7:43 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-06,Sun,67,57,19.4,13.9,10,Sprinkles late. Breaks of sun late.,66,13,210,South-southwest,73,59,0.01,3,Moderate,6:42 am,7:41 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-07,Mon,67,59,19.4,15.0,8,Rain showers. Overcast.,67,10,200,South-southwest,99,74,0.38,0,Low,6:43 am,7:39 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-08,Tue,67,59,19.4,15.0,8,Sprinkles late. Cloudy.,67,7,210,South-southwest,78,50,0.02,3,Moderate,6:45 am,7:37 pm,2026-08-26 01:42:04+00:00
+Halifax,Canada,2026-09-09,Wed,69,61,20.6,16.1,8,Rain showers. Overcast.,69,9,210,South-southwest,99,60,0.28,0,Low,6:46 am,7:36 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-26,Wed,78,56,25.6,13.3,22,Broken clouds.,78,6,150,South-southeast,55,5,0.0,3,Moderate,6:17 am,7:51 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-27,Thu,76,59,24.4,15.0,17,A few tstorms. Cloudy.,77,9,210,South-southwest,72,64,0.22,3,Moderate,6:18 am,7:49 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-28,Fri,68,53,20.0,11.7,15,Sprinkles early. Mostly cloudy.,66,9,320,Northwest,59,47,0.04,3,Moderate,6:19 am,7:47 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-29,Sat,74,48,23.3,8.9,26,Afternoon clouds.,77,6,200,South-southwest,47,0,0.0,5,Moderate,6:20 am,7:45 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-30,Sun,70,58,21.1,14.4,12,Showers late. Overcast.,68,10,220,Southwest,86,21,0.08,0,Low,6:21 am,7:43 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-08-31,Mon,77,61,25.0,16.1,16,A few tstorms. Overcast.,77,8,230,Southwest,81,49,0.14,0,Low,6:23 am,7:42 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-01,Tue,76,62,24.4,16.7,14,Showers late. Cloudy.,76,9,340,North-northwest,67,23,0.06,3,Moderate,6:24 am,7:40 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-02,Wed,74,58,23.3,14.4,16,Scattered clouds.,77,5,110,East-southeast,59,5,0.0,3,Moderate,6:25 am,7:38 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-03,Thu,74,55,23.3,12.8,19,Showers late. Overcast.,74,7,90,East,78,55,0.08,3,Moderate,6:26 am,7:36 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-04,Fri,75,59,23.9,15.0,16,Thunderstorms. Cloudy.,74,5,190,South,81,99,0.67,3,Moderate,6:28 am,7:34 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-05,Sat,75,61,23.9,16.1,14,A few tstorms. Cloudy.,76,7,190,South,72,87,0.18,3,Moderate,6:29 am,7:32 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-06,Sun,78,62,25.6,16.7,16,Thundershowers. Overcast.,81,6,260,West,97,69,0.44,0,Low,6:30 am,7:30 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-07,Mon,78,63,25.6,17.2,15,Showers late. Mostly cloudy.,80,5,140,Southeast,81,52,0.01,3,Moderate,6:31 am,7:28 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-08,Tue,78,63,25.6,17.2,15,Severe thunderstorms. Cloudy.,80,8,250,West-southwest,82,99,0.85,3,Moderate,6:32 am,7:27 pm,2026-08-26 01:42:04+00:00
+Ottawa,Canada,2026-09-09,Wed,77,61,25.0,16.1,16,Sunny.,79,12,280,West,55,4,0.0,3,Moderate,6:34 am,7:25 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-26,Wed,91,76,32.8,24.4,15,Scattered tstorms late. Broken clouds.,101,9,50,Northeast,64,73,0.22,5,Moderate,7:09 am,7:52 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-27,Thu,91,74,32.8,23.3,17,Scattered tstorms late. Partly cloudy.,101,10,40,Northeast,66,58,0.12,7,High,7:10 am,7:51 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-28,Fri,91,76,32.8,24.4,15,Isolated tstorms late. Increasing cloudiness.,101,11,50,Northeast,64,50,0.15,7,High,7:10 am,7:50 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-29,Sat,91,78,32.8,25.6,13,Isolated tstorms late. Afternoon clouds.,103,12,50,Northeast,67,47,0.16,7,High,7:10 am,7:49 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-30,Sun,92,78,33.3,25.6,14,Showers late. Overcast.,105,13,50,Northeast,64,44,0.08,5,Moderate,7:11 am,7:48 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-08-31,Mon,88,78,31.1,25.6,10,Tstorms late. Overcast.,98,15,40,Northeast,77,68,0.34,3,Moderate,7:11 am,7:47 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-01,Tue,89,78,31.7,25.6,11,Isolated tstorms late. Overcast.,101,12,40,Northeast,72,66,0.28,5,Moderate,7:11 am,7:46 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-02,Wed,85,78,29.4,25.6,7,Tstorms late. Mostly cloudy.,89,7,30,North-northeast,65,99,0.31,5,Moderate,7:12 am,7:45 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-03,Thu,85,76,29.4,24.4,9,Showers early. Cloudy.,90,3,40,Northeast,62,50,0.07,5,Moderate,7:12 am,7:44 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-04,Fri,86,76,30.0,24.4,10,Increasing cloudiness.,91,12,40,Northeast,64,6,0.0,5,Moderate,7:12 am,7:43 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-05,Sat,86,76,30.0,24.4,10,Morning clouds.,92,18,60,East-northeast,64,5,0.0,7,High,7:13 am,7:42 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-06,Sun,87,76,30.6,24.4,11,Sunny.,92,18,60,East-northeast,62,5,0.0,7,High,7:13 am,7:41 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-07,Mon,87,76,30.6,24.4,11,Scattered tstorms late. Broken clouds.,93,15,50,Northeast,64,96,0.19,5,Moderate,7:13 am,7:40 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-08,Tue,87,76,30.6,24.4,11,Scattered tstorms late. Cloudy.,94,8,50,Northeast,66,95,0.17,5,Moderate,7:13 am,7:39 pm,2026-08-26 01:42:04+00:00
+Havana,Cuba,2026-09-09,Wed,87,78,30.6,25.6,9,Showers late. Mostly cloudy.,93,13,30,North-northeast,64,47,0.07,5,Moderate,7:14 am,7:38 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-26,Wed,71,57,21.7,13.9,14,Cloudy.,76,9,80,East,60,0,0.0,3,Moderate,6:08 am,7:59 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-27,Thu,81,57,27.2,13.9,24,Cloudy.,80,8,110,East-southeast,49,0,0.0,3,Moderate,6:09 am,7:57 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-28,Fri,87,61,30.6,16.1,26,Showers late. Overcast.,85,6,130,Southeast,38,61,0.14,0,Low,6:11 am,7:55 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-29,Sat,75,60,23.9,15.6,15,Showers early. Cloudy.,77,14,250,West-southwest,51,64,0.15,3,Moderate,6:12 am,7:52 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-30,Sun,80,60,26.7,15.6,20,Cloudy.,79,8,240,West-southwest,49,0,0.0,3,Moderate,6:14 am,7:50 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-08-31,Mon,75,59,23.9,15.0,16,Showers late. Afternoon clouds.,69,11,270,West,56,43,0.03,3,Moderate,6:15 am,7:48 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-01,Tue,68,57,20.0,13.9,11,Overcast.,66,8,250,West-southwest,58,3,0.0,3,Moderate,6:17 am,7:46 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-02,Wed,68,53,20.0,11.7,15,Passing showers. Cloudy.,68,11,270,West,50,42,0.03,3,Moderate,6:18 am,7:44 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-03,Thu,71,56,21.7,13.3,15,Breaks of sun late.,76,10,300,West-northwest,34,6,0.0,3,Moderate,6:20 am,7:42 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-04,Fri,75,56,23.9,13.3,19,Sunny.,77,4,180,South,32,4,0.0,3,Moderate,6:21 am,7:40 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-05,Sat,79,57,26.1,13.9,22,Afternoon clouds.,78,12,230,Southwest,25,5,0.0,3,Moderate,6:23 am,7:38 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-06,Sun,75,60,23.9,15.6,15,Showers early. Breaks of sun late.,77,10,330,North-northwest,32,50,0.02,3,Moderate,6:24 am,7:35 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-07,Mon,78,59,25.6,15.0,19,Afternoon clouds.,78,4,70,East-northeast,34,5,0.0,3,Moderate,6:25 am,7:33 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-08,Tue,81,53,27.2,11.7,28,Breaks of sun late.,80,12,250,West-southwest,24,6,0.0,0,Low,6:27 am,7:31 pm,2026-08-26 01:42:04+00:00
+Prague,Czech Republic,2026-09-09,Wed,81,54,27.2,12.2,27,Morning clouds.,80,10,250,West-southwest,22,6,0.0,3,Moderate,6:28 am,7:29 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-26,Wed,71,53,21.7,11.7,18,Rain showers. Overcast.,75,7,120,East-southeast,63,80,0.51,7,High,6:16 am,6:36 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-27,Thu,73,52,22.8,11.1,21,Rain showers. Broken clouds.,77,9,130,Southeast,53,80,0.31,10,Very high,6:16 am,6:36 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-28,Fri,74,53,23.3,11.7,21,Showers late. Afternoon clouds.,77,5,160,South-southeast,50,46,0.19,10,Very high,6:16 am,6:35 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-29,Sat,72,52,22.2,11.1,20,Isolated tstorms. Afternoon clouds.,75,4,130,Southeast,63,56,0.16,7,High,6:16 am,6:35 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-30,Sun,71,54,21.7,12.2,17,Passing showers. Mostly cloudy.,69,4,140,Southeast,65,69,0.36,7,High,6:16 am,6:34 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-08-31,Mon,72,54,22.2,12.2,18,A few tstorms. Cloudy.,76,6,120,East-southeast,58,64,0.39,7,High,6:16 am,6:34 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-01,Tue,73,52,22.8,11.1,21,Thunderstorms. Mostly cloudy.,77,8,100,East,53,66,0.42,10,Very high,6:16 am,6:33 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-02,Wed,72,52,22.2,11.1,20,Showers late. Afternoon clouds.,77,3,80,East,53,76,0.65,10,Very high,6:16 am,6:32 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-03,Thu,74,61,23.3,16.1,13,Showers late. Mostly cloudy.,77,5,80,East,52,47,0.07,7,High,6:16 am,6:32 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-04,Fri,73,62,22.8,16.7,11,Tstorms late. Cloudy.,76,5,300,West-northwest,60,99,0.72,7,High,6:16 am,6:31 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-05,Sat,73,62,22.8,16.7,11,A few tstorms. Mostly cloudy.,76,8,60,East-northeast,64,96,0.13,7,High,6:16 am,6:31 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-06,Sun,73,61,22.8,16.1,12,Showers late. Afternoon clouds.,76,8,50,Northeast,57,46,0.06,7,High,6:15 am,6:30 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-07,Mon,74,61,23.3,16.1,13,Partly cloudy.,77,7,60,East-northeast,57,50,0.01,10,Very high,6:15 am,6:30 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-08,Tue,75,62,23.9,16.7,13,Showers early. Broken clouds.,77,14,80,East,43,56,0.04,10,Very high,6:15 am,6:29 pm,2026-08-26 01:42:04+00:00
+Addis Ababa,Ethiopia,2026-09-09,Wed,76,62,24.4,16.7,14,Passing showers. Broken clouds.,77,7,70,East-northeast,50,53,0.09,7,High,6:15 am,6:28 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-26,Wed,67,55,19.4,12.8,12,Overcast.,66,3,200,South-southwest,69,0,0.0,0,Low,6:00 am,8:42 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-27,Thu,65,57,18.3,13.9,8,Overcast.,64,5,170,South,71,0,0.0,0,Low,6:02 am,8:39 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-28,Fri,65,57,18.3,13.9,8,Sprinkles late. Overcast.,63,6,160,South-southeast,74,21,0.01,0,Low,6:04 am,8:36 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-29,Sat,67,61,19.4,16.1,6,Showers late. Overcast.,66,17,120,East-southeast,72,56,0.17,0,Low,6:07 am,8:33 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-30,Sun,64,61,17.8,16.1,3,Light showers. Overcast.,63,14,230,Southwest,90,63,0.32,0,Low,6:09 am,8:30 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-08-31,Mon,65,60,18.3,15.6,5,Passing showers. Cloudy.,64,17,230,Southwest,80,45,0.08,0,Low,6:12 am,8:27 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-01,Tue,64,57,17.8,13.9,7,Showery. Overcast.,61,11,310,Northwest,93,83,1.06,0,Low,6:14 am,8:24 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-02,Wed,64,57,17.8,13.9,7,Sprinkles early. Partly cloudy.,64,12,240,West-southwest,65,22,0.03,0,Low,6:16 am,8:21 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-03,Thu,64,54,17.8,12.2,10,Sprinkles early. Broken clouds.,64,8,220,Southwest,75,44,0.01,0,Low,6:19 am,8:18 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-04,Fri,67,53,19.4,11.7,14,Showers late. Overcast.,62,10,230,Southwest,66,39,0.0,0,Low,6:21 am,8:15 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-05,Sat,63,53,17.2,11.7,10,Sprinkles late. Cloudy.,63,8,210,South-southwest,72,41,0.01,0,Low,6:23 am,8:12 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-06,Sun,62,54,16.7,12.2,8,Showers early. Cloudy.,62,19,200,South-southwest,95,74,0.37,0,Low,6:26 am,8:09 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-07,Mon,63,57,17.2,13.9,6,Mostly sunny.,62,15,260,West,54,4,0.0,3,Moderate,6:28 am,8:06 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-08,Tue,64,53,17.8,11.7,11,Showers late. Cloudy.,56,14,180,South,67,52,0.06,0,Low,6:31 am,8:03 pm,2026-08-26 01:42:04+00:00
+Helsinki,Finland,2026-09-09,Wed,59,54,15.0,12.2,5,Isolated tstorms. Morning clouds.,56,18,220,Southwest,81,63,0.18,0,Low,6:33 am,8:00 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-26,Wed,83,64,28.3,17.8,19,Isolated tstorms. Cloudy.,81,4,150,South-southeast,50,62,0.06,3,Moderate,6:58 am,8:45 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-27,Thu,81,65,27.2,18.3,16,Thunderstorms. Overcast.,80,7,260,West,54,98,0.44,0,Low,7:00 am,8:43 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-28,Fri,72,63,22.2,17.2,9,A few tstorms. Overcast.,75,11,230,Southwest,66,64,0.25,3,Moderate,7:01 am,8:41 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-29,Sat,72,63,22.2,17.2,9,Passing showers. Overcast.,69,11,200,South-southwest,72,46,0.09,0,Low,7:02 am,8:39 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-30,Sun,74,65,23.3,18.3,9,Passing showers. Overcast.,74,10,220,Southwest,74,56,0.25,3,Moderate,7:04 am,8:37 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-08-31,Mon,66,59,18.9,15.0,7,Passing showers. Overcast.,66,12,260,West,71,55,0.13,3,Moderate,7:05 am,8:35 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-01,Tue,70,54,21.1,12.2,16,Cloudy.,69,9,240,West-southwest,53,0,0.0,3,Moderate,7:07 am,8:33 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-02,Wed,75,61,23.9,16.1,14,Passing showers. Morning clouds.,77,9,260,West,44,45,0.02,3,Moderate,7:08 am,8:30 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-03,Thu,79,62,26.1,16.7,17,Sunny.,78,5,220,Southwest,36,4,0.0,3,Moderate,7:10 am,8:28 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-04,Fri,81,64,27.2,17.8,17,Sunny.,78,5,190,South,26,4,0.0,3,Moderate,7:11 am,8:26 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-05,Sat,78,63,25.6,17.2,15,Showers early. Morning clouds.,78,13,280,West,56,39,0.0,3,Moderate,7:12 am,8:24 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-06,Sun,81,63,27.2,17.2,18,Cloudy.,78,3,350,North,33,5,0.0,3,Moderate,7:14 am,8:22 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-07,Mon,84,61,28.9,16.1,23,Broken clouds.,76,6,170,South,23,6,0.0,3,Moderate,7:15 am,8:20 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-08,Tue,83,61,28.3,16.1,22,Scattered clouds.,77,10,270,West,28,5,0.0,3,Moderate,7:17 am,8:18 pm,2026-08-26 01:42:04+00:00
+Paris,France,2026-09-09,Wed,83,61,28.3,16.1,22,Sunny.,77,6,250,West-southwest,31,4,0.0,3,Moderate,7:18 am,8:16 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-26,Wed,79,56,26.1,13.3,23,Mostly cloudy.,78,4,160,South-southeast,55,14,0.01,3,Moderate,6:31 am,8:22 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-27,Thu,86,63,30.0,17.2,23,Thundershowers. Overcast.,85,3,200,South-southwest,47,19,0.03,3,Moderate,6:32 am,8:20 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-28,Fri,77,63,25.0,17.2,14,Isolated tstorms. Overcast.,69,7,200,South-southwest,81,73,0.44,0,Low,6:33 am,8:18 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-29,Sat,71,61,21.7,16.1,10,Passing showers. Overcast.,70,11,220,Southwest,71,46,0.07,3,Moderate,6:35 am,8:15 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-30,Sun,78,60,25.6,15.6,18,Cloudy.,78,11,200,South-southwest,57,4,0.0,3,Moderate,6:36 am,8:13 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-08-31,Mon,71,62,21.7,16.7,9,Passing showers. Overcast.,70,14,240,West-southwest,59,53,0.26,3,Moderate,6:38 am,8:11 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-01,Tue,71,58,21.7,14.4,13,Overcast.,69,8,240,West-southwest,46,2,0.0,3,Moderate,6:39 am,8:09 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-02,Wed,78,56,25.6,13.3,22,Passing showers. Breaks of sun late.,78,10,260,West,51,50,0.05,3,Moderate,6:41 am,8:07 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-03,Thu,79,61,26.1,16.1,18,Sunny.,78,5,230,Southwest,38,6,0.0,3,Moderate,6:42 am,8:05 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-04,Fri,79,62,26.1,16.7,17,Mostly sunny.,78,5,200,South-southwest,31,4,0.0,3,Moderate,6:44 am,8:03 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-05,Sat,79,62,26.1,16.7,17,Cloudy.,78,12,240,West-southwest,44,6,0.0,3,Moderate,6:45 am,8:00 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-06,Sun,78,59,25.6,15.0,19,Sunny.,77,7,0,North,34,4,0.0,3,Moderate,6:47 am,7:58 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-07,Mon,74,57,23.3,13.9,17,Afternoon clouds.,76,5,120,East-southeast,32,6,0.0,3,Moderate,6:48 am,7:56 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-08,Tue,75,57,23.9,13.9,18,Mostly sunny.,76,12,260,West,26,5,0.0,3,Moderate,6:50 am,7:54 pm,2026-08-26 01:42:04+00:00
+Frankfurt,Germany,2026-09-09,Wed,75,57,23.9,13.9,18,Scattered clouds.,76,9,250,West-southwest,22,6,0.0,3,Moderate,6:51 am,7:52 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-26,Wed,82,76,27.8,24.4,6,Passing showers. Cloudy.,85,14,210,South-southwest,79,39,0.07,7,High,5:55 am,6:09 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-27,Thu,82,76,27.8,24.4,6,Passing showers. Overcast.,85,15,210,South-southwest,79,40,0.07,7,High,5:55 am,6:09 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-28,Fri,81,75,27.2,23.9,6,Showers late. Overcast.,84,12,220,Southwest,79,48,0.13,7,High,5:54 am,6:09 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-29,Sat,80,75,26.7,23.9,5,Passing showers. Overcast.,82,13,220,Southwest,82,55,0.21,3,Moderate,5:54 am,6:08 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-30,Sun,81,75,27.2,23.9,6,Passing showers. Overcast.,85,13,210,South-southwest,78,41,0.07,3,Moderate,5:54 am,6:08 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-08-31,Mon,84,75,28.9,23.9,9,Broken clouds.,86,13,190,South,79,3,0.0,7,High,5:54 am,6:07 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-01,Tue,83,76,28.3,24.4,7,Showers late. Overcast.,81,15,210,South-southwest,85,15,0.02,7,High,5:54 am,6:07 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-02,Wed,80,76,26.7,24.4,4,Showers early. Morning clouds.,84,14,210,South-southwest,81,49,0.01,7,High,5:54 am,6:06 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-03,Thu,81,77,27.2,25.0,4,Breaks of sun late.,85,13,200,South-southwest,78,6,0.0,7,High,5:53 am,6:06 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-04,Fri,81,77,27.2,25.0,4,Sprinkles early. Mostly cloudy.,85,14,210,South-southwest,80,52,0.01,7,High,5:53 am,6:05 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-05,Sat,81,77,27.2,25.0,4,Showers late. Broken clouds.,85,14,200,South-southwest,74,43,0.01,7,High,5:53 am,6:05 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-06,Sun,81,77,27.2,25.0,4,Sprinkles early. Scattered clouds.,85,15,210,South-southwest,75,48,0.02,7,High,5:53 am,6:04 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-07,Mon,81,77,27.2,25.0,4,Showers late. Partly cloudy.,85,13,200,South-southwest,76,42,0.01,7,High,5:53 am,6:04 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-08,Tue,81,77,27.2,25.0,4,Passing showers. Mostly cloudy.,86,12,210,South-southwest,77,56,0.22,7,High,5:53 am,6:03 pm,2026-08-26 01:42:04+00:00
+Accra,Ghana,2026-09-09,Wed,81,77,27.2,25.0,4,Showers early. Breaks of sun late.,87,12,200,South-southwest,81,51,0.02,7,High,5:52 am,6:03 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-26,Wed,96,74,35.6,23.3,22,Sunny.,96,6,170,South,31,0,0.0,5,Moderate,6:49 am,8:03 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-27,Thu,96,78,35.6,25.6,18,Sunny.,94,11,30,North-northeast,27,0,0.0,5,Moderate,6:50 am,8:02 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-28,Fri,94,75,34.4,23.9,19,Sunny.,93,12,40,Northeast,32,0,0.0,5,Moderate,6:51 am,8:00 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-29,Sat,88,73,31.1,22.8,15,Sunny.,85,13,30,North-northeast,32,0,0.0,5,Moderate,6:52 am,7:59 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-30,Sun,90,70,32.2,21.1,20,Mostly sunny.,89,7,190,South,34,0,0.0,5,Moderate,6:53 am,7:57 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-08-31,Mon,92,71,33.3,21.7,21,Sunny.,89,3,60,East-northeast,31,0,0.0,5,Moderate,6:53 am,7:56 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-01,Tue,93,70,33.9,21.1,23,Sunny.,89,5,190,South,26,0,0.0,5,Moderate,6:54 am,7:54 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-02,Wed,91,70,32.8,21.1,21,Sunny.,88,5,60,East-northeast,21,2,0.0,5,Moderate,6:55 am,7:53 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-03,Thu,92,77,33.3,25.0,15,Mostly sunny.,89,7,20,North-northeast,24,6,0.0,5,Moderate,6:56 am,7:51 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-04,Fri,95,73,35.0,22.8,22,Sunny.,86,17,0,North,28,4,0.0,5,Moderate,6:57 am,7:50 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-05,Sat,100,72,37.8,22.2,28,Sunny.,91,15,40,Northeast,28,3,0.0,5,Moderate,6:58 am,7:48 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-06,Sun,96,72,35.6,22.2,24,Sunny.,88,12,20,North-northeast,24,3,0.0,5,Moderate,6:59 am,7:47 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-07,Mon,94,72,34.4,22.2,22,Sunny.,87,7,20,North-northeast,21,3,0.0,5,Moderate,6:59 am,7:45 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-08,Tue,94,72,34.4,22.2,22,Sunny.,87,12,0,North,23,3,0.0,5,Moderate,7:00 am,7:44 pm,2026-08-26 01:42:04+00:00
+Athens,Greece,2026-09-09,Wed,96,72,35.6,22.2,24,Sunny.,89,13,0,North,22,3,0.0,5,Moderate,7:01 am,7:42 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-25,Tue,77,58,25.0,14.4,19,Showers late. Overcast.,78,6,20,North-northeast,58,51,0.06,7,High,5:49 am,6:18 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-26,Wed,79,59,26.1,15.0,20,Passing showers. Mostly cloudy.,79,7,30,North-northeast,54,44,0.07,7,High,5:49 am,6:17 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-27,Thu,80,59,26.7,15.0,21,Showers late. Mostly cloudy.,80,5,20,North-northeast,49,49,0.05,7,High,5:49 am,6:17 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-28,Fri,81,59,27.2,15.0,22,Overcast.,80,5,50,Northeast,42,42,0.01,3,Moderate,5:49 am,6:16 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-29,Sat,81,59,27.2,15.0,22,Showers late. Overcast.,80,6,40,Northeast,41,38,0.03,5,Moderate,5:49 am,6:15 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-30,Sun,80,59,26.7,15.0,21,Passing showers. Overcast.,77,3,130,Southeast,56,48,0.1,5,Moderate,5:49 am,6:15 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-08-31,Mon,78,61,25.6,16.1,17,Showers late. Overcast.,78,3,60,East-northeast,58,66,0.46,5,Moderate,5:50 am,6:14 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-01,Tue,79,60,26.1,15.6,19,Showers late. Overcast.,80,5,40,Northeast,54,38,0.09,5,Moderate,5:50 am,6:13 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-02,Wed,82,62,27.8,16.7,20,Showers late. Broken clouds.,84,2,70,East-northeast,55,50,0.06,7,High,5:50 am,6:13 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-03,Thu,83,62,28.3,16.7,21,Passing showers. Broken clouds.,83,3,150,South-southeast,67,58,0.13,7,High,5:50 am,6:12 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-04,Fri,83,62,28.3,16.7,21,Thunderstorms. Breaks of sun late.,85,4,150,South-southeast,77,99,0.87,7,High,5:50 am,6:11 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-05,Sat,82,62,27.8,16.7,20,Thunderstorms. Partly cloudy.,84,5,80,East,75,99,0.59,7,High,5:50 am,6:10 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-06,Sun,82,62,27.8,16.7,20,Passing showers. Overcast.,84,4,40,Northeast,78,76,0.35,3,Moderate,5:50 am,6:10 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-07,Mon,81,62,27.2,16.7,19,Passing showers. Broken clouds.,81,4,70,East-northeast,57,62,0.04,7,High,5:50 am,6:09 pm,2026-08-26 01:42:04+00:00
+Guatemala City,Guatemala,2026-09-08,Tue,81,62,27.2,16.7,19,A few tstorms. Mostly cloudy.,84,2,150,South-southeast,77,79,0.18,5,Moderate,5:50 am,6:08 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-26,Wed,89,82,31.7,27.8,7,Thunderstorms. Overcast.,99,12,150,South-southeast,72,70,0.48,5,Moderate,6:04 am,6:45 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-27,Thu,89,82,31.7,27.8,7,Thunderstorms. Overcast.,101,8,210,South-southwest,75,84,0.72,5,Moderate,6:04 am,6:45 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-28,Fri,90,82,32.2,27.8,8,Thunderstorms. Overcast.,103,11,230,Southwest,74,82,0.81,5,Moderate,6:04 am,6:44 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-29,Sat,89,81,31.7,27.2,8,Thunderstorms. Overcast.,101,7,120,East-southeast,69,91,1.54,3,Moderate,6:05 am,6:43 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-30,Sun,89,80,31.7,26.7,9,Isolated tstorms. Broken clouds.,99,18,90,East,68,66,0.32,7,High,6:05 am,6:42 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-08-31,Mon,90,80,32.2,26.7,10,Thundershowers. Overcast.,99,17,90,East,69,48,0.24,5,Moderate,6:05 am,6:41 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-01,Tue,91,79,32.8,26.1,12,Passing showers. Cloudy.,100,3,200,South-southwest,61,18,0.09,5,Moderate,6:05 am,6:40 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-02,Wed,91,77,32.8,25.0,14,Cloudy.,89,15,20,North-northeast,56,5,0.0,5,Moderate,6:06 am,6:39 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-03,Thu,87,79,30.6,26.1,8,Mostly cloudy.,89,13,0,North,53,5,0.0,5,Moderate,6:06 am,6:38 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-04,Fri,86,78,30.0,25.6,8,Cloudy.,89,10,300,West-northwest,57,6,0.0,5,Moderate,6:06 am,6:37 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-05,Sat,86,78,30.0,25.6,8,Overcast.,90,8,280,West,58,6,0.0,3,Moderate,6:07 am,6:36 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-06,Sun,87,78,30.6,25.6,9,Afternoon clouds.,96,3,160,South-southeast,64,40,0.0,7,High,6:07 am,6:35 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-07,Mon,91,78,32.8,25.6,13,Showers late. Scattered clouds.,105,6,150,South-southeast,65,50,0.03,7,High,6:07 am,6:34 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-08,Tue,92,78,33.3,25.6,14,Passing showers. Breaks of sun late.,109,4,160,South-southeast,67,47,0.06,5,Moderate,6:08 am,6:33 pm,2026-08-26 01:42:04+00:00
+Hong Kong,Hong Kong,2026-09-09,Wed,91,79,32.8,26.1,12,A few tstorms. Afternoon clouds.,110,8,220,Southwest,72,86,0.09,5,Moderate,6:08 am,6:32 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-26,Wed,54,41,12.2,5.0,13,Overcast.,50,9,320,Northwest,64,1,0.0,0,Low,5:52 am,9:04 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-27,Thu,54,45,12.2,7.2,9,Morning clouds.,49,14,320,Northwest,54,1,0.0,0,Low,5:55 am,9:01 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-28,Fri,54,41,12.2,5.0,13,Morning clouds.,51,6,290,West-northwest,58,0,0.0,0,Low,5:58 am,8:57 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-29,Sat,51,41,10.6,5.0,10,Sunny.,46,11,310,Northwest,56,5,0.0,3,Moderate,6:01 am,8:54 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-30,Sun,54,40,12.2,4.4,14,Mostly cloudy.,51,6,350,North,51,5,0.0,0,Low,6:04 am,8:50 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-08-31,Mon,47,42,8.3,5.6,5,Increasing cloudiness.,38,18,10,North,62,0,0.0,0,Low,6:07 am,8:47 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-01,Tue,52,43,11.1,6.1,9,Overcast.,40,16,0,North,60,1,0.0,0,Low,6:10 am,8:43 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-02,Wed,48,37,8.9,2.8,11,Sprinkles early. Cloudy.,38,10,30,North-northeast,72,55,0.03,0,Low,6:13 am,8:39 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-03,Thu,49,38,9.4,3.3,11,Mostly sunny.,44,9,0,North,59,6,0.0,0,Low,6:15 am,8:36 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-04,Fri,49,39,9.4,3.9,10,Sprinkles early. Overcast.,46,6,10,North,70,52,0.02,0,Low,6:18 am,8:32 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-05,Sat,49,42,9.4,5.6,7,Sprinkles. Overcast.,43,14,120,East-southeast,65,62,0.13,0,Low,6:21 am,8:29 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-06,Sun,51,43,10.6,6.1,8,Light rain. Cloudy.,46,11,40,Northeast,84,59,0.2,0,Low,6:24 am,8:25 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-07,Mon,50,43,10.0,6.1,7,Cloudy.,44,19,20,North-northeast,65,6,0.0,0,Low,6:27 am,8:22 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-08,Tue,50,43,10.0,6.1,7,Mostly cloudy.,44,18,10,North,72,6,0.0,0,Low,6:30 am,8:18 pm,2026-08-26 01:42:04+00:00
+Reykjavik,Iceland,2026-09-09,Wed,51,43,10.6,6.1,8,Breaks of sun late.,46,11,0,North,58,6,0.0,0,Low,6:33 am,8:14 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-26,Wed,89,79,31.7,26.1,10,Showers early. Overcast.,103,8,130,Southeast,73,21,0.0,3,Moderate,5:56 am,6:49 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-27,Thu,99,80,37.2,26.7,19,Broken clouds.,111,8,20,North-northeast,47,0,0.0,5,Moderate,5:56 am,6:48 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-28,Fri,98,81,36.7,27.2,17,Overcast.,109,4,20,North-northeast,47,0,0.0,3,Moderate,5:57 am,6:47 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-29,Sat,99,84,37.2,28.9,15,Mostly cloudy.,110,9,300,West-northwest,46,5,0.0,5,Moderate,5:57 am,6:46 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-30,Sun,99,83,37.2,28.3,16,Cloudy.,109,9,280,West,46,0,0.0,3,Moderate,5:58 am,6:45 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-08-31,Mon,100,83,37.8,28.3,17,Decreasing cloudiness.,110,8,270,West,46,0,0.0,3,Moderate,5:58 am,6:44 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-01,Tue,98,80,36.7,26.7,18,Showers late. Afternoon clouds.,109,9,60,East-northeast,55,21,0.08,5,Moderate,5:59 am,6:42 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-02,Wed,94,80,34.4,26.7,14,Showers early. Scattered clouds.,104,9,90,East,55,18,0.02,5,Moderate,5:59 am,6:41 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-03,Thu,90,80,32.2,26.7,10,Showers late. Scattered clouds.,94,8,90,East,49,50,0.02,5,Moderate,6:00 am,6:40 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-04,Fri,92,81,33.3,27.2,11,Passing showers. Scattered clouds.,94,8,150,South-southeast,44,40,0.01,5,Moderate,6:00 am,6:39 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-05,Sat,92,81,33.3,27.2,11,Passing showers. Increasing cloudiness.,101,10,120,East-southeast,58,56,0.11,3,Moderate,6:01 am,6:38 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-06,Sun,92,81,33.3,27.2,11,Mostly cloudy.,107,5,80,East,64,43,0.01,3,Moderate,6:01 am,6:37 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-07,Mon,94,81,34.4,27.2,13,Sunny.,92,4,70,East-northeast,36,6,0.0,7,High,6:02 am,6:35 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-08,Tue,94,81,34.4,27.2,13,Isolated tstorms late. Mostly sunny.,91,8,130,Southeast,32,39,0.02,7,High,6:02 am,6:34 pm,2026-08-26 01:42:04+00:00
+New Delhi,India,2026-09-09,Wed,94,81,34.4,27.2,13,Showers early. Mostly cloudy.,115,11,110,East-southeast,73,62,0.14,3,Moderate,6:03 am,6:33 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-26,Wed,91,77,32.8,25.0,14,Showers late. Sunny.,96,11,10,North,60,46,0.02,10,Very high,5:55 am,5:53 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-27,Thu,92,75,33.3,23.9,17,Showers late. Afternoon clouds.,97,10,340,North-northwest,60,47,0.03,7,High,5:55 am,5:53 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-28,Fri,90,75,32.2,23.9,15,Increasing cloudiness.,96,9,330,North-northwest,62,40,0.01,7,High,5:55 am,5:53 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-29,Sat,90,74,32.2,23.3,16,Broken clouds.,94,9,0,North,59,4,0.0,7,High,5:54 am,5:53 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-30,Sun,91,75,32.8,23.9,16,Mostly cloudy.,97,9,350,North,62,3,0.0,7,High,5:54 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-08-31,Mon,91,76,32.8,24.4,15,Mostly cloudy.,99,10,10,North,63,2,0.0,7,High,5:53 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-01,Tue,89,76,31.7,24.4,13,Partly cloudy.,95,11,10,North,62,2,0.0,7,High,5:53 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-02,Wed,92,76,33.3,24.4,16,Scattered clouds.,99,11,10,North,57,6,0.0,10,Very high,5:52 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-03,Thu,92,84,33.3,28.9,8,Showers early. Mostly sunny.,98,10,10,North,58,44,0.01,10,Very high,5:52 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-04,Fri,93,84,33.9,28.9,9,Showers late. Mostly cloudy.,100,10,350,North,59,49,0.04,5,Moderate,5:51 am,5:52 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-05,Sat,93,84,33.9,28.9,9,Showers late. Broken clouds.,99,10,340,North-northwest,58,40,0.02,5,Moderate,5:51 am,5:51 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-06,Sun,92,84,33.3,28.9,8,Broken clouds.,98,10,350,North,56,5,0.0,7,High,5:50 am,5:51 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-07,Mon,93,84,33.9,28.9,9,Showers late. Cloudy.,100,9,0,North,58,48,0.05,7,High,5:50 am,5:51 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-08,Tue,93,84,33.9,28.9,9,Passing showers. Overcast.,101,8,350,North,60,58,0.2,5,Moderate,5:49 am,5:51 pm,2026-08-26 01:42:04+00:00
+Jakarta,Indonesia,2026-09-09,Wed,93,84,33.9,28.9,9,Showers early. Partly cloudy.,100,9,340,North-northwest,59,47,0.06,5,Moderate,5:49 am,5:51 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-26,Wed,119,91,48.3,32.8,28,Sunny.,114,12,300,West-northwest,11,0,0.0,7,High,5:32 am,6:35 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-27,Thu,117,92,47.2,33.3,25,Sunny.,111,12,320,Northwest,10,0,0.0,7,High,5:33 am,6:34 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-28,Fri,116,89,46.7,31.7,27,Sunny.,111,8,340,North-northwest,11,0,0.0,7,High,5:33 am,6:32 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-29,Sat,119,87,48.3,30.6,32,Afternoon clouds.,112,10,240,West-southwest,9,0,0.0,3,Moderate,5:34 am,6:31 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-30,Sun,116,87,46.7,30.6,29,Mostly cloudy.,109,13,240,West-southwest,9,0,0.0,3,Moderate,5:35 am,6:30 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-08-31,Mon,112,85,44.4,29.4,27,Sunny.,107,12,290,West-northwest,11,0,0.0,7,High,5:35 am,6:29 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-01,Tue,109,90,42.8,32.2,19,Sunny.,103,15,290,West-northwest,11,0,0.0,7,High,5:36 am,6:27 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-02,Wed,108,89,42.2,31.7,19,Sunny.,102,16,310,Northwest,9,1,0.0,7,High,5:37 am,6:26 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-03,Thu,107,78,41.7,25.6,29,Sunny.,101,19,290,West-northwest,9,1,0.0,7,High,5:37 am,6:25 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-04,Fri,108,78,42.2,25.6,30,Sunny.,101,15,300,West-northwest,7,1,0.0,7,High,5:38 am,6:23 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-05,Sat,108,78,42.2,25.6,30,Sunny.,102,9,290,West-northwest,9,3,0.0,7,High,5:39 am,6:22 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-06,Sun,108,77,42.2,25.0,31,Sunny.,102,15,300,West-northwest,10,3,0.0,7,High,5:39 am,6:21 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-07,Mon,112,80,44.4,26.7,32,Sunny.,106,13,300,West-northwest,10,3,0.0,7,High,5:40 am,6:19 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-08,Tue,117,83,47.2,28.3,34,Sunny.,109,14,310,Northwest,7,3,0.0,7,High,5:41 am,6:18 pm,2026-08-26 01:42:04+00:00
+Baghdad,Iraq,2026-09-09,Wed,116,83,46.7,28.3,33,Sunny.,107,16,330,North-northwest,4,3,0.0,5,Moderate,5:41 am,6:17 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-26,Wed,91,69,32.8,20.6,22,Sunny.,89,12,310,Northwest,32,0,0.0,7,High,6:10 am,7:10 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-27,Thu,91,70,32.8,21.1,21,Sunny.,89,11,320,Northwest,32,0,0.0,7,High,6:11 am,7:09 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-28,Fri,90,69,32.2,20.6,21,Sunny.,87,12,300,West-northwest,33,0,0.0,7,High,6:12 am,7:08 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-29,Sat,90,71,32.2,21.7,19,Sunny.,86,12,270,West,29,0,0.0,7,High,6:12 am,7:06 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-30,Sun,81,70,27.2,21.1,11,Morning clouds.,81,21,270,West,51,1,0.0,5,Moderate,6:13 am,7:05 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-08-31,Mon,82,70,27.8,21.1,12,Sunny.,82,10,290,West-northwest,45,0,0.0,7,High,6:13 am,7:04 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-01,Tue,85,67,29.4,19.4,18,Sunny.,82,11,300,West-northwest,35,0,0.0,7,High,6:14 am,7:03 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-02,Wed,91,68,32.8,20.0,23,Sunny.,88,13,330,North-northwest,25,2,0.0,7,High,6:15 am,7:02 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-03,Thu,92,68,33.3,20.0,24,Sunny.,89,13,320,Northwest,23,1,0.0,7,High,6:15 am,7:00 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-04,Fri,91,69,32.8,20.6,22,Sunny.,88,16,290,West-northwest,26,2,0.0,7,High,6:16 am,6:59 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-05,Sat,90,69,32.2,20.6,21,Sunny.,89,13,290,West-northwest,33,4,0.0,7,High,6:16 am,6:58 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-06,Sun,92,70,33.3,21.1,22,Sunny.,89,14,310,Northwest,25,3,0.0,7,High,6:17 am,6:56 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-07,Mon,94,71,34.4,21.7,23,Sunny.,90,8,330,North-northwest,18,3,0.0,7,High,6:18 am,6:55 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-08,Tue,97,71,36.1,21.7,26,Sunny.,94,11,320,Northwest,23,3,0.0,7,High,6:18 am,6:54 pm,2026-08-26 01:42:04+00:00
+Jerusalem,Israel,2026-09-09,Wed,96,71,35.6,21.7,25,Sunny.,94,12,310,Northwest,27,3,0.0,7,High,6:19 am,6:53 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-26,Wed,95,69,35.0,20.6,26,Mostly sunny.,96,6,200,South-southwest,38,3,0.0,3,Moderate,6:29 am,7:53 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-27,Thu,97,69,36.1,20.6,28,Partly cloudy.,99,7,200,South-southwest,37,0,0.0,3,Moderate,6:30 am,7:52 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-28,Fri,104,69,40.0,20.6,35,Mostly sunny.,105,13,190,South,29,4,0.0,5,Moderate,6:31 am,7:50 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-29,Sat,97,73,36.1,22.8,24,Thundershowers. Cloudy.,99,11,230,Southwest,34,22,0.02,3,Moderate,6:32 am,7:48 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-30,Sun,95,68,35.0,20.0,27,Morning clouds.,96,9,220,Southwest,35,0,0.0,3,Moderate,6:33 am,7:47 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-08-31,Mon,94,69,34.4,20.6,25,Sunny.,98,10,220,Southwest,43,0,0.0,5,Moderate,6:34 am,7:45 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-01,Tue,94,68,34.4,20.0,26,Sunny.,91,10,230,Southwest,30,0,0.0,5,Moderate,6:35 am,7:43 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-02,Wed,92,68,33.3,20.0,24,Sunny.,87,8,220,Southwest,28,2,0.0,5,Moderate,6:36 am,7:42 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-03,Thu,90,70,32.2,21.1,20,Sunny.,85,7,220,Southwest,27,2,0.0,5,Moderate,6:37 am,7:40 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-04,Fri,92,71,33.3,21.7,21,Sunny.,89,9,220,Southwest,28,3,0.0,5,Moderate,6:38 am,7:38 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-05,Sat,90,71,32.2,21.7,19,Sunny.,88,10,230,Southwest,31,3,0.0,5,Moderate,6:39 am,7:37 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-06,Sun,86,70,30.0,21.1,16,Partly cloudy.,85,10,230,Southwest,38,6,0.0,3,Moderate,6:40 am,7:35 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-07,Mon,86,70,30.0,21.1,16,Mostly sunny.,85,8,210,South-southwest,38,4,0.0,3,Moderate,6:41 am,7:33 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-08,Tue,89,69,31.7,20.6,20,Sunny.,84,9,220,Southwest,33,5,0.0,5,Moderate,6:42 am,7:31 pm,2026-08-26 01:42:04+00:00
+Rome,Italy,2026-09-09,Wed,91,69,32.8,20.6,22,Sunny.,84,9,230,Southwest,32,4,0.0,5,Moderate,6:43 am,7:30 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-26,Wed,95,71,35.0,21.7,24,Sunny.,90,13,300,West-northwest,18,0,0.0,7,High,6:07 am,7:07 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-27,Thu,95,71,35.0,21.7,24,Sunny.,90,12,290,West-northwest,19,0,0.0,7,High,6:08 am,7:06 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-28,Fri,93,71,33.9,21.7,22,Sunny.,89,11,280,West,20,0,0.0,7,High,6:09 am,7:05 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-29,Sat,90,72,32.2,22.2,18,Sunny.,87,12,250,West-southwest,26,0,0.0,7,High,6:09 am,7:04 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-30,Sun,83,69,28.3,20.6,14,Sunny.,82,19,260,West,43,3,0.0,7,High,6:10 am,7:03 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-08-31,Mon,86,66,30.0,18.9,20,Sunny.,83,10,280,West,38,0,0.0,7,High,6:10 am,7:01 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-01,Tue,88,68,31.1,20.0,20,Sunny.,84,11,280,West,26,0,0.0,7,High,6:11 am,7:00 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-02,Wed,90,68,32.2,20.0,22,Sunny.,86,10,280,West,18,1,0.0,7,High,6:12 am,6:59 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-03,Thu,92,70,33.3,21.1,22,Sunny.,88,11,290,West-northwest,19,1,0.0,7,High,6:12 am,6:58 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-04,Fri,91,71,32.8,21.7,20,Sunny.,87,13,290,West-northwest,19,2,0.0,7,High,6:13 am,6:56 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-05,Sat,90,70,32.2,21.1,20,Sunny.,87,11,290,West-northwest,26,3,0.0,7,High,6:14 am,6:55 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-06,Sun,91,71,32.8,21.7,20,Sunny.,87,11,290,West-northwest,21,3,0.0,7,High,6:14 am,6:54 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-07,Mon,94,73,34.4,22.8,21,Sunny.,89,7,280,West,13,3,0.0,7,High,6:15 am,6:52 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-08,Tue,97,75,36.1,23.9,22,Sunny.,93,10,300,West-northwest,17,3,0.0,7,High,6:15 am,6:51 pm,2026-08-26 01:42:04+00:00
+Amman,Jordan,2026-09-09,Wed,97,75,36.1,23.9,22,Sunny.,94,11,290,West-northwest,22,3,0.0,7,High,6:16 am,6:50 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-08-27,Thu,85,56,29.4,13.3,29,Increasing cloudiness.,81,6,10,North,27,0,0.0,5,Moderate,5:09 am,6:38 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-08-28,Fri,89,63,31.7,17.2,26,Morning clouds.,84,4,350,North,23,0,0.0,3,Moderate,5:10 am,6:36 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-08-29,Sat,91,65,32.8,18.3,26,Sunny.,86,5,330,North-northwest,20,0,0.0,5,Moderate,5:11 am,6:34 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-08-30,Sun,89,65,31.7,18.3,24,Sunny.,84,6,340,North-northwest,25,0,0.0,5,Moderate,5:12 am,6:33 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-08-31,Mon,79,56,26.1,13.3,23,Mostly cloudy.,78,6,290,West-northwest,39,1,0.0,3,Moderate,5:13 am,6:31 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-01,Tue,79,50,26.1,10.0,29,Scattered clouds.,78,5,350,North,29,3,0.0,3,Moderate,5:15 am,6:29 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-02,Wed,81,53,27.2,11.7,28,Breaks of sun late.,79,6,340,North-northwest,16,4,0.0,3,Moderate,5:16 am,6:27 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-03,Thu,82,59,27.8,15.0,23,Mostly sunny.,79,8,10,North,14,4,0.0,5,Moderate,5:17 am,6:26 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-04,Fri,83,59,28.3,15.0,24,Breaks of sun late.,80,3,350,North,20,4,0.0,3,Moderate,5:18 am,6:24 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-05,Sat,83,59,28.3,15.0,24,Showers early. Scattered clouds.,80,3,320,Northwest,16,40,0.0,3,Moderate,5:19 am,6:22 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-06,Sun,84,60,28.9,15.6,24,Sunny.,81,4,340,North-northwest,17,4,0.0,5,Moderate,5:20 am,6:20 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-07,Mon,87,60,30.6,15.6,27,Sunny.,81,6,0,North,15,6,0.0,5,Moderate,5:21 am,6:19 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-08,Tue,88,60,31.1,15.6,28,Sunny.,81,8,10,North,11,6,0.0,5,Moderate,5:22 am,6:17 pm,2026-08-26 01:42:04+00:00
+Almaty,Kazakstan,2026-09-09,Wed,86,61,30.0,16.1,25,Mostly sunny.,82,10,310,Northwest,21,6,0.0,5,Moderate,5:23 am,6:15 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-26,Wed,83,45,28.3,7.2,38,Sunny.,79,7,280,West,22,0,0.0,7,High,6:02 am,5:41 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-27,Thu,79,48,26.1,8.9,31,Afternoon clouds.,78,18,80,East,32,20,0.01,5,Moderate,6:01 am,5:41 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-28,Fri,64,52,17.8,11.1,12,Sprinkles early. Overcast.,62,24,140,Southeast,68,39,0.05,3,Moderate,6:01 am,5:41 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-29,Sat,63,51,17.2,10.6,12,Sprinkles. Mostly cloudy.,61,28,110,East-southeast,68,38,0.06,5,Moderate,6:00 am,5:41 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-30,Sun,66,52,18.9,11.1,14,Sprinkles early. Mostly cloudy.,64,21,90,East,60,17,0.03,5,Moderate,5:59 am,5:41 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-08-31,Mon,66,50,18.9,10.0,16,Cloudy.,64,15,100,East,69,3,0.0,3,Moderate,5:58 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-01,Tue,69,46,20.6,7.8,23,Mostly cloudy.,69,15,90,East,60,2,0.0,3,Moderate,5:57 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-02,Wed,70,51,21.1,10.6,19,Scattered clouds.,70,18,90,East,41,6,0.0,7,High,5:57 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-03,Thu,77,52,25.0,11.1,25,Increasing cloudiness.,77,13,80,East,29,6,0.0,7,High,5:56 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-04,Fri,81,54,27.2,12.2,27,Mostly sunny.,78,5,290,West-northwest,25,6,0.0,7,High,5:55 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-05,Sat,81,54,27.2,12.2,27,Mostly sunny.,78,21,260,West,21,6,0.0,7,High,5:54 am,5:42 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-06,Sun,81,54,27.2,12.2,27,Showers late. Mostly cloudy.,79,19,60,East-northeast,50,41,0.0,3,Moderate,5:53 am,5:43 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-07,Mon,82,55,27.8,12.8,27,Showers late. Mostly cloudy.,81,16,90,East,57,46,0.01,5,Moderate,5:52 am,5:43 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-08,Tue,84,55,28.9,12.8,29,Passing showers. Cloudy.,83,14,80,East,52,57,0.02,5,Moderate,5:52 am,5:43 pm,2026-08-26 01:42:04+00:00
+Antananarivo,Madagascar,2026-09-09,Wed,85,55,29.4,12.8,30,Showers early. Afternoon clouds.,82,14,60,East-northeast,43,40,0.0,5,Moderate,5:51 am,5:43 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-26,Wed,77,57,25.0,13.9,20,Overcast.,78,9,90,East,56,0,0.0,0,Low,6:41 am,8:41 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-27,Thu,82,63,27.8,17.2,19,Isolated tstorms late. Overcast.,82,7,200,South-southwest,59,53,0.05,0,Low,6:43 am,8:39 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-28,Fri,71,63,21.7,17.2,8,Isolated tstorms. Mostly cloudy.,70,8,260,West,70,63,0.16,3,Moderate,6:44 am,8:37 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-29,Sat,69,62,20.6,16.7,7,Showers late. Cloudy.,67,15,220,Southwest,79,55,0.14,3,Moderate,6:46 am,8:35 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-30,Sun,71,64,21.7,17.8,7,Isolated tstorms. Overcast.,74,13,230,Southwest,71,51,0.2,0,Low,6:48 am,8:32 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-08-31,Mon,68,60,20.0,15.6,8,Rain showers. Cloudy.,67,14,270,West,76,65,0.49,3,Moderate,6:49 am,8:30 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-01,Tue,71,54,21.7,12.2,17,Isolated tstorms late. Cloudy.,69,16,230,Southwest,60,23,0.05,0,Low,6:51 am,8:28 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-02,Wed,67,58,19.4,14.4,9,Showers early. Morning clouds.,67,12,280,West,50,49,0.03,3,Moderate,6:53 am,8:26 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-03,Thu,69,57,20.6,13.9,12,Mostly sunny.,69,14,230,Southwest,50,6,0.0,3,Moderate,6:54 am,8:23 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-04,Fri,72,59,22.2,15.0,13,Mostly sunny.,77,8,230,Southwest,43,6,0.0,3,Moderate,6:56 am,8:21 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-05,Sat,70,59,21.1,15.0,11,Thunderstorms. Overcast.,69,11,260,West,92,59,0.24,0,Low,6:58 am,8:19 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-06,Sun,72,54,22.2,12.2,18,Passing showers. Mostly cloudy.,77,6,310,Northwest,48,42,0.01,0,Low,6:59 am,8:16 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-07,Mon,68,53,20.0,11.7,15,Overcast.,67,11,170,South,35,6,0.0,0,Low,7:01 am,8:14 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-08,Tue,69,55,20.6,12.8,14,Afternoon clouds.,68,18,250,West-southwest,54,6,0.0,3,Moderate,7:03 am,8:12 pm,2026-08-26 01:42:04+00:00
+Amsterdam,Netherlands,2026-09-09,Wed,72,56,22.2,13.3,16,Showers late. Mostly cloudy.,77,16,240,West-southwest,55,42,0.02,3,Moderate,7:04 am,8:09 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-26,Wed,64,47,17.8,8.3,17,Afternoon clouds.,62,10,250,West-southwest,61,5,0.0,3,Moderate,6:50 am,5:55 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-27,Thu,64,50,17.8,10.0,14,Sprinkles. Cloudy.,62,7,30,North-northeast,68,22,0.03,3,Moderate,6:49 am,5:56 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-28,Fri,62,52,16.7,11.1,10,Sprinkles late. Overcast.,61,11,10,North,64,23,0.03,0,Low,6:48 am,5:57 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-29,Sat,59,49,15.0,9.4,10,Thunderstorms. Overcast.,55,10,20,North-northeast,85,66,0.59,0,Low,6:46 am,5:57 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-30,Sun,60,49,15.6,9.4,11,Isolated tstorms. Mostly cloudy.,56,16,260,West,74,22,0.06,3,Moderate,6:45 am,5:58 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-08-31,Mon,62,54,16.7,12.2,8,Sprinkles early. Morning clouds.,57,16,240,West-southwest,69,45,0.05,3,Moderate,6:43 am,5:59 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-01,Tue,60,50,15.6,10.0,10,Sprinkles early. Partly cloudy.,56,10,220,Southwest,61,23,0.02,3,Moderate,6:42 am,6:00 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-02,Wed,63,50,17.2,10.0,13,Overcast.,61,12,270,West,65,5,0.0,3,Moderate,6:41 am,6:01 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-03,Thu,62,52,16.7,11.1,10,Sprinkles early. Scattered clouds.,62,11,260,West,67,45,0.02,3,Moderate,6:39 am,6:01 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-04,Fri,64,54,17.8,12.2,10,Sprinkles early. Morning clouds.,63,12,280,West,64,52,0.02,3,Moderate,6:38 am,6:02 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-05,Sat,64,53,17.8,11.7,11,Tstorms early. Partly cloudy.,64,9,200,South-southwest,70,55,0.15,3,Moderate,6:36 am,6:03 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-06,Sun,65,49,18.3,9.4,16,Broken clouds.,65,9,230,Southwest,54,5,0.0,3,Moderate,6:35 am,6:04 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-07,Mon,61,47,16.1,8.3,14,Sunny.,60,8,230,Southwest,57,4,0.0,3,Moderate,6:33 am,6:05 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-08,Tue,62,47,16.7,8.3,15,Mostly cloudy.,62,4,30,North-northeast,57,5,0.0,3,Moderate,6:32 am,6:05 pm,2026-08-26 01:42:04+00:00
+Auckland,New Zealand,2026-09-09,Wed,62,47,16.7,8.3,15,Mostly sunny.,62,10,30,North-northeast,71,4,0.0,3,Moderate,6:30 am,6:06 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-26,Wed,74,53,23.3,11.7,21,Cloudy.,77,3,190,South,47,0,0.0,0,Low,5:57 am,8:38 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-27,Thu,73,56,22.8,13.3,17,Overcast.,77,2,150,South-southeast,53,0,0.0,0,Low,6:00 am,8:35 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-28,Fri,67,53,19.4,11.7,14,Showers late. Overcast.,65,10,100,East,65,68,0.24,0,Low,6:02 am,8:32 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-29,Sat,62,58,16.7,14.4,4,Showery. Overcast.,61,5,170,South,90,95,1.24,0,Low,6:04 am,8:29 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-30,Sun,69,56,20.6,13.3,13,Showers late. Overcast.,68,4,200,South-southwest,63,42,0.09,0,Low,6:07 am,8:26 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-08-31,Mon,68,52,20.0,11.1,16,Mostly cloudy.,66,4,180,South,57,19,0.04,0,Low,6:09 am,8:23 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-01,Tue,69,49,20.6,9.4,20,Afternoon clouds.,66,8,190,South,48,2,0.0,3,Moderate,6:12 am,8:20 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-02,Wed,67,51,19.4,10.6,16,Passing showers. Broken clouds.,67,7,310,Northwest,47,51,0.04,0,Low,6:14 am,8:17 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-03,Thu,65,48,18.3,8.9,17,Showers late. Afternoon clouds.,64,6,190,South,49,60,0.14,0,Low,6:16 am,8:14 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-04,Fri,65,45,18.3,7.2,20,Overcast.,65,7,240,West-southwest,50,43,0.04,0,Low,6:19 am,8:11 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-05,Sat,66,45,18.9,7.2,21,Overcast.,65,4,160,South-southeast,82,6,0.0,0,Low,6:21 am,8:08 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-06,Sun,65,49,18.3,9.4,16,Showers late. Mostly cloudy.,64,3,310,Northwest,51,41,0.04,0,Low,6:23 am,8:05 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-07,Mon,62,44,16.7,6.7,18,Sprinkles late. Increasing cloudiness.,62,8,180,South,52,49,0.04,0,Low,6:26 am,8:02 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-08,Tue,60,44,15.6,6.7,16,Rain. Cloudy.,60,15,180,South,85,75,0.45,0,Low,6:28 am,7:59 pm,2026-08-26 01:42:04+00:00
+Oslo,Norway,2026-09-09,Wed,63,47,17.2,8.3,16,Cloudy.,60,10,220,Southwest,51,6,0.0,0,Low,6:30 am,7:56 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-26,Wed,94,74,34.4,23.3,20,Sunny.,101,3,140,Southeast,51,1,0.0,7,High,5:37 am,6:41 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-27,Thu,96,75,35.6,23.9,21,Sunny.,103,5,140,Southeast,47,0,0.0,7,High,5:37 am,6:40 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-28,Fri,95,76,35.0,24.4,19,Mostly sunny.,106,9,140,Southeast,52,0,0.0,5,Moderate,5:38 am,6:38 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-29,Sat,96,78,35.6,25.6,18,Partly cloudy.,106,7,130,Southeast,50,1,0.0,5,Moderate,5:39 am,6:37 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-30,Sun,96,78,35.6,25.6,18,Scattered clouds.,106,6,140,Southeast,51,3,0.0,5,Moderate,5:40 am,6:36 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-08-31,Mon,98,77,36.7,25.0,21,Sunny.,106,8,140,Southeast,48,15,0.01,7,High,5:40 am,6:35 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-01,Tue,98,81,36.7,27.2,17,Sunny.,106,10,130,Southeast,44,0,0.0,7,High,5:41 am,6:33 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-02,Wed,93,81,33.9,27.2,12,Morning clouds.,99,11,140,Southeast,48,18,0.0,5,Moderate,5:42 am,6:32 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-03,Thu,89,77,31.7,25.0,12,Tstorms early. Mostly sunny.,94,7,130,Southeast,56,48,0.02,3,Moderate,5:42 am,6:31 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-04,Fri,89,75,31.7,23.9,14,Scattered tstorms late. Sunny.,92,5,110,East-southeast,51,90,0.2,7,High,5:43 am,6:29 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-05,Sat,89,75,31.7,23.9,14,Tstorms early. Decreasing cloudiness.,92,6,130,Southeast,50,88,0.23,7,High,5:44 am,6:28 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-06,Sun,90,76,32.2,24.4,14,Mostly sunny.,91,3,170,South,46,11,0.0,7,High,5:44 am,6:27 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-07,Mon,93,76,33.9,24.4,17,Sunny.,91,2,200,South-southwest,42,5,0.0,7,High,5:45 am,6:25 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-08,Tue,94,76,34.4,24.4,18,Isolated tstorms late. Afternoon clouds.,92,5,110,East-southeast,45,14,0.0,3,Moderate,5:46 am,6:24 pm,2026-08-26 01:42:04+00:00
+Islamabad,Pakistan,2026-09-09,Wed,93,76,33.9,24.4,17,Tstorms early. Partly cloudy.,94,7,140,Southeast,48,92,0.12,7,High,5:46 am,6:22 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-26,Wed,91,63,32.8,17.2,28,Sunny.,93,10,10,North,47,0,0.0,5,Moderate,7:08 am,6:36 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-27,Thu,97,73,36.1,22.8,24,Mostly sunny.,99,12,0,North,37,0,0.0,5,Moderate,7:07 am,6:36 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-28,Fri,101,77,38.3,25.0,24,Sunny.,101,12,290,West-northwest,31,0,0.0,5,Moderate,7:06 am,6:37 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-29,Sat,90,71,32.2,21.7,19,Mostly cloudy.,91,7,200,South-southwest,50,0,0.0,3,Moderate,7:05 am,6:37 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-30,Sun,90,68,32.2,20.0,22,Showers late. Mostly cloudy.,89,9,210,South-southwest,53,18,0.06,3,Moderate,7:04 am,6:38 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-08-31,Mon,72,62,22.2,16.7,10,Passing showers. Overcast.,65,7,220,Southwest,82,59,0.28,3,Moderate,7:03 am,6:38 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-01,Tue,74,54,23.3,12.2,20,Showers early. Morning clouds.,77,10,180,South,45,14,0.01,3,Moderate,7:02 am,6:38 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-02,Wed,75,53,23.9,11.7,22,Sunny.,77,6,80,East,36,2,0.0,7,High,7:01 am,6:39 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-03,Thu,79,53,26.1,11.7,26,Sunny.,78,4,150,South-southeast,30,2,0.0,7,High,7:00 am,6:39 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-04,Fri,79,57,26.1,13.9,22,Sunny.,79,8,120,East-southeast,30,4,0.0,7,High,6:59 am,6:40 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-05,Sat,79,58,26.1,14.4,21,Broken clouds.,79,8,110,East-southeast,35,6,0.0,7,High,6:58 am,6:40 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-06,Sun,78,59,25.6,15.0,19,Sprinkles late. Broken clouds.,79,7,90,East,53,45,0.02,3,Moderate,6:57 am,6:40 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-07,Mon,78,61,25.6,16.1,17,Cloudy.,79,4,80,East,69,48,0.02,3,Moderate,6:56 am,6:41 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-08,Tue,77,61,25.0,16.1,16,Cloudy.,79,8,190,South,63,6,0.0,3,Moderate,6:55 am,6:41 pm,2026-08-26 01:42:04+00:00
+Asuncion,Paraguay,2026-09-09,Wed,79,61,26.1,16.1,18,Afternoon clouds.,80,8,170,South,53,5,0.0,3,Moderate,6:54 am,6:41 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-26,Wed,51,40,10.6,4.4,11,Sunny.,44,15,270,West,49,3,0.0,3,Moderate,4:30 am,7:51 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-27,Thu,54,36,12.2,2.2,18,Mostly cloudy.,49,13,140,Southeast,60,0,0.0,0,Low,4:33 am,7:47 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-28,Fri,54,44,12.2,6.7,10,Mostly sunny.,50,12,170,South,69,4,0.0,3,Moderate,4:36 am,7:44 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-29,Sat,59,47,15.0,8.3,12,Overcast.,54,15,300,West-northwest,65,1,0.0,0,Low,4:39 am,7:40 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-30,Sun,52,41,11.1,5.0,11,Afternoon clouds.,44,14,260,West,49,0,0.0,0,Low,4:42 am,7:37 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-08-31,Mon,52,38,11.1,3.3,14,Afternoon clouds.,46,18,300,West-northwest,51,0,0.0,0,Low,4:45 am,7:33 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-01,Tue,50,35,10.0,1.7,15,Sunny.,41,18,320,Northwest,49,0,0.0,0,Low,4:48 am,7:29 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-02,Wed,55,35,12.8,1.7,20,Broken clouds.,53,5,270,West,68,4,0.0,0,Low,4:51 am,7:26 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-03,Thu,48,41,8.9,5.0,7,Mostly cloudy.,44,8,270,West,66,5,0.0,0,Low,4:54 am,7:22 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-04,Fri,55,45,12.8,7.2,10,Partly cloudy.,52,9,0,North,71,6,0.0,0,Low,4:57 am,7:18 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-05,Sat,53,45,11.7,7.2,8,Morning clouds.,49,5,230,Southwest,69,4,0.0,0,Low,5:00 am,7:15 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-06,Sun,54,45,12.2,7.2,9,Increasing cloudiness.,48,10,150,South-southeast,53,40,0.0,0,Low,5:03 am,7:11 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-07,Mon,53,44,11.7,6.7,9,Rain. Overcast.,50,8,210,South-southwest,90,60,0.22,0,Low,5:06 am,7:07 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-08,Tue,45,40,7.2,4.4,5,Sprinkles. Broken clouds.,38,12,330,North-northwest,65,55,0.04,0,Low,5:09 am,7:04 pm,2026-08-26 01:42:04+00:00
+Anadyr,Russia,2026-09-09,Wed,46,38,7.8,3.3,8,Mostly sunny.,40,10,330,North-northwest,49,6,0.0,0,Low,5:12 am,7:00 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-26,Wed,112,85,44.4,29.4,27,Sunny.,105,7,260,West,10,0,0.0,10,Very high,5:31 am,6:17 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-27,Thu,112,80,44.4,26.7,32,Mostly sunny.,105,7,150,South-southeast,10,0,0.0,7,High,5:32 am,6:16 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-28,Fri,114,82,45.6,27.8,32,Morning clouds.,107,10,350,North,9,0,0.0,7,High,5:32 am,6:15 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-29,Sat,115,84,46.1,28.9,31,Sunny.,108,15,50,Northeast,10,0,0.0,7,High,5:33 am,6:14 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-30,Sun,115,84,46.1,28.9,31,Afternoon clouds.,108,13,40,Northeast,10,0,0.0,3,Moderate,5:33 am,6:13 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-08-31,Mon,112,82,44.4,27.8,30,Sunny.,104,6,50,Northeast,7,0,0.0,7,High,5:33 am,6:12 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-01,Tue,112,86,44.4,30.0,26,Sunny.,104,12,30,North-northeast,7,0,0.0,7,High,5:34 am,6:11 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-02,Wed,113,88,45.0,31.1,25,Sunny.,105,15,30,North-northeast,6,1,0.0,7,High,5:34 am,6:10 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-03,Thu,111,86,43.9,30.0,25,Sunny.,105,7,10,North,7,1,0.0,7,High,5:34 am,6:09 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-04,Fri,112,85,44.4,29.4,27,Sunny.,103,6,80,East,8,1,0.0,7,High,5:35 am,6:08 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-05,Sat,112,85,44.4,29.4,27,Sunny.,103,4,10,North,8,3,0.0,7,High,5:35 am,6:07 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-06,Sun,112,85,44.4,29.4,27,Sunny.,103,8,20,North-northeast,6,3,0.0,7,High,5:36 am,6:06 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-07,Mon,112,85,44.4,29.4,27,Sunny.,106,14,90,East,10,3,0.0,7,High,5:36 am,6:05 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-08,Tue,115,86,46.1,30.0,29,Sunny.,106,10,80,East,8,3,0.0,7,High,5:36 am,6:04 pm,2026-08-26 01:42:04+00:00
+Riyadh,Saudi Arabia,2026-09-09,Wed,115,86,46.1,30.0,29,Sunny.,106,8,0,North,8,3,0.0,7,High,5:37 am,6:03 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-26,Wed,74,49,23.3,9.4,25,Afternoon clouds.,74,6,330,North-northwest,15,0,0.0,3,Moderate,6:26 am,5:52 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-27,Thu,68,48,20.0,8.9,20,Broken clouds.,67,7,350,North,38,2,0.0,5,Moderate,6:25 am,5:53 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-28,Fri,70,46,21.1,7.8,24,Mostly sunny.,70,5,40,Northeast,27,0,0.0,5,Moderate,6:24 am,5:53 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-29,Sat,69,45,20.6,7.2,24,Mostly sunny.,68,6,350,North,27,0,0.0,7,High,6:23 am,5:54 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-30,Sun,71,47,21.7,8.3,24,Mostly cloudy.,70,7,310,Northwest,20,0,0.0,3,Moderate,6:22 am,5:54 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-08-31,Mon,75,53,23.9,11.7,22,Overcast.,76,8,310,Northwest,24,0,0.0,3,Moderate,6:21 am,5:55 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-01,Tue,74,55,23.3,12.8,19,Increasing cloudiness.,77,8,310,Northwest,34,3,0.0,3,Moderate,6:20 am,5:55 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-02,Wed,78,58,25.6,14.4,20,Breaks of sun late.,78,11,310,Northwest,23,4,0.0,5,Moderate,6:19 am,5:55 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-03,Thu,81,61,27.2,16.1,20,Sunny.,79,15,300,West-northwest,19,2,0.0,7,High,6:18 am,5:56 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-04,Fri,81,58,27.2,14.4,23,Sunny.,79,2,250,West-southwest,21,3,0.0,7,High,6:17 am,5:56 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-05,Sat,82,59,27.8,15.0,23,Sunny.,81,3,20,North-northeast,33,5,0.0,7,High,6:16 am,5:57 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-06,Sun,79,57,26.1,13.9,22,Sunny.,78,7,350,North,29,4,0.0,7,High,6:15 am,5:57 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-07,Mon,76,55,24.4,12.8,21,Sunny.,77,7,310,Northwest,21,3,0.0,7,High,6:14 am,5:57 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-08,Tue,76,54,24.4,12.2,22,Scattered clouds.,76,11,340,North-northwest,19,6,0.0,5,Moderate,6:13 am,5:58 pm,2026-08-26 01:42:04+00:00
+Johannesburg,South Africa,2026-09-09,Wed,76,54,24.4,12.2,22,Sunny.,78,14,350,North,35,6,0.0,7,High,6:12 am,5:58 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-26,Wed,90,81,32.2,27.2,9,Passing showers. Overcast.,96,13,240,West-southwest,60,64,0.1,3,Moderate,6:06 am,6:33 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-27,Thu,91,81,32.8,27.2,10,Showers late. Overcast.,98,14,240,West-southwest,58,61,0.07,3,Moderate,6:06 am,6:32 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-28,Fri,89,82,31.7,27.8,7,Passing showers. Overcast.,94,12,230,Southwest,61,42,0.09,3,Moderate,6:06 am,6:32 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-29,Sat,89,80,31.7,26.7,9,Showers late. Overcast.,97,11,270,West,64,48,0.21,3,Moderate,6:06 am,6:31 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-30,Sun,88,80,31.1,26.7,8,Passing showers. Overcast.,96,12,230,Southwest,65,54,0.16,3,Moderate,6:06 am,6:30 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-08-31,Mon,89,79,31.7,26.1,10,Passing showers. Overcast.,92,8,230,Southwest,69,49,0.14,3,Moderate,6:06 am,6:30 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-01,Tue,87,78,30.6,25.6,9,Passing showers. Overcast.,94,10,230,Southwest,65,41,0.08,3,Moderate,6:06 am,6:29 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-02,Wed,88,79,31.1,26.1,9,Showers late. Overcast.,89,7,230,Southwest,76,52,0.1,3,Moderate,6:06 am,6:28 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-03,Thu,86,79,30.0,26.1,7,Showers late. Cloudy.,88,9,290,West-northwest,57,50,0.05,5,Moderate,6:06 am,6:28 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-04,Fri,89,80,31.7,26.7,9,Overcast.,92,10,240,West-southwest,51,52,0.02,3,Moderate,6:06 am,6:27 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-05,Sat,89,80,31.7,26.7,9,Showers late. Mostly cloudy.,96,8,190,South,60,51,0.01,3,Moderate,6:06 am,6:26 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-06,Sun,89,80,31.7,26.7,9,Showers late. Overcast.,92,9,270,West,49,44,0.01,3,Moderate,6:06 am,6:26 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-07,Mon,89,80,31.7,26.7,9,Showers late. Overcast.,90,12,290,West-northwest,45,49,0.02,3,Moderate,6:06 am,6:25 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-08,Tue,89,80,31.7,26.7,9,Passing showers. Cloudy.,93,9,240,West-southwest,52,55,0.06,5,Moderate,6:06 am,6:24 pm,2026-08-26 01:42:04+00:00
+Bangkok,Thailand,2026-09-09,Wed,90,80,32.2,26.7,10,Showers late. Cloudy.,93,7,210,South-southwest,52,57,0.14,7,High,6:06 am,6:23 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-26,Wed,90,62,32.2,16.7,28,Sunny.,85,5,270,West,24,0,0.0,5,Moderate,6:10 am,7:29 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-27,Thu,91,66,32.8,18.9,25,Mostly sunny.,86,9,300,West-northwest,19,0,0.0,5,Moderate,6:11 am,7:28 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-28,Fri,83,60,28.3,15.6,23,Isolated tstorms late. Increasing cloudiness.,80,12,300,West-northwest,30,70,0.11,5,Moderate,6:12 am,7:26 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-29,Sat,74,59,23.3,15.0,15,Isolated tstorms. Overcast.,77,13,30,North-northeast,45,48,0.11,3,Moderate,6:13 am,7:24 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-30,Sun,78,57,25.6,13.9,21,Showers late. Broken clouds.,78,10,30,North-northeast,43,44,0.04,5,Moderate,6:14 am,7:23 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-08-31,Mon,82,55,27.8,12.8,27,Increasing cloudiness.,79,5,0,North,35,5,0.0,5,Moderate,6:15 am,7:21 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-01,Tue,83,57,28.3,13.9,26,Mostly sunny.,79,4,230,Southwest,34,0,0.0,5,Moderate,6:16 am,7:20 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-02,Wed,83,60,28.3,15.6,23,Sunny.,80,3,290,West-northwest,27,4,0.0,5,Moderate,6:17 am,7:18 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-03,Thu,84,62,28.9,16.7,22,Sunny.,82,4,270,West,22,3,0.0,5,Moderate,6:18 am,7:17 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-04,Fri,81,62,27.2,16.7,19,Showers early. Partly cloudy.,80,14,0,North,36,41,0.02,5,Moderate,6:19 am,7:15 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-05,Sat,83,61,28.3,16.1,22,Sunny.,81,11,350,North,26,6,0.0,5,Moderate,6:20 am,7:13 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-06,Sun,86,63,30.0,17.2,23,Sunny.,83,1,10,North,22,4,0.0,5,Moderate,6:20 am,7:12 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-07,Mon,89,64,31.7,17.8,25,Sunny.,85,1,20,North-northeast,16,3,0.0,5,Moderate,6:21 am,7:10 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-08,Tue,90,66,32.2,18.9,24,Sunny.,86,2,300,West-northwest,14,3,0.0,5,Moderate,6:22 am,7:09 pm,2026-08-26 01:42:04+00:00
+Ankara,Turkey,2026-09-09,Wed,91,66,32.8,18.9,25,Sunny.,87,4,20,North-northeast,17,3,0.0,5,Moderate,6:23 am,7:07 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-26,Wed,86,71,30.0,21.7,15,Sunny.,86,11,10,North,49,0,0.0,5,Moderate,6:24 am,7:46 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-27,Thu,86,71,30.0,21.7,15,Sunny.,85,11,30,North-northeast,46,0,0.0,5,Moderate,6:25 am,7:44 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-28,Fri,79,68,26.1,20.0,11,Isolated tstorms late. Mostly sunny.,80,14,10,North,57,19,0.01,3,Moderate,6:26 am,7:43 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-29,Sat,80,67,26.7,19.4,13,Mostly sunny.,81,13,10,North,54,8,0.0,3,Moderate,6:27 am,7:41 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-30,Sun,84,69,28.9,20.6,15,Mostly cloudy.,83,9,20,North-northeast,48,0,0.0,3,Moderate,6:28 am,7:40 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-08-31,Mon,82,67,27.8,19.4,15,Partly cloudy.,81,11,10,North,43,0,0.0,3,Moderate,6:29 am,7:38 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-01,Tue,83,65,28.3,18.3,18,Sunny.,82,10,20,North-northeast,41,0,0.0,5,Moderate,6:30 am,7:36 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-02,Wed,86,68,30.0,20.0,18,Sunny.,84,11,30,North-northeast,35,2,0.0,5,Moderate,6:31 am,7:35 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-03,Thu,85,71,29.4,21.7,14,Sunny.,86,12,20,North-northeast,48,5,0.0,5,Moderate,6:32 am,7:33 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-04,Fri,83,71,28.3,21.7,12,Mostly sunny.,82,15,10,North,49,5,0.0,3,Moderate,6:33 am,7:32 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-05,Sat,87,72,30.6,22.2,15,Sunny.,83,11,20,North-northeast,33,5,0.0,3,Moderate,6:34 am,7:30 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-06,Sun,89,74,31.7,23.3,15,Sunny.,85,12,40,Northeast,34,4,0.0,5,Moderate,6:35 am,7:28 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-07,Mon,89,74,31.7,23.3,15,Sunny.,86,14,40,Northeast,39,3,0.0,5,Moderate,6:36 am,7:27 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-08,Tue,90,75,32.2,23.9,15,Sunny.,89,18,40,Northeast,46,4,0.0,5,Moderate,6:37 am,7:25 pm,2026-08-26 01:42:04+00:00
+Istanbul,Turkey,2026-09-09,Wed,92,76,33.3,24.4,16,Sunny.,91,16,40,Northeast,44,3,0.0,5,Moderate,6:38 am,7:23 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-25,Tue,61,55,16.1,12.8,6,Rain showers. Overcast.,58,4,140,Southeast,74,83,0.25,0,Low,6:34 am,9:26 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-26,Wed,61,47,16.1,8.3,14,Sprinkles early. Morning clouds.,60,4,290,West-northwest,59,50,0.02,3,Moderate,6:37 am,9:23 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-27,Thu,60,46,15.6,7.8,14,Afternoon clouds.,59,3,10,North,63,18,0.0,0,Low,6:39 am,9:20 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-28,Fri,56,50,13.3,10.0,6,Rain. Overcast.,54,2,50,Northeast,79,76,0.53,0,Low,6:42 am,9:17 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-29,Sat,60,50,15.6,10.0,10,Light showers. Cloudy.,56,7,350,North,73,63,0.23,0,Low,6:44 am,9:14 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-30,Sun,59,46,15.0,7.8,13,Overcast.,57,2,190,South,63,2,0.0,0,Low,6:47 am,9:11 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-08-31,Mon,55,47,12.8,8.3,8,Showery. Overcast.,48,5,0,North,91,75,1.08,0,Low,6:49 am,9:08 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-01,Tue,54,39,12.2,3.9,15,Breaks of sun late.,50,9,330,North-northwest,62,5,0.0,0,Low,6:52 am,9:05 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-02,Wed,55,44,12.8,6.7,11,Partly cloudy.,52,8,350,North,51,3,0.0,3,Moderate,6:54 am,9:01 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-03,Thu,54,44,12.2,6.7,10,Sprinkles late. Overcast.,51,4,290,West-northwest,68,50,0.11,0,Low,6:57 am,8:58 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-04,Fri,55,46,12.8,7.8,9,Rain showers. Overcast.,50,5,30,North-northeast,90,71,0.57,0,Low,6:59 am,8:55 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-05,Sat,55,47,12.8,8.3,8,Rain. Overcast.,53,2,180,South,95,80,0.7,0,Low,7:02 am,8:52 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-06,Sun,55,48,12.8,8.9,7,Sprinkles. Overcast.,50,8,350,North,90,59,0.1,0,Low,7:04 am,8:49 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-07,Mon,55,47,12.8,8.3,8,Sunny.,54,3,310,Northwest,65,5,0.0,0,Low,7:07 am,8:46 pm,2026-08-26 01:42:04+00:00
+Anchorage,Usa,2026-09-08,Tue,55,46,12.8,7.8,9,Showers late. Overcast.,54,3,260,West,74,70,0.3,0,Low,7:09 am,8:42 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-26,Wed,90,69,32.2,20.6,21,Isolated tstorms late. Increasing cloudiness.,92,4,180,South,48,64,0.18,3,Moderate,7:07 am,8:10 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-27,Thu,85,71,29.4,21.7,14,Thunderstorms. Overcast.,89,3,190,South,63,82,0.51,3,Moderate,7:08 am,8:09 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-28,Fri,81,71,27.2,21.7,10,Thunderstorms. Overcast.,84,6,200,South-southwest,74,92,0.79,3,Moderate,7:08 am,8:08 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-29,Sat,83,70,28.3,21.1,13,Isolated tstorms. Overcast.,86,5,150,South-southeast,67,42,0.11,3,Moderate,7:09 am,8:06 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-30,Sun,86,70,30.0,21.1,16,Isolated tstorms. Overcast.,89,5,160,South-southeast,62,48,0.11,3,Moderate,7:10 am,8:05 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-08-31,Mon,88,71,31.1,21.7,17,Isolated tstorms late. Mostly cloudy.,93,3,160,South-southeast,57,23,0.04,3,Moderate,7:10 am,8:04 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-01,Tue,90,73,32.2,22.8,17,Cloudy.,95,3,330,North-northwest,53,3,0.0,3,Moderate,7:11 am,8:02 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-02,Wed,92,73,33.3,22.8,19,Afternoon clouds.,90,2,90,East,30,5,0.0,5,Moderate,7:12 am,8:01 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-03,Thu,92,77,33.3,25.0,15,Afternoon clouds.,92,6,140,Southeast,37,5,0.0,3,Moderate,7:12 am,8:00 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-04,Fri,92,75,33.3,23.9,17,Strong thunderstorms. Overcast.,108,7,100,East,68,81,0.81,3,Moderate,7:13 am,7:58 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-05,Sat,96,78,35.6,25.6,18,Thundershowers. Mostly cloudy.,109,5,220,Southwest,55,57,0.19,3,Moderate,7:14 am,7:57 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-06,Sun,95,79,35.0,26.1,16,Afternoon clouds.,100,3,250,West-southwest,42,6,0.0,3,Moderate,7:14 am,7:56 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-07,Mon,95,79,35.0,26.1,16,Partly cloudy.,96,4,270,West,37,6,0.0,3,Moderate,7:15 am,7:54 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-08,Tue,95,78,35.0,25.6,17,Thundershowers. Afternoon clouds.,97,4,290,West-northwest,38,40,0.03,3,Moderate,7:16 am,7:53 pm,2026-08-26 01:42:04+00:00
+Atlanta,Usa,2026-09-09,Wed,96,80,35.6,26.7,16,Isolated tstorms late. Increasing cloudiness.,98,7,320,Northwest,35,52,0.07,5,Moderate,7:16 am,7:52 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-25,Tue,86,74,30.0,23.3,12,Showers early. Breaks of sun late.,88,20,60,East-northeast,55,22,0.02,5,Moderate,6:13 am,6:53 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-26,Wed,85,75,29.4,23.9,10,Passing showers. Scattered clouds.,85,18,60,East-northeast,52,41,0.04,10,Very high,6:13 am,6:52 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-27,Thu,85,75,29.4,23.9,10,Passing showers. Broken clouds.,85,16,60,East-northeast,55,49,0.09,5,Moderate,6:13 am,6:51 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-28,Fri,85,75,29.4,23.9,10,Passing showers. Broken clouds.,86,19,60,East-northeast,54,23,0.1,5,Moderate,6:13 am,6:50 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-29,Sat,85,75,29.4,23.9,10,Passing showers. Morning clouds.,86,21,60,East-northeast,55,23,0.06,5,Moderate,6:14 am,6:49 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-30,Sun,85,75,29.4,23.9,10,Showers early. Mostly sunny.,87,19,60,East-northeast,54,23,0.03,7,High,6:14 am,6:49 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-08-31,Mon,86,73,30.0,22.8,13,Passing showers. Scattered clouds.,87,18,60,East-northeast,56,16,0.05,7,High,6:14 am,6:48 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-01,Tue,85,71,29.4,21.7,14,Passing showers. Broken clouds.,85,15,50,Northeast,56,41,0.05,5,Moderate,6:15 am,6:47 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-02,Wed,82,69,27.8,20.6,13,Showers late. Mostly sunny.,84,13,70,East-northeast,69,42,0.02,7,High,6:15 am,6:46 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-03,Thu,83,70,28.3,21.1,13,Showers early. Mostly sunny.,83,16,60,East-northeast,64,45,0.05,10,Very high,6:15 am,6:45 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-04,Fri,83,68,28.3,20.0,15,Sunny.,83,14,50,Northeast,63,4,0.0,7,High,6:15 am,6:44 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-05,Sat,83,68,28.3,20.0,15,Mostly sunny.,84,16,60,East-northeast,68,5,0.0,7,High,6:16 am,6:43 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-06,Sun,83,70,28.3,21.1,13,Mostly sunny.,84,19,60,East-northeast,68,6,0.0,7,High,6:16 am,6:42 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-07,Mon,83,70,28.3,21.1,13,Sprinkles early. Scattered clouds.,87,20,70,East-northeast,80,39,0.01,7,High,6:16 am,6:41 pm,2026-08-26 01:42:04+00:00
+Honolulu,Usa,2026-09-08,Tue,83,70,28.3,21.1,13,Isolated tstorms. Scattered clouds.,87,24,60,East-northeast,80,57,0.11,5,Moderate,6:16 am,6:40 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-26,Wed,100,80,37.8,26.7,20,Mostly sunny.,106,5,160,South-southeast,40,5,0.0,7,High,6:55 am,7:50 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-27,Thu,99,81,37.2,27.2,18,Broken clouds.,105,6,210,South-southwest,41,21,0.02,5,Moderate,6:56 am,7:49 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-28,Fri,96,79,35.6,26.1,17,Partly cloudy.,105,4,60,East-northeast,49,3,0.0,5,Moderate,6:56 am,7:48 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-29,Sat,97,77,36.1,25.0,20,Sunny.,103,4,70,East-northeast,42,0,0.0,7,High,6:57 am,7:47 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-30,Sun,96,76,35.6,24.4,20,Afternoon clouds.,100,8,110,East-southeast,42,0,0.0,5,Moderate,6:57 am,7:45 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-08-31,Mon,94,77,34.4,25.0,17,Scattered clouds.,101,10,140,Southeast,51,2,0.0,7,High,6:58 am,7:44 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-01,Tue,93,78,33.9,25.6,15,Afternoon clouds.,101,11,120,East-southeast,58,2,0.0,7,High,6:58 am,7:43 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-02,Wed,96,82,35.6,27.8,14,Cloudy.,99,8,130,Southeast,38,5,0.0,3,Moderate,6:59 am,7:42 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-03,Thu,93,83,33.9,28.3,10,Tstorms early. Cloudy.,99,10,120,East-southeast,46,82,0.03,3,Moderate,6:59 am,7:41 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-04,Fri,93,82,33.9,27.8,11,Thundershowers. Overcast.,118,10,120,East-southeast,72,57,0.07,3,Moderate,7:00 am,7:39 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-05,Sat,97,86,36.1,30.0,11,Thunderstorms. Cloudy.,145,5,80,East,80,99,0.73,3,Moderate,7:00 am,7:38 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-06,Sun,100,88,37.8,31.1,12,Broken clouds.,108,11,150,South-southeast,40,6,0.0,3,Moderate,7:01 am,7:37 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-07,Mon,100,88,37.8,31.1,12,Mostly sunny.,108,11,140,Southeast,40,6,0.0,7,High,7:01 am,7:36 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-08,Tue,100,87,37.8,30.6,13,Sunny.,108,10,130,Southeast,41,5,0.0,7,High,7:02 am,7:35 pm,2026-08-26 01:42:04+00:00
+Houston,Usa,2026-09-09,Wed,100,89,37.8,31.7,11,Mostly sunny.,114,11,120,East-southeast,48,4,0.0,3,Moderate,7:03 am,7:33 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-26,Wed,84,59,28.9,15.0,25,Isolated tstorms late. Mostly cloudy.,84,7,220,Southwest,53,58,0.2,3,Moderate,7:07 am,8:24 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-27,Thu,82,66,27.8,18.9,16,Isolated tstorms. Partly cloudy.,83,6,0,North,56,65,0.14,3,Moderate,7:08 am,8:23 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-28,Fri,80,62,26.7,16.7,18,Sunny.,80,7,50,Northeast,47,0,0.0,5,Moderate,7:09 am,8:21 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-29,Sat,82,60,27.8,15.6,22,Overcast.,82,5,120,East-southeast,50,0,0.0,3,Moderate,7:09 am,8:20 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-30,Sun,88,61,31.1,16.1,27,Mostly cloudy.,88,11,210,South-southwest,50,0,0.0,3,Moderate,7:10 am,8:18 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-08-31,Mon,90,70,32.2,21.1,20,Mostly sunny.,92,10,240,West-southwest,51,0,0.0,5,Moderate,7:11 am,8:17 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-01,Tue,88,71,31.1,21.7,17,Showers late. Partly cloudy.,90,8,240,West-southwest,58,17,0.06,5,Moderate,7:12 am,8:15 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-02,Wed,90,71,32.2,21.7,19,Sunny.,91,6,220,Southwest,44,5,0.0,5,Moderate,7:13 am,8:14 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-03,Thu,90,72,32.2,22.2,18,Sunny.,90,8,200,South-southwest,41,5,0.0,5,Moderate,7:14 am,8:12 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-04,Fri,90,72,32.2,22.2,18,Isolated tstorms. Partly cloudy.,91,8,190,South,42,51,0.04,3,Moderate,7:15 am,8:10 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-05,Sat,90,71,32.2,21.7,19,Isolated tstorms late. Increasing cloudiness.,96,7,220,Southwest,54,60,0.11,3,Moderate,7:16 am,8:09 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-06,Sun,89,71,31.7,21.7,18,Thundershowers. Morning clouds.,112,7,210,South-southwest,86,99,0.43,3,Moderate,7:17 am,8:07 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-07,Mon,90,71,32.2,21.7,19,Mostly sunny.,95,14,210,South-southwest,54,7,0.0,3,Moderate,7:18 am,8:06 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-08,Tue,90,71,32.2,21.7,19,Thundershowers. Overcast.,99,6,250,West-southwest,63,80,0.35,3,Moderate,7:19 am,8:04 pm,2026-08-26 01:42:04+00:00
+Indianapolis,Usa,2026-09-09,Wed,93,74,33.9,23.3,19,Isolated tstorms late. Broken clouds.,111,4,140,Southeast,65,17,0.01,0,Low,7:20 am,8:02 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-26,Wed,93,77,33.9,25.0,16,Showers late. Scattered clouds.,103,5,110,East-southeast,58,51,0.13,5,Moderate,6:34 am,7:29 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-27,Thu,89,78,31.7,25.6,11,Thundershowers. Overcast.,98,7,20,North-northeast,69,77,0.17,3,Moderate,6:34 am,7:28 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-28,Fri,89,77,31.7,25.0,12,Thundershowers. Overcast.,96,8,200,South-southwest,69,59,0.22,3,Moderate,6:35 am,7:27 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-29,Sat,87,76,30.6,24.4,11,Isolated tstorms. Overcast.,92,5,90,East,65,12,0.02,3,Moderate,6:35 am,7:26 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-30,Sun,89,76,31.7,24.4,13,Isolated tstorms. Mostly cloudy.,97,6,140,Southeast,66,45,0.11,3,Moderate,6:36 am,7:24 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-08-31,Mon,91,76,32.8,24.4,15,Scattered clouds.,101,9,120,East-southeast,64,5,0.0,7,High,6:36 am,7:23 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-01,Tue,91,76,32.8,24.4,15,Breaks of sun late.,101,6,60,East-northeast,63,3,0.0,5,Moderate,6:37 am,7:22 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-02,Wed,94,73,34.4,22.8,21,Mostly sunny.,94,7,80,East,44,5,0.0,5,Moderate,6:37 am,7:21 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-03,Thu,94,74,34.4,23.3,20,Broken clouds.,95,9,90,East,44,6,0.0,5,Moderate,6:38 am,7:20 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-04,Fri,95,74,35.0,23.3,21,Isolated tstorms late. Cloudy.,97,7,170,South,45,40,0.03,3,Moderate,6:39 am,7:18 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-05,Sat,99,74,37.2,23.3,25,A few tstorms. Cloudy.,107,8,140,Southeast,49,83,0.06,3,Moderate,6:39 am,7:17 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-06,Sun,99,74,37.2,23.3,25,Mostly cloudy.,108,7,90,East,49,5,0.0,5,Moderate,6:40 am,7:16 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-07,Mon,99,74,37.2,23.3,25,Partly cloudy.,106,5,90,East,48,5,0.0,5,Moderate,6:40 am,7:15 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-08,Tue,99,74,37.2,23.3,25,Sunny.,101,9,90,East,40,4,0.0,7,High,6:41 am,7:14 pm,2026-08-26 01:42:04+00:00
+New Orleans,Usa,2026-09-09,Wed,99,74,37.2,23.3,25,Sunny.,102,11,90,East,41,4,0.0,7,High,6:41 am,7:12 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-26,Wed,82,65,27.8,18.3,17,Partly cloudy.,82,6,210,South-southwest,45,2,0.0,3,Moderate,6:17 am,7:37 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-27,Thu,81,71,27.2,21.7,10,A few tstorms. Cloudy.,83,11,150,South-southeast,69,59,0.2,3,Moderate,6:18 am,7:36 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-28,Fri,81,72,27.2,22.2,9,Thundershowers. Overcast.,82,4,60,East-northeast,66,67,0.24,3,Moderate,6:19 am,7:34 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-29,Sat,80,67,26.7,19.4,13,Overcast.,80,5,230,Southwest,48,2,0.0,3,Moderate,6:20 am,7:32 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-30,Sun,83,66,28.3,18.9,17,Increasing cloudiness.,84,11,160,South-southeast,55,3,0.0,3,Moderate,6:21 am,7:31 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-08-31,Mon,87,72,30.6,22.2,15,Cloudy.,89,9,260,West,56,0,0.0,3,Moderate,6:22 am,7:29 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-01,Tue,87,75,30.6,23.9,12,Tstorms early. Overcast.,89,11,300,West-northwest,56,7,0.01,3,Moderate,6:23 am,7:28 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-02,Wed,89,75,31.7,23.9,14,Mostly cloudy.,95,9,140,Southeast,53,40,0.0,3,Moderate,6:24 am,7:26 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-03,Thu,83,73,28.3,22.8,10,Showers late. Cloudy.,85,8,150,South-southeast,64,53,0.01,3,Moderate,6:25 am,7:24 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-04,Fri,87,70,30.6,21.1,17,Scattered clouds.,83,8,200,South-southwest,51,6,0.0,3,Moderate,6:26 am,7:23 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-05,Sat,88,71,31.1,21.7,17,Isolated tstorms late. Mostly cloudy.,83,7,190,South,48,89,0.12,0,Low,6:27 am,7:21 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-06,Sun,87,71,30.6,21.7,16,Thundershowers. Morning clouds.,87,6,190,South,58,90,0.15,3,Moderate,6:28 am,7:19 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-07,Mon,87,72,30.6,22.2,15,Partly cloudy.,84,6,220,Southwest,44,50,0.01,3,Moderate,6:29 am,7:18 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-08,Tue,88,72,31.1,22.2,16,Isolated tstorms late. Afternoon clouds.,85,8,220,Southwest,43,56,0.03,3,Moderate,6:29 am,7:16 pm,2026-08-26 01:42:04+00:00
+New York,Usa,2026-09-09,Wed,88,72,31.1,22.2,16,Sunny.,82,15,320,Northwest,23,6,0.0,5,Moderate,6:30 am,7:14 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-26,Wed,85,62,29.4,16.7,23,Afternoon clouds.,84,5,220,Southwest,45,0,0.0,5,Moderate,6:22 am,7:41 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-27,Thu,85,70,29.4,21.1,15,Isolated tstorms. Cloudy.,89,11,190,South,60,62,0.13,3,Moderate,6:23 am,7:39 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-28,Fri,83,71,28.3,21.7,12,Thundershowers. Overcast.,84,4,260,West,64,57,0.13,3,Moderate,6:24 am,7:38 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-29,Sat,82,67,27.8,19.4,15,Overcast.,82,2,320,Northwest,52,0,0.0,3,Moderate,6:25 am,7:36 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-30,Sun,86,66,30.0,18.9,20,Increasing cloudiness.,88,7,210,South-southwest,57,0,0.0,3,Moderate,6:26 am,7:35 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-08-31,Mon,90,71,32.2,21.7,19,Cloudy.,94,9,270,West,52,0,0.0,3,Moderate,6:27 am,7:33 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-01,Tue,90,74,32.2,23.3,16,Isolated tstorms late. Overcast.,92,8,290,West-northwest,57,9,0.02,3,Moderate,6:28 am,7:31 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-02,Wed,92,73,33.3,22.8,19,Showers early. Partly cloudy.,91,4,20,North-northeast,34,42,0.03,5,Moderate,6:29 am,7:30 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-03,Thu,84,75,28.9,23.9,9,Cloudy.,88,8,110,East-southeast,62,6,0.0,3,Moderate,6:30 am,7:28 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-04,Fri,88,72,31.1,22.2,16,Morning clouds.,91,8,220,Southwest,53,6,0.0,3,Moderate,6:31 am,7:27 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-05,Sat,90,73,32.2,22.8,17,Isolated tstorms late. Overcast.,88,7,220,Southwest,45,45,0.02,3,Moderate,6:32 am,7:25 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-06,Sun,88,73,31.1,22.8,15,A few tstorms. Morning clouds.,88,7,260,West,45,73,0.1,5,Moderate,6:33 am,7:23 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-07,Mon,87,73,30.6,22.8,14,Scattered clouds.,88,9,280,West,43,48,0.01,3,Moderate,6:34 am,7:22 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-08,Tue,89,73,31.7,22.8,16,Isolated tstorms late. Afternoon clouds.,87,8,260,West,40,51,0.02,3,Moderate,6:35 am,7:20 pm,2026-08-26 01:42:04+00:00
+Philadelphia,Usa,2026-09-09,Wed,89,73,31.7,22.8,16,Mostly sunny.,84,11,320,Northwest,24,39,0.0,5,Moderate,6:36 am,7:19 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-25,Tue,114,89,45.6,31.7,25,Sunny.,110,6,300,West-northwest,13,0,0.0,7,High,5:57 am,7:02 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-26,Wed,115,89,46.1,31.7,26,Afternoon clouds.,110,7,260,West,12,0,0.0,5,Moderate,5:58 am,7:01 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-27,Thu,112,88,44.4,31.1,24,Cloudy.,110,5,280,West,16,1,0.0,3,Moderate,5:59 am,6:59 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-28,Fri,112,89,44.4,31.7,23,Broken clouds.,110,7,280,West,16,21,0.0,5,Moderate,5:59 am,6:58 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-29,Sat,108,89,42.2,31.7,19,Passing showers. Cloudy.,108,10,290,West-northwest,21,23,0.04,3,Moderate,6:00 am,6:57 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-30,Sun,100,83,37.8,28.3,17,Thundershowers. Broken clouds.,102,4,320,Northwest,30,51,0.19,3,Moderate,6:01 am,6:55 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-08-31,Mon,102,83,38.9,28.3,19,Sunny.,101,6,210,South-southwest,29,39,0.04,7,High,6:01 am,6:54 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-01,Tue,105,86,40.6,30.0,19,Increasing cloudiness.,105,7,250,West-southwest,24,2,0.0,3,Moderate,6:02 am,6:53 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-02,Wed,102,89,38.9,31.7,13,Mostly sunny.,98,9,240,West-southwest,16,3,0.0,7,High,6:03 am,6:52 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-03,Thu,100,89,37.8,31.7,11,Overcast.,97,6,240,West-southwest,21,5,0.0,3,Moderate,6:03 am,6:50 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-04,Fri,100,89,37.8,31.7,11,Morning clouds.,98,8,230,Southwest,23,6,0.0,7,High,6:04 am,6:49 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-05,Sat,102,91,38.9,32.8,11,Sunny.,101,11,190,South,21,83,0.04,7,High,6:05 am,6:48 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-06,Sun,102,92,38.9,33.3,10,Sunny.,101,9,190,South,20,6,0.0,7,High,6:05 am,6:46 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-07,Mon,103,92,39.4,33.3,11,Sunny.,102,7,230,Southwest,20,6,0.0,7,High,6:06 am,6:45 pm,2026-08-26 01:42:04+00:00
+Phoenix,Usa,2026-09-08,Tue,103,93,39.4,33.9,10,Sunny.,99,7,240,West-southwest,15,5,0.0,7,High,6:07 am,6:43 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-25,Tue,93,69,33.9,20.6,24,Afternoon clouds.,89,8,320,Northwest,23,3,0.0,3,Moderate,6:47 am,8:10 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-26,Wed,95,72,35.0,22.2,23,Cloudy.,91,9,310,Northwest,20,23,0.01,3,Moderate,6:48 am,8:09 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-27,Thu,96,72,35.6,22.2,24,Showers late. Afternoon clouds.,90,9,290,West-northwest,23,23,0.03,5,Moderate,6:49 am,8:07 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-28,Fri,90,72,32.2,22.2,18,Thundershowers. Overcast.,86,8,310,Northwest,25,46,0.06,3,Moderate,6:50 am,8:05 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-29,Sat,80,66,26.7,18.9,14,A few tstorms. Overcast.,79,6,320,Northwest,43,51,0.27,3,Moderate,6:51 am,8:04 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-30,Sun,84,66,28.9,18.9,18,Rain showers. Broken clouds.,82,6,320,Northwest,36,64,0.3,3,Moderate,6:52 am,8:02 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-08-31,Mon,88,65,31.1,18.3,23,Isolated tstorms late. Afternoon clouds.,84,24,210,South-southwest,25,46,0.04,3,Moderate,6:53 am,8:01 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-01,Tue,89,67,31.7,19.4,22,Sunny.,84,13,310,Northwest,19,2,0.0,5,Moderate,6:54 am,7:59 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-02,Wed,87,69,30.6,20.6,18,Mostly sunny.,83,8,310,Northwest,14,2,0.0,5,Moderate,6:55 am,7:57 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-03,Thu,87,67,30.6,19.4,20,Sunny.,83,9,310,Northwest,13,1,0.0,5,Moderate,6:56 am,7:56 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-04,Fri,90,64,32.2,17.8,26,Sunny.,84,8,310,Northwest,13,2,0.0,5,Moderate,6:57 am,7:54 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-05,Sat,89,66,31.7,18.9,23,Increasing cloudiness.,84,6,300,West-northwest,11,6,0.0,5,Moderate,6:58 am,7:52 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-06,Sun,89,65,31.7,18.3,24,Scattered clouds.,84,15,280,West,12,6,0.0,5,Moderate,6:59 am,7:51 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-07,Mon,91,66,32.8,18.9,25,Morning clouds.,85,8,310,Northwest,18,6,0.0,5,Moderate,7:00 am,7:49 pm,2026-08-26 01:42:04+00:00
+Salt Lake City,Usa,2026-09-08,Tue,90,66,32.2,18.9,24,Sunny.,85,22,190,South,8,4,0.0,5,Moderate,7:01 am,7:48 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-26,Wed,91,80,32.8,26.7,11,Isolated tstorms. Overcast.,109,6,280,West,74,85,0.3,3,Moderate,5:38 am,6:18 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-27,Thu,90,80,32.2,26.7,10,Passing showers. Overcast.,105,5,310,Northwest,74,60,0.07,3,Moderate,5:38 am,6:17 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-28,Fri,93,79,33.9,26.1,14,Isolated tstorms. Overcast.,110,2,10,North,68,55,0.13,5,Moderate,5:39 am,6:16 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-29,Sat,86,79,30.0,26.1,7,Thunderstorms. Overcast.,97,8,290,West-northwest,83,97,1.44,3,Moderate,5:39 am,6:15 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-30,Sun,92,78,33.3,25.6,14,Isolated tstorms. Overcast.,106,5,330,North-northwest,66,78,0.56,3,Moderate,5:39 am,6:14 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-08-31,Mon,83,74,28.3,23.3,9,Passing showers. Overcast.,85,8,20,North-northeast,76,53,0.17,3,Moderate,5:39 am,6:13 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-01,Tue,84,74,28.9,23.3,10,Passing showers. Overcast.,88,6,30,North-northeast,78,22,0.04,3,Moderate,5:40 am,6:12 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-02,Wed,90,76,32.2,24.4,14,Isolated tstorms late. Cloudy.,90,3,0,North,58,52,0.03,5,Moderate,5:40 am,6:11 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-03,Thu,91,78,32.8,25.6,13,Afternoon clouds.,97,4,250,West-southwest,54,5,0.0,5,Moderate,5:40 am,6:11 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-04,Fri,91,78,32.8,25.6,13,Sunny.,94,3,310,Northwest,46,4,0.0,7,High,5:40 am,6:10 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-05,Sat,91,78,32.8,25.6,13,Sunny.,92,3,40,Northeast,42,6,0.0,7,High,5:41 am,6:09 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-06,Sun,91,78,32.8,25.6,13,Mostly sunny.,92,5,20,North-northeast,42,40,0.01,7,High,5:41 am,6:08 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-07,Mon,91,77,32.8,25.0,14,Increasing cloudiness.,102,6,100,East,58,46,0.02,5,Moderate,5:41 am,6:07 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-08,Tue,95,80,35.0,26.7,15,Sunny.,111,5,60,East-northeast,56,6,0.0,5,Moderate,5:41 am,6:06 pm,2026-08-26 01:42:04+00:00
+Hanoi,Vietnam,2026-09-09,Wed,96,82,35.6,27.8,14,Sunny.,107,3,320,Northwest,49,6,0.0,7,High,5:42 am,6:05 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-26,Wed,81,49,27.2,9.4,32,Sunny.,78,9,50,Northeast,14,0,0.0,7,High,6:07 am,5:47 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-27,Thu,78,49,25.6,9.4,29,Sunny.,76,12,60,East-northeast,15,0,0.0,7,High,6:06 am,5:47 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-28,Fri,74,46,23.3,7.8,28,Sunny.,75,12,50,Northeast,20,0,0.0,7,High,6:06 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-29,Sat,75,47,23.9,8.3,28,Increasing cloudiness.,77,15,20,North-northeast,28,0,0.0,7,High,6:05 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-30,Sun,78,51,25.6,10.6,27,Sunny.,78,7,20,North-northeast,28,0,0.0,7,High,6:04 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-08-31,Mon,84,55,28.9,12.8,29,Sunny.,81,8,60,East-northeast,23,0,0.0,7,High,6:03 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-01,Tue,83,59,28.3,15.0,24,Sunny.,80,14,60,East-northeast,21,0,0.0,7,High,6:03 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-02,Wed,85,58,29.4,14.4,27,Sunny.,82,9,50,Northeast,16,2,0.0,7,High,6:02 am,5:48 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-03,Thu,86,61,30.0,16.1,25,Sunny.,83,6,60,East-northeast,15,2,0.0,7,High,6:01 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-04,Fri,86,62,30.0,16.7,24,Sunny.,83,9,130,Southeast,14,4,0.0,7,High,6:00 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-05,Sat,86,62,30.0,16.7,24,Mostly cloudy.,84,13,30,North-northeast,37,6,0.0,5,Moderate,5:59 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-06,Sun,83,60,28.3,15.6,23,Mostly sunny.,80,9,120,East-southeast,23,5,0.0,7,High,5:59 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-07,Mon,82,58,27.8,14.4,24,Sunny.,80,2,70,East-northeast,16,3,0.0,7,High,5:58 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-08,Tue,83,58,28.3,14.4,25,Sunny.,80,5,50,Northeast,14,3,0.0,7,High,5:57 am,5:49 pm,2026-08-26 01:42:04+00:00
+Harare,Zimbabwe,2026-09-09,Wed,85,59,29.4,15.0,26,Sunny.,82,13,30,North-northeast,18,3,0.0,7,High,5:56 am,5:49 pm,2026-08-26 01:42:04+00:00
