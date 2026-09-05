@@ -58,6 +58,32 @@ Both scripts log every step with elapsed time.
 `data/raw/` holds the unparsed values (`"82 / 76 °F"`, `"89%"`) so the cleaning step is
 reproducible and auditable.
 
+## Database
+
+```bash
+python load_weather_db.py      # writes data/weather.db from data/processed/*.csv
+```
+
+Two tables, one per CSV. The city and the country appear once per city instead
+of once per row: `cities` holds them, and every forecast row points back through
+`city_id`.
+
+| Table | Key columns |
+| --- | --- |
+| `cities` | `city_id` primary key, `UNIQUE (city, country)` |
+| `forecast` | `city_id` foreign key, `UNIQUE (city_id, forecast_date)` |
+
+```sql
+SELECT cities.city, cities.country, forecast.forecast_date, forecast.temp_high_f
+FROM forecast
+JOIN cities ON forecast.city_id = cities.city_id
+ORDER BY forecast.temp_high_f DESC
+LIMIT 5;
+```
+
+Each run reloads the current snapshot, so the database always matches the CSVs.
+The file itself is git ignored - rebuild it with the command above.
+
 ## Scraping policy
 
 `timeanddate.com/robots.txt` allows `/weather/`. The disallowed paths
@@ -68,6 +94,5 @@ city list in a single request rather than one per city, and runs on demand only.
 ## Roadmap
 
 - [x] Week 1 — scraping and data cleaning
-- [ ] Week 2 — load into SQLite
-- [ ] Week 3 — command line query tool
-- [ ] Week 4 — Streamlit dashboard
+- [x] Week 2 — load into SQLite
+
