@@ -101,6 +101,17 @@ CREATE TABLE IF NOT EXISTS forecast (
 )
 """
 
+# Indexes for the queries the data is actually read by. The lookups on city_id
+# need none of their own: the UNIQUE (city_id, forecast_date) index already
+# starts with that column, so SQLite uses it as its prefix.
+CREATE_INDEXES = [
+    # "the forecast of one date across all cities" - the unique index cannot
+    # serve this one, the date is its second column
+    "CREATE INDEX IF NOT EXISTS idx_forecast_date ON forecast (forecast_date)",
+    # "all the cities of one country"
+    "CREATE INDEX IF NOT EXISTS idx_cities_country ON cities (country)",
+]
+
 START_TIME = time()
 
 
@@ -183,7 +194,10 @@ def main():
 
             conn.execute(CREATE_CITIES)
             conn.execute(CREATE_FORECAST)
-            log("SCHEMA", "cities and forecast are in place")
+            for create_index in CREATE_INDEXES:
+                conn.execute(create_index)
+            log("SCHEMA", f"cities and forecast are in place, "
+                          f"{len(CREATE_INDEXES)} indexes created")
 
             # The forecast is emptied first: its rows reference the cities, so
             # they cannot outlive them.
@@ -216,6 +230,48 @@ def main():
                 FROM forecast
                 JOIN cities ON forecast.city_id = cities.city_id
                 ORDER BY forecast.temp_high_f DESC
+                LIMIT 5
+            """)
+
+            # A summary the CSVs cannot give directly: the forecast grouped by
+            # country. HAVING drops the countries represented by a single city,
+            # because an average over one city says nothing about the country.
+            print_query(conn, "Forecast by country, more than one city only", """
+                SELECT cities.country,
+                       COUNT(DISTINCT cities.city_id) AS cities,
+                       ROUND(AVG(forecast.temp_high_f), 1) AS avg_high_f,
+                       MIN(forecast.temp_low_f) AS min_low_f,
+                       MAX(forecast.temp_high_f) AS max_high_f
+                FROM forecast
+                JOIN cities ON forecast.city_id = cities.city_id
+                GROUP BY cities.country
+                HAVING COUNT(DISTINCT cities.city_id) > 1
+                ORDER BY avg_high_f DESC
+                LIMIT 5
+            """)
+
+            # The hottest day of every city. RANK numbers the days of each city
+            # separately, so rank 1 is that city's own peak - a plain ORDER BY
+            # with LIMIT would only ever return the hottest cities. Days that
+            # tie share rank 1, so a city with two equally hot days shows up
+            # twice; ROW_NUMBER would have picked one of them arbitrarily.
+            print_query(conn, "The hottest day of each city (first five)", """
+                WITH ranked_days AS (
+                    SELECT cities.city,
+                           cities.country,
+                           forecast.forecast_date,
+                           forecast.temp_high_f,
+                           RANK() OVER (
+                               PARTITION BY cities.city_id
+                               ORDER BY forecast.temp_high_f DESC
+                           ) AS day_rank
+                    FROM forecast
+                    JOIN cities ON forecast.city_id = cities.city_id
+                )
+                SELECT city, country, forecast_date, temp_high_f
+                FROM ranked_days
+                WHERE day_rank = 1
+                ORDER BY temp_high_f DESC
                 LIMIT 5
             """)
     except sqlite3.Error as e:

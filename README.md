@@ -81,6 +81,15 @@ ORDER BY forecast.temp_high_f DESC
 LIMIT 5;
 ```
 
+Two indexes are created for the way the data is read: `forecast (forecast_date)`
+for one date across all cities, and `cities (country)` for one country. Lookups
+by `city_id` need no index of their own - the `UNIQUE (city_id, forecast_date)`
+index already starts with that column.
+
+The loader also prints three summaries built with SQL rather than Pandas: the
+five hottest days, the forecast grouped by country, and the hottest day of each
+city ranked with a window function.
+
 Each run reloads the current snapshot, so the database always matches the CSVs.
 The file itself is git ignored - rebuild it with the command above.
 
