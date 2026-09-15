@@ -1,3 +1,6 @@
+# Runtime dependencies of the dashboard. Streamlit Community Cloud installs
+# this file, so it holds only what the deployed app needs. The scraper has its
+# own file, requirements-scrape.txt.
+streamlit==1.63.0
 pandas==3.0.5
-selenium==4.47.0
-webdriver-manager==4.1.2
+plotly==7.0.0

@@ -9,10 +9,14 @@ pandas, and stores it as CSV. Capstone project for Code the Dream Python 100.
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt          # dashboard: streamlit, pandas, plotly
+pip install -r requirements-scrape.txt   # adds selenium for the scraper
 ```
 
-Chrome must be installed; the matching driver is downloaded automatically.
+The dependencies are split because Streamlit Community Cloud installs
+`requirements.txt` on every deploy, and the deployed dashboard never scrapes.
+Only the scraper needs Chrome installed; the matching driver is downloaded
+automatically.
 
 ## Usage
 
@@ -93,6 +97,32 @@ city ranked with a window function.
 Each run reloads the current snapshot, so the database always matches the CSVs.
 The file itself is git ignored - rebuild it with the command above.
 
+## Dashboard
+
+```bash
+streamlit run streamlit_app.py
+```
+
+![The dashboard](docs/dashboard.png)
+
+Four charts over the database, all reacting to the filters in the sidebar:
+
+| Chart | Question it answers |
+| --- | --- |
+| Current temperature by city | where is it hot right now |
+| Forecast for one city | how the next two weeks look |
+| Humidity against temperature | which cities are hot and dry, which are cool and damp |
+| Chance of precipitation, city by day | where and when rain is expected |
+
+The sidebar filters by country and by current temperature, picks the city for
+the forecast chart, and narrows the forecast date range. A headline row shows
+how many cities and countries are in the selection, with the hottest and
+coldest of them.
+
+The database is not in git, so on a fresh checkout the app rebuilds it from
+`data/processed/*.csv` the first time it loads - which is exactly what happens
+on Streamlit Community Cloud.
+
 ## Scraping policy
 
 `timeanddate.com/robots.txt` allows `/weather/`. The disallowed paths
@@ -104,4 +134,5 @@ city list in a single request rather than one per city, and runs on demand only.
 
 - [x] Week 1 — scraping and data cleaning
 - [x] Week 2 — load into SQLite
+- [x] Week 3 — Streamlit dashboard
 
