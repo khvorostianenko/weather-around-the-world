@@ -1,0 +1,6 @@
+# Extra dependencies for scrape_weather.py, which runs on a developer machine
+# with Chrome installed. The deployed dashboard never scrapes, so these are kept
+# out of requirements.txt.
+-r requirements.txt
+selenium==4.47.0
+webdriver-manager==4.1.2

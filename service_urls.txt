@@ -1,0 +1,2 @@
+Streamlit Community Cloud deployment of the dashboard:
+https://weather-around-the-world-vocqhsyk7x4y9mfhmr89sc.streamlit.app/
