@@ -99,6 +99,10 @@ The file itself is git ignored - rebuild it with the command above.
 
 ## Dashboard
 
+**Live app:** https://weather-around-the-world-vocqhsyk7x4y9mfhmr89sc.streamlit.app/
+
+Run it locally with:
+
 ```bash
 streamlit run streamlit_app.py
 ```
